@@ -1,0 +1,22 @@
+<footer>
+  <div class="row justify-content-center">
+    <div class="col-md-5 text-center">
+      <a href="{{ site.data.info.rickroll }}"><img src="{{ site.baseurl }}/assets/img/I.png"><img src="{{ site.baseurl }}/assets/img/stat100.png"></a>
+      <p>{{ site.description }}</p>
+      <strong>Contact Us</strong>
+      <p>
+        {% for instructor in site.data.info.instructors %}
+          <a href="mailto:{{ instructor.email }}">Email {{ instructor.name }}</a><br>
+        {% endfor %}
+      </p>
+
+      <strong>Visit Us</strong><br>
+      {% for visit in site.data.info.visit %}
+        <a href="{{ visit.url }}" target="_blank">{{ visit.name }}</a><br>
+      {% endfor %}
+
+    </div>
+    <hr class="socket">
+    <span style="padding: 0 10px;">&copy; University of Illinois Board of Trustees  |  Developed and Maintained by <a href="https://wjonasreger.github.io/website/" target="_blank">W. Jonas Reger</a>.</span>
+  </div>
+</footer>

@@ -1,0 +1,42 @@
+{% assign teamNames = '' %}
+{% for person in site.data.staff.staff %}
+  {% assign personName = person.name %}
+  {% assign twoNames = personName | split: ' ' %}
+  {% assign lastName = twoNames[0] %}
+  {% assign teamNames = teamNames | append: '_' | append: lastName %}
+{% endfor %}
+
+{% assign teamArray = teamNames | split: '_' %}
+{% assign teamSorted = teamArray | sort %}
+
+{% for name in teamSorted %}
+  {% for Operson in site.data.staff.staff %}
+    {% assign OpersonName = Operson.name %}
+    {% assign OtwoNames = OpersonName | split: ' ' %}
+    {% assign OlastName = OtwoNames[0] %}
+    {% if OlastName == name %}
+      {% if Operson.role == include.role %}
+        {% if Operson.seniority == include.seniority %}
+          <div class="col-xl-3 col-sm-6 mb-5">
+            <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><a href="{{ site.data.info.rickroll }}"><img src="{{ site.baseurl }}/assets/img/staff-photos/{{ Operson.netid }}.jpg" onerror="this.src='{{ site.baseurl }}/assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-3 img-thumbnail shadow-sm"></a>
+              <h5 class="mb-0">{{ Operson.name }}</h5>
+              <h6 class="mb-0">{{ Operson.role }}</h6>
+              {% if Operson.major != '' %}
+                <h6 class="mb-0"><i>{{ Operson.major }}</i></h6>
+              {% endif %}
+              {% if Operson.email != '' %}
+                <h6 class="mb-0"><a href="mailto:{{ Operson.email }}">{{ Operson.email }}</a></h6>
+              {% endif %}
+              <div class="feature">
+                <button type="button" class="btn" data-toggle="collapse" data-target="#{{ Operson.netid }}"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
+                <div id="{{ Operson.netid }}" class="collapse">
+                  <p style="padding-top: 2em;">{{ Operson.bio }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}

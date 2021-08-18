@@ -1,0 +1,78 @@
+{% for exam in site.data.info.exams %}
+
+<h2>{{ exam.name }}</h2>
+
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <tr>
+      <th>Blank Exams</th>
+      <th>Answer Keys</th>
+    </tr>
+    <tr>
+      <td>
+        {% if exam.show-exams != "FF" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.fourth }}{{ exam.base-name }}.pdf" target="\_blank">Notebook Practice Exam: {{ exam.full4 }} {{ exam.name }}</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full4 }} {{ exam.name }}</span>
+        {% endif %}
+      </td>
+      <td>
+        {% if exam.show-exams != "FF" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.fourth }}{{ exam.base-name }}Key.pdf" target="\_blank">Notebook Practice Exam Key: {{ exam.full4 }} {{ exam.name }} Key</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full4 }} {{ exam.name }} Key</span>
+        {% endif %}
+      </td>
+    </tr>
+    <tr>
+      <td>
+        {% if exam.show-exams == "T" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.first }}{{ exam.base-name }}.pdf" target="\_blank">{{ exam.full1 }} {{ exam.name }}</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full1 }} {{ exam.name }}</span>
+        {% endif %}
+      </td>
+      <td>
+        {% if exam.show-exams == "T" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.first }}{{ exam.base-name }}Key.pdf" target="\_blank">{{ exam.full1 }} {{ exam.name }} Key</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full1 }} {{ exam.name }} Key</span>
+        {% endif %}
+      </td>
+    </tr>
+    <tr>
+      <td>
+        {% if exam.show-exams == "T" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.second }}{{ exam.base-name }}.pdf" target="\_blank">{{ exam.full2 }} {{ exam.name }}</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full2 }} {{ exam.name }}</span>
+        {% endif %}
+      </td>
+      <td>
+        {% if exam.show-exams == "T" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.second }}{{ exam.base-name }}Key.pdf" target="\_blank">{{ exam.full2 }} {{ exam.name }} Key</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full2 }} {{ exam.name }} Key</span>
+        {% endif %}
+      </td>
+    </tr>
+    <tr>
+      <td>
+        {% if exam.show-exams == "T" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.third }}{{ exam.base-name }}.pdf" target="\_blank">{{ exam.full3 }} {{ exam.name }}</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full3 }} {{ exam.name }}</span>
+        {% endif %}
+      </td>
+      <td>
+        {% if exam.show-exams == "T" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/{{ exam.base-name }}/{{ exam.third }}{{ exam.base-name }}Key.pdf" target="\_blank">{{ exam.full3 }} {{ exam.name }} Key</a>
+        {% else %}
+        <span style="color: #a9a9a9;">{{ exam.full3 }} {{ exam.name }} Key</span>
+        {% endif %}
+      </td>
+    </tr>
+  </table>
+</div>
+
+{% endfor %}
