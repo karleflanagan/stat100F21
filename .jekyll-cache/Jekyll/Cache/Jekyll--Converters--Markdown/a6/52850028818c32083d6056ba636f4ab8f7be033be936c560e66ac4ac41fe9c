@@ -1,8 +1,8 @@
-I"Ï4<!-- landing photo page -->
+I"¦4<!-- landing photo page -->
 <!-- Start of Landing Page -->
 <div class="landing">
   <div class="home-wrap">
-    <div class="home-inner" style="background-image: url('/stat100F21/assets/img/stat100desk.jpg');">
+    <div class="home-inner" style="background-image: url('/assets/img/stat100desk.jpg');">
       <div class="layer">
       </div>
     </div>
@@ -93,7 +93,7 @@
       
         <div class="col-md-4">
           <h3>Canvas</h3>
-          <a class="btn btn-secondary btn-sm" href="http://canvas.illinois.edu/" target="\_blank" style="margin: 10px;">Lecture Videos, Exams, &amp; Grades</a>
+          <a class="btn btn-secondary btn-sm" href="http://canvas.illinois.edu/" target="\_blank" style="margin: 10px;">Lecture Videos &amp; Grades</a>
         </div>
       
         <div class="col-md-4">
@@ -146,7 +146,7 @@
     </div>
     <!-- background image for class link section -->
     <div class="fixed-wrap">
-      <div class="fixed" style="background-image: url('/stat100F21/assets/img/stat100book.jpg');">
+      <div class="fixed" style="background-image: url('/assets/img/stat100book.jpg');">
         <div class="layer">
         </div>
       </div>
@@ -305,7 +305,7 @@ Thanks for being an integral part of STAT 100 team!</cite>
     </div>
   </div>
   <div class="fixed-wrap">
-    <div class="fixed" style="background-image: url('/stat100F21/assets/img/stat100book.jpg');">
+    <div class="fixed" style="background-image: url('/assets/img/stat100book.jpg');">
       <div class="layer">
       </div>
     </div>

@@ -31,8 +31,10 @@ title: syllabus
 {% endfor %}
 </ul>
 
-## Course Webpage
-* <b><a href="https://karleflanagan.github.io/stat100F21/" target="\_blank">https://karleflanagan.github.io/stat100F21/</a></b>
+## Course Webpages
+* <b><a href="https://stat100website.web.illinois.edu/" target="\_blank">https://stat100website.web.illinois.edu/</a></b>
+* <b><a href="http://www.lon-capa.illinois.edu/" target="\_blank">Lon-Capa</a></b>
+* <b><a href="http://canvas.illinois.edu/" target="\_blank">Canvas</a></b>
   <!-- * <b><a href="{{ site.data.info.course-link1 }}" target="\_blank">{{ site.data.info.course-link1 }}</a></b>
     <br>You can also google "stat 100" :) -->
 

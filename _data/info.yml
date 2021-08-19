@@ -52,7 +52,7 @@ sections:
 
 # Office hours
 office-hours:
-  location: "Siebel Center for Design.  The room number is SCD 0060 and the room is in the basement.  Make sure you are going to the Siebel Center for DESIGN on south campus (not to be confused with the Siebel Center for Computer Science on north campus )."
+  location: "Siebel Center for Design.  The room number is SCD 0060 and the room is in the basement.  Make sure you are going to the Siebel Center for DESIGN on south campus (not to be confused with the Siebel Center for Computer Science on north campus)."
   link: "https://www.youtube.com/watch?v=wpV-gGA4PSk"
   days: "Monday-Friday"
   times: "2pm-4pm"
@@ -173,7 +173,7 @@ links1:
   url: "http://www.lon-capa.illinois.edu/"
 
 - title: "Canvas"
-  subtitle: "Lecture Videos, Exams, & Grades"
+  subtitle: "Lecture Videos & Grades"
   url: "http://canvas.illinois.edu/"
 
 - title: "Zoom"
