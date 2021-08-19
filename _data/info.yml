@@ -7,13 +7,16 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Hello Everyone!</li>
+    <li>Welcome to Stat 100!</li>
     <ul>
-      <li>Exam 3 scores are posted in Compass!</li>
-      <li>Check out the <a href="https://karleflanagan.github.io/stat100S21/pages/grade_calc.html">grade calculator</a> to see what you need to get on the final to get your desired grade in the class!</li>
-      <li>Office hours are this week Monday-Friday from 2-5pm and Tuesday from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by if you have any questions <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></li>
-      <li>Also, remember that we drop your 4 lowest HW grades at the end of the semester so you can miss 4 full HW assignments without any penalty!</li>
-      <li>Have a great week!</li>
+      <li>There are 2 sections of Stat 100 semester:</li>
+      <ul>
+        <li>Stat 100 In Person (Section: L1).  This section meets MWF from 10-10:50am each week in Lincoln Hall Theater.</li>
+        <li>Stat 100 Online (Section: ONL).  This section is asynchronous and does not meet in person or on zoom.  Instead, I’ll post videos on Canvas for you to watch each week.</li>
+      </ul>
+      <li>An email will be sent out on Thursday, August 19th for details about the first week of class &#128522;</li>
+      <li>Feel free to browse this website to get familiar with the course!</li>
+      <li>Looking forward to a great semester!!</li>
     </ul>
   </ul>
   </p>
@@ -30,10 +33,15 @@ instructors:
   email: "stat100@illinois.edu"
 
 sections:
+- name: "L1"
+  type: "In Person"
+  instructor: "Karle Flanagan"
+  times: "MWF from 10-10:50am"
+  location: "Lincoln Hall Theater"
 - name: "ONL"
   type: "Online"
   instructor: "Karle Flanagan"
-  times: "No assigned meeting times. Watch lecture videos on Compass."
+  times: "No assigned meeting times. Watch lecture videos on Canvas at any time that's convenient for you."
   location: "No in-person locations."
 
 # - name: ""
@@ -44,15 +52,15 @@ sections:
 
 # Office hours
 office-hours:
-  location: "Zoom"
-  link: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
+  location: "Siebel Center for Design.  The room number is SCD 0060 and the room is in the basement.  Make sure you are going to the Siebel Center for DESIGN on south campus (not to be confused with the Siebel Center for Computer Science on north campus )."
+  link: "https://www.youtube.com/watch?v=wpV-gGA4PSk"
   days: "Monday-Friday"
-  times: "2pm-5pm"
+  times: "2pm-4pm"
 
 # Course Materials
 textbook:
-  name: "Stat 100 Incomplete Lecture Notes Workbook."
-  edition: "Either the Fall 2020 or Spring 2021 editions (They are both green)"
+  name: "Stat 100 Incomplete Lecture Notes Workbook"
+  edition: "Please make sure to get the Fall 2021 version Published by Stipes"
   authors: "Ellen Fireman, Karle Flanagan, and John Marden"
   price: "$35"
 
@@ -70,11 +78,11 @@ exams:
 - name: "Exam 1"
   base-name: "Exam1"
   keys: ""
-  date: "Thursday, Feb. 18th, 2021"
-  time: "6-7:30pm"
+  date: "Wednesday, September 15th, 2021"
+  time: "7-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
-  show-exams: T
+  show-exams: FF
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -92,11 +100,11 @@ exams:
 - name: "Exam 2"
   base-name: "Exam2"
   keys: ""
-  date: "Thursday, March 18th, 2021"
-  time: "6-7:30pm"
+  date: "Wednesday, October 13th, 2021"
+  time: "7-8:30pm"
   content: "Chapter 6-Chapter 12"
   locations: ""
-  show-exams: T
+  show-exams: FF
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -114,11 +122,11 @@ exams:
 - name: "Exam 3"
   base-name: "Exam3"
   keys: ""
-  date: "Thursday, April 15th, 2021"
-  time: "6-7:30pm"
+  date: "Wednesday, November 10th, 2021"
+  time: "7-8:30pm"
   content: "Chapters 13-19"
   locations: ""
-  show-exams: T
+  show-exams: FF
   # exam-years:
   first: "S19" # Most recent semester
   full1: "Spring 2019"
@@ -130,7 +138,7 @@ exams:
   full4: "Fall 2019"
   conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
-show-finals: T
+show-finals: FF
 
 # # This is for code that builds the practice exams tables.
 # exam-years:
@@ -148,11 +156,11 @@ final-years:
   second: "S12"
 
 uiucfinals: "https://registrar.illinois.edu/spring-2020-non-combined-scheduling-guidelines/"
-final-deadline: "May 5th (the last day of class) at 11:59pm!"
+final-deadline: "December 8th (the last day of class) at 11:59pm!"
 
 grade-calc: T
 
-pr-exam-link: "https://karleflanagan.github.io/stat100S21/pages/practice_exams.html"
+pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
 
 
@@ -164,17 +172,17 @@ links1:
   subtitle: "Homework & Bonus work"
   url: "http://www.lon-capa.illinois.edu/"
 
-- title: "Compass2g"
+- title: "Canvas"
   subtitle: "Lecture Videos, Exams, & Grades"
-  url: "https://compass2g.illinois.edu/"
+  url: "http://canvas.illinois.edu/"
 
 - title: "Zoom"
   subtitle: "Office Hours"
-  url: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
+  url: "https://www.youtube.com/watch?v=wpV-gGA4PSk"
 
-- title: "Piazza"
-  subtitle: "Discussion Board"
-  url: "https://piazza.com/illinois/spring2021/stat100onl"
+# - title: "Piazza"
+#   subtitle: "Discussion Board"
+#   url: "https://piazza.com/illinois/spring2021/stat100onl"
 
 # Data program links
 links2:

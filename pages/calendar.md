@@ -8,7 +8,7 @@ title: Calendar
 
 <div class="calendar-head">
   <h1 style="text-align:center;">
-    Calendar {{ site.semester }}: {{ site.short-title }} Online
+    Calendar {{ site.semester }}: {{ site.short-title }} All Sections
   </h1>
   <h3 style="text-align:center;">
     Color Key: <span style="color:red;">Red-Required Work</span>, <span style="color:blue;">Blue-Optional Work</span>

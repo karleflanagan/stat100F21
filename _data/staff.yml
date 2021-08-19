@@ -30,15 +30,6 @@ staff:
   bio: >-
     Hi! My name is Catherine Arreazola and I’m a junior in advertising! I loved Stat 100 and how statistics can be applied to so many majors. I’m always happy to help so don’t be shy to come to office hours. A little more about me: I love to paint, exercise, and watch hockey! I also love murder mystery shows, especially Castle.
 
-- name: "Riley Burgoon"
-  netid: "burgoon4"
-  role: "Course Assistant"
-  seniority: "4"
-  major: "Kinesiology"
-  email: ""
-  bio: >-
-    Hi! My name is Riley Burgoon and I am a sophomore majoring in Kinesiology. Eventually I want to work in Prosthetics/Orthotics. I loved Stat 100 when I took it my freshman year, and I hope to help make sure that all students have a great experience in the course! Some other things about me: I play the French horn, I have a very cute dog named Tonka, and my favorite TV show is New Girl! 
-
 - name: "Tamun Hanjra"
   netid: "thanjra2"
   role: "Course Assistant"
@@ -75,15 +66,6 @@ staff:
   bio: >-
     My name is Miah Phillips and I'm a Junior on a pre-dental track! Stat 100 was my favorite class I've ever taken, so I knew I wanted to become more involved with it! Other things about me: I am obsessed with my dog (please ask to see pictures), I am from a small town 30 minutes south of campus named Tuscola, and I watch an unhealthy amount of Friends!
 
-- name: "Atharv Pathak"
-  netid: "atharvp2"
-  role: "Course Assistant"
-  seniority: "3"
-  major: "Statistics & Aerospace Engineering"
-  email: ""
-  bio: >-
-    Hello my name is Atharv Pathak and I'm a junior in Statistics and Aerospace Engineer! I really loved Stat 200, which is why I decided to become a TA for Stat 100. In addition to being a TA for this class, I am also a CA for a Stat 200 class in data science, so if you have any questions about the course I would love to answer them! A little about me: I am a huge football fan (I love the Cincinnati Bengals), I like working out and I love Chicago rap!
-
 - name: "Sharon Wang"
   netid: "sjwang3"
   role: "Course Assistant"
@@ -92,15 +74,6 @@ staff:
   email: ""
   bio: >-
     Hello! My name is Sharon Wang and I'm a junior in Statistics & Computer Science. I absolutely love STAT 100 and I hope you enjoy it as much as I do! In addition to being a CA for STAT 100, I'm also doing research in data mining. I'm from eastern Massachusetts (near Lowell), and in my free time, I love to paint, overanalyze TV shows, and eat Eggos :)
-
-- name: "Ashley Grudzinski"
-  netid: "apg3"
-  role: "Course Assistant"
-  seniority: "3"
-  major: "Statistics & Computer Science"
-  email: ""
-  bio: >-
-    Hello! My name is Ashley Grudzinski and I am a Junior studying Statistics and Computer Science. Stat 100 was one of the reasons I chose my major and I hope to help others see how amazing statistics can be! Aside from being a TA, I am also a tour guide on campus as well as work in the fancy box seating at Memorial Stadium. I also love playing board games, singing, binge watching How I Met Your Mother for the 50th time, and playing with my dog, Rocket!
 
 - name: "Cheyenne Petersen"
   netid: "csp2"

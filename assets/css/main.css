@@ -154,8 +154,8 @@ body {
   color: #13294b;
 }
 
-#syllabus ul {
-  padding-left: 0;
+#syllabus ul, #syllabus ol {
+  padding-left: 20px;
 }
 
 #faqs button {

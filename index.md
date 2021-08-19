@@ -9,7 +9,6 @@ layout: default
 <!-- landing photo page -->
 {% include landing.html image='/assets/img/stat100desk.jpg' %}
 
-/assets/img/stat100desk.jpg
 
 <!-- Start of Sections Section -->
 <div id="sections" class="offset" style="margin-top:5px;">
@@ -57,7 +56,7 @@ layout: default
       </div>
       <!-- Loops through links -->
       {% for link in site.data.info.links1 %}
-        <div class="col-md-3">
+        <div class="col-md-4">
           <h3>{{ link.title }}</h3>
           <a class="btn btn-secondary btn-md" href="{{ link.url }}" target="\_blank">{{ link.subtitle }}</a>
         </div>

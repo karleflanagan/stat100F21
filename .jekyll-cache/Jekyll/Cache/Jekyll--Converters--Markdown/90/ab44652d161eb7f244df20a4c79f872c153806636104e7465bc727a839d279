@@ -1,0 +1,356 @@
+I"!<div class="calendar-head">
+  <h1 style="text-align:center;">
+    Calendar Fall 2021: STAT 100 Online
+  </h1>
+  <h3 style="text-align:center;">
+    Color Key: <span style="color:red;">Red-Required Work</span>, <span style="color:blue;">Blue-Optional Work</span>
+  </h3>
+  <h4 style="margin-bottom:30px;text-align:center;">
+    Everything is due at 11:59pm
+  </h4>
+  <br />
+</div>
+<!-- Calendar Fall 2019: Stat 100 (All Sections)
+Color Key: Red-Required Work, Blue-Optional Work
+*Everything is due at 11:59pm -->
+
+<div class="table-responsive">
+  <h3 style="text-align: center;">August</h3>
+  <div class="heading-underline"></div>
+  <table class="table table-bordered">
+  <tr>
+    <th>Week</th>
+    <th>Mon</th>
+    <th>Tues</th>
+    <th>Wed</th>
+    <th>Thurs</th>
+    <th>Fri</th>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">23</p></td>
+    <td><p class="date">24</p></td>
+    <td><p class="date">25</p></td>
+    <td><p class="date">26</p></td>
+    <td><p class="date">27</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 1: Chapter 1</b>(Controlled Experiments)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+  
+  <h3 style="text-align: center;">September</h3>
+  <div class="heading-underline"></div>
+  <table class="table table-bordered">
+  <tr>
+    <th>Week</th>
+    <th>Mon</th>
+    <th>Tues</th>
+    <th>Wed</th>
+    <th>Thurs</th>
+    <th>Fri</th>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">30</p></td>
+    <td><p class="date">31</p></td>
+    <td><p class="date">01</p></td>
+    <td><p class="date">02</p></td>
+    <td><p class="date">03</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 2: Chapters 2-3</b>(Observational Studies)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">06</p></td>
+    <td><p class="date">07</p></td>
+    <td><p class="date">08</p></td>
+    <td><p class="date">09</p></td>
+    <td><p class="date">10</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 3: Chapters 3-5</b>(Histograms, Avg, Median, SD, &amp; Normal Curve)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">13</p></td>
+    <td><p class="date">14</p></td>
+    <td><p class="date">15</p></td>
+    <td><p class="date">16</p></td>
+    <td><p class="date">17</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 4: Exam Week</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">20</p></td>
+    <td><p class="date">21</p></td>
+    <td><p class="date">22</p></td>
+    <td><p class="date">23</p></td>
+    <td><p class="date">24</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 5: Chapters 6-7</b>(Boxplots &amp; Correlation)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">27</p></td>
+    <td><p class="date">28</p></td>
+    <td><p class="date">29</p></td>
+    <td><p class="date">30</p></td>
+    <td><p class="date">01</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 6: Chapters 8-10</b>(Regression &amp; RMSE)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+  
+  <h3 style="text-align: center;">October</h3>
+  <div class="heading-underline"></div>
+  <table class="table table-bordered">
+  <tr>
+    <th>Week</th>
+    <th>Mon</th>
+    <th>Tues</th>
+    <th>Wed</th>
+    <th>Thurs</th>
+    <th>Fri</th>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">04</p></td>
+    <td><p class="date">05</p></td>
+    <td><p class="date">06</p></td>
+    <td><p class="date">07</p></td>
+    <td><p class="date">08</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 7: Chapters 11-12</b>(Probability)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">11</p></td>
+    <td><p class="date">12</p></td>
+    <td><p class="date">13</p></td>
+    <td><p class="date">14</p></td>
+    <td><p class="date">15</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 8: Exam Week</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">18</p></td>
+    <td><p class="date">19</p></td>
+    <td><p class="date">20</p></td>
+    <td><p class="date">21</p></td>
+    <td><p class="date">22</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 9: Chapters 13-15</b>(EV, SE, &amp; Random Variables)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">25</p></td>
+    <td><p class="date">26</p></td>
+    <td><p class="date">27</p></td>
+    <td><p class="date">28</p></td>
+    <td><p class="date">29</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 10: Chapters 15-16</b>(Box Models &amp; Probability Histograms)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+  
+  <h3 style="text-align: center;">November</h3>
+  <div class="heading-underline"></div>
+  <table class="table table-bordered">
+  <tr>
+    <th>Week</th>
+    <th>Mon</th>
+    <th>Tues</th>
+    <th>Wed</th>
+    <th>Thurs</th>
+    <th>Fri</th>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">01</p></td>
+    <td><p class="date">02</p></td>
+    <td><p class="date">03</p></td>
+    <td><p class="date">04</p></td>
+    <td><p class="date">05</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 11: Chapters 17-19</b>(Sampling &amp; Inference)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">08</p></td>
+    <td><p class="date">09</p></td>
+    <td><p class="date">10</p></td>
+    <td><p class="date">11</p></td>
+    <td><p class="date">12</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 12: Exam Week</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">15</p></td>
+    <td><p class="date">16</p></td>
+    <td><p class="date">17</p></td>
+    <td><p class="date">18</p></td>
+    <td><p class="date">19</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 13: Chapters 20-22</b>(Hypothesis Testing: Z &amp; t Tests)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">22</p></td>
+    <td><p class="date">23</p></td>
+    <td><p class="date">24</p></td>
+    <td><p class="date">25</p></td>
+    <td><p class="date">26</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 14: Chapters 22-24</b>(Hypothesis Testing: Chi Square Tests)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+  
+  <h3 style="text-align: center;">December</h3>
+  <div class="heading-underline"></div>
+  <table class="table table-bordered">
+  <tr>
+    <th>Week</th>
+    <th>Mon</th>
+    <th>Tues</th>
+    <th>Wed</th>
+    <th>Thurs</th>
+    <th>Fri</th>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">29</p></td>
+    <td><p class="date">30</p></td>
+    <td><p class="date">01</p></td>
+    <td><p class="date">02</p></td>
+    <td><p class="date">03</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 15: Last Week of Class</b>(Final Exam Review)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">06</p></td>
+    <td><p class="date">07</p></td>
+    <td><p class="date">08</p></td>
+    <td><p class="date">09</p></td>
+    <td><p class="date">10</p></td>
+  </tr>
+  <tr>
+    <td><b>Week 16: Finals Week</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="line-height:1px;margin:0;"></td>
+    <td><p class="date">13</p></td>
+    <td><p class="date">14</p></td>
+    <td><p class="date">15</p></td>
+    <td><p class="date">16</p></td>
+    <td><p class="date">17</p></td>
+  </tr>
+  <tr>
+    <td>None</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+  
+  </div>
+:ET

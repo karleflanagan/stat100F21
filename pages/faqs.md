@@ -100,7 +100,7 @@ title: FAQs
 
 <p>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#faq7" aria-expanded="false" aria-controls="faq7">
-    Q:  I know ahead of time that I have a prior commitment and can't take the exam at 6pm or conflict exam at 4:30pm. What should I do?
+    Q:  I know ahead of time that I have a prior commitment and can't take the exam at 7pm or conflict exam at 4:30pm. What should I do?
   </button>
 </p>
 <div class="collapse" id="faq7">
@@ -205,7 +205,7 @@ title: FAQs
 </p>
 <div class="collapse" id="faq18">
   <div class="card card-body">
-    <p>A: <i>Once you log into <a href="{{ site.data.info.office-hours.link }}" target="\_blank">{{ site.data.info.office-hours.location }}</a>, let the TAs or instructor know when you need help. Feel free to ask the TAs and instructors any questions, but make sure you have at least looked at and attempted the problem before asking about it. TAs are not responsible for giving lectures but can help clarify concepts and answer questions students have on HW.
+    <p>A: <i>Once you walk into SCD 0060 in the Siebel Center for Design, let the TAs or instructor know when you need help. Feel free to ask the TAs and instructors any questions, but make sure you have at least looked at and attempted the problem before asking about it. TAs are not responsible for giving lectures but can help clarify concepts and answer questions students have on HW.
 </i></p>
   </div>
 </div>
@@ -230,9 +230,8 @@ title: FAQs
 </p>
 <div class="collapse" id="faq23">
   <div class="card card-body">
-    <p>A: <i>We highly recommend taking Stat 200! This class starts with a quick review of Stat 100 material
-            and then moves on to talk about things like hypothesis testing, power, multiple regression, ANOVA, etc. Like Stat 100,
-            it uses a partially completed notebook that you fill in during class. There are also weekly Lon Capa assignments
-            that are very similar in format to those we do in Stat 100.</i></p>
+    <p>A: <i>For a more advanced statistics course, we highly recommend taking Stat 200! This class starts with a quick review of Stat 100 material and then moves on to talk about things like hypothesis testing, power, multiple regression, ANOVA, etc. Like Stat 100, it uses a partially completed notebook that you fill in during class. There are also weekly Lon Capa assignments that are very similar in format to those we do in Stat 100.<br>
+    If you’re interested in programming in Python, we’d highly recommend taking Stat 107! This class covers the same statistical content as Stat 100, but you learn Python programming and get experience analyzing real data.
+</i></p>
   </div>
 </div>

@@ -9,8 +9,8 @@ title: Exam-Schedule
 
 
 <h1>{{ site.short-title}} {{ site.semester }} Exam Schedule</h1>
-<h4><b style="color:red;">Important Info:</b> There will be three midterm exams and a comprehensive final exam. All of these will be taken online on Compass 2g individually.  You can use any resources except other people.  Please be honest and make sure that your work is your work only!  There will be NO makeup exams. If you miss an exam and have written proof of a valid reason, then we will substitute your final exam score for the missed exam.
-<h4>
+<h4><b style="color:red;">Important Info:</b> There will be three midterm exams and a comprehensive final exam. All of these will be taken in person and individually. Locations will be posted closer to the dates.  There will be NO makeup exams. If you miss an exam and have written proof of a valid reason, then we will substitute your final exam score for the missed exam.  If you are not in Champaign-Urbana, please contact me immediately to discuss exams.
+</h4>
 
 {% for exam in site.data.info.exams %}
 <h2>{{ site.short-title }} {{ exam.name }}</h2>
@@ -45,4 +45,4 @@ The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 
 {% include final-schedule.html %}
 
-<h4><b>Conflict Exam Info:</b> For exams 1-3 there will be a conflict for international students at 11pm CST on the same day.  There will also be a main conflict from 4:30-6pm those days for any students who want to sign up!  Sign up for these conflict exams on Lon Capa.  If you are taking the regular exam at 6pm, no need to sign up!</h4>
+<h4><b>Conflict Exam Info:</b> For exams 1-3 there will be a conflict exam from 4:30-6pm on those days for any students who want to sign up! Sign up for these conflict exams on Lon Capa. If you are taking the regular exam at 7pm, no need to sign up!</h4>
