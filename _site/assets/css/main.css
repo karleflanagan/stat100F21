@@ -81,7 +81,7 @@ body {
 }
 
 .caption h1 {
-  font-size: 3vw;
+  font-size: 60px;
   font-weight: bold;
   letter-spacing: 5px;
   text-shadow: 1px 1px 10px black;
@@ -89,7 +89,7 @@ body {
 }
 
 .caption h3 {
-  font-size: 1.75vw;
+  font-size: 30px;
   text-shadow: 1px 1px 8px black;
   padding-bottom: 25px;
 }
@@ -105,13 +105,13 @@ body {
 /* Announcements Styling */
 .announcements h2 {
   color: #13294b;
-  font-size: 2vw;
+  font-size: 35px;
   font-weight: bold;
   text-transform: uppercase;
 }
 .announcements p, .announcements li {
   color: #13294b;
-  font-size: 1.1vw;
+  font-size: 18px;
   text-align: left;
 }
 .announcements {
@@ -202,19 +202,19 @@ body {
 }
 
 .jumbotron h1 {
-  font-size: 3vw;
+  font-size: 60px;
 }
 
 .jumbotron h2, #links h2 {
-  font-size: 2vw;
+  font-size: 35px;
 }
 
 .jumbotron h3, #links h3 {
-  font-size: 1.75vw;
+  font-size: 25px;
 }
 
 .jumbotron h4 {
-  font-size: 1.5vw;
+  font-size: 20px;
 }
 
 
@@ -394,7 +394,7 @@ footer {
   color: white;
   padding: 30px 0 30px;
   margin-top: 0px;
-  font-size: 1.2vw;
+  font-size: 20px;
 }
 
 footer img {
@@ -425,7 +425,7 @@ hr.socket {
   width:100%;
   border-top: 1px solid #2D4365;
   margin-top: 50px;
-  font-size: 1.2vw;
+  font-size: 20px;
 }
 
 
