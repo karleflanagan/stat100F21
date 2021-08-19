@@ -71,7 +71,7 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
   * Exam 1: Wednesday September 15th from 7-8:30pm
   * Exam 2: Wednesday October 13th from 7-8:30pm
   * Exam 3: Wednesday November 10th from 7-8:30pm
-  * Final: Monday May 10th from 1:30-4:30pm
+  * Final: Monday December 13th from 1:30-4:30pm
 
 * For Exams 1-3, there will be a main conflict at 4:30pm on exam days!  You will be able to sign up for these on Lon Capa the week before.  All exams for both the in person and online sections will be in person.  If you are not on the UIUC campus, please contact me immediately to set something up.
 
