@@ -1,0 +1,230 @@
+I"ç%<!-- landing photo page -->
+<!-- Start of Landing Page -->
+<div class="landing">
+  <div class="home-wrap">
+    <div class="home-inner" style="background-image: url('/stat100F21/assets/img/stat100desk.jpg');">
+      <div class="layer">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="jumbotron"></div> -->
+<div class="caption text-center">
+    <h1>Statistics 100</h1>
+    <div class="landing-heading-underline"></div>
+    <h3>Fall 2021</h3>
+    <!-- <a class="btn btn-outline-light btn-lg" href="#sections">Get Started</a> -->
+    <div class="announcements narrow">
+      <div class="card bg-light rounded shadow-sm py-3">
+        <h2>Weekly Announcements</h2> <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div> <p style="text-align:left;"> <ul>
+  <li>Welcome to Stat 100!</li>
+  <ul>
+    <li>There are 2 sections of Stat 100 semester:</li>
+    <ul>
+      <li>Stat 100 In Person (Section: L1).  This section meets MWF from 10-10:50am each week in Lincoln Hall Theater.</li>
+      <li>Stat 100 Online (Section: ONL).  This section is asynchronous and does not meet in person or on zoom.  Instead, Iâ€™ll post videos on Canvas for you to watch each week.</li>
+    </ul>
+    <li>An email will be sent out on Thursday, August 19th for details about the first week of class &#128522;</li>
+    <li>Feel free to browse this website to get familiar with the course!</li>
+    <li>Looking forward to a great semester!!</li>
+  </ul>
+</ul> </p>
+      </div>
+    </div>
+  </div>
+<!-- </div> -->
+<!-- End of Landing Page -->
+
+<!-- Start of Sections Section -->
+<div id="sections" class="offset" style="margin-top:0px;">
+  <div class="jumbotron" style="">
+    <!-- title -->
+    <div class="col-12 narrow text-center">
+      <h1 style="padding-bottom: 10px; text-transform: uppercase;">Statistics 100 Fall 2021 Sections</h1>
+      <div class="heading-underline"></div>
+    </div>
+    <div class="row text-center">
+    <!-- loops through section information -->
+      <!-- <div class="col-md-6">
+        <div class="feature">
+          <i class="fas fa-chalkboard-teacher fa-4x" data-fa-transform="shrinks-5 up-4"></i>
+          <h3>In Person Section: L1</h3>
+          <p>
+          <b>L1 Instructor: Karle Flanagan</b><br>
+          MWF from 10-10:50am Lincoln Hall Theater<br>
+          </p>
+        </div>
+      </div> -->
+      <div class="col-md-12">
+        <div class="feature">
+          <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><i class="fas fa-desktop fa-4x" data-fa-transform="shrinks-5 up-4"></i></a>
+          <h3>Online Section: ONL</h3>
+          <p>
+          <b>ONL Instructor: Karle Flanagan</b><br />
+          No assigned meeting times. Watch lecture videos on Canvas at any time that's convenient for you.<br />No in-person locations.<br />
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End of Sections Section -->
+
+<!-- Start of Links -->
+<div id="links" class="offset">
+  <!-- Class links section -->
+  <div class="fixed-background">
+    <div class="row dark text-center">
+      <div class="col-12 text-center">
+        <h3 class="heading">Links</h3>
+        <div class="heading-underline"></div>
+      </div>
+      <!-- Loops through links -->
+      
+        <div class="col-md-4">
+          <h3 style="font-size: 1.65vw;">Lon-Capa</h3>
+          <a class="btn btn-secondary btn-sm" href="http://www.lon-capa.illinois.edu/" target="\_blank" style="font-size:1.25vw; margin: 2px;">Homework &amp; Bonus work</a>
+        </div>
+      
+        <div class="col-md-4">
+          <h3 style="font-size: 1.65vw;">Canvas</h3>
+          <a class="btn btn-secondary btn-sm" href="http://canvas.illinois.edu/" target="\_blank" style="font-size:1.25vw; margin: 2px;">Lecture Videos, Exams, &amp; Grades</a>
+        </div>
+      
+        <div class="col-md-4">
+          <h3 style="font-size: 1.65vw;">Zoom</h3>
+          <a class="btn btn-secondary btn-sm" href="https://www.youtube.com/watch?v=wpV-gGA4PSk" target="\_blank" style="font-size:1.25vw; margin: 2px;">Office Hours</a>
+        </div>
+      
+    </div>
+    <!-- background image for class link section -->
+    <div class="fixed-wrap">
+      <div class="fixed" style="background-image: url('/stat100F21/assets/img/stat100book.jpg');">
+        <div class="layer">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End class links section -->
+
+  <!-- Data Programs section -->
+  <div class="jumbotron" style="padding: 5;">
+    <div class="narrow text-center" style="margin: 0 auto; padding: 0px;">
+      <div class="col-12">
+        <h3 class="heading">Data Programs</h3>
+        <div class="heading-underline"></div>
+      </div>
+      <!-- loops through data program links -->
+      <div class="row text-center">
+        
+          <div class="col-md-4">
+            <h3>Data Analysis Program</h3>
+            <a class="btn btn-secondary btn-sm" href="http://dataprogram.stat.illinois.edu/" target="\_blank">
+              <div class="feature">
+                <i class="fas fa-chart-bar fa-2x"></i><i class="fas fa-chevron-circle-right fa-2x"></i>
+              </div>
+            </a>
+          </div>
+        
+          <div class="col-md-4">
+            <h3>Simulations</h3>
+            <a class="btn btn-secondary btn-sm" href="http://istics.net/fireman/sampling.html" target="\_blank">
+              <div class="feature">
+                <i class="fas fa-calculator fa-2x"></i><i class="fas fa-chevron-circle-right fa-2x"></i>
+              </div>
+            </a>
+          </div>
+        
+          <div class="col-md-4">
+            <h3>Guessing Correlations</h3>
+            <a class="btn btn-secondary btn-sm" href="http://www.istics.net/Correlations/" target="\_blank">
+              <div class="feature">
+                <i class="fas fa-brain fa-2x"></i><i class="fas fa-chevron-circle-right fa-2x"></i>
+              </div>
+            </a>
+          </div>
+        
+      </div>
+      <!-- appreciation for John Marden -->
+      <div class="col-12">
+        <cite>Our data program was created by Professor <a href="https://stat.illinois.edu/directory/profile/jimarden" target="\_blank">John Marden</a>.
+Thanks for being an integral part of STAT 100 team!</cite>
+      </div>
+    </div>
+  </div>
+  <!-- End of data programs section -->
+</div>
+<!-- End of Links -->
+
+<!-- Start of Goals -->
+<div id="goals" class="offset">
+  <div class="jumbotron" style="padding: 0;">
+    <div class="narrow text-center" style="margin: 0 auto; padding: 0px;">
+      <!-- heading -->
+      <div class="col-12">
+        <h3 class="heading">Goals &amp; Philosophy</h3>
+        <div class="heading-underline"></div>
+      </div>
+      <div class="row text-center">
+      <!-- loops through goals -->
+      
+        <div class="col-md-6">
+          <h4>Why everyone needs to know Basic Statistics</h4>
+          <div class="sub-heading-underline"></div>
+          <p>Statistics is a tool to make sense of large amounts of information. Common sense can only handle limited amounts of information. Until recently common sense was sufficient for most people because daily life didn't involve processing a large amount of data. Now large stores of information have become readily available. You can either choose to ignore the information available or you can choose to make sense of it, which means learning statistics.</p>
+        </div>
+      
+        <div class="col-md-6">
+          <h4>What's special about Stat 100</h4>
+          <div class="sub-heading-underline"></div>
+          <p>Most people think statistics is boring and difficult. Statistics is to data, what grammar is to words. And like grammar, it's only interesting if it's used to understand something interesting.<br /><br /> In Stat 100, we use statistics to research a topic we're all interested in - ourselves. We collect data on ourselves through anonymous surveys, largely on the sort of social questions on which students have shown intense interest. Having real questions that we want to answer motivates real understanding, not just memorizing some complicated rules. Statistics is a collection of real tools- the key is to understand which one to use when and why.</p>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="fixed-background testimonials">
+  <div class="row dark text-center">
+    <div class="col-12 text-center">
+      <h3 class="heading">Students tell us that after Stat 100 they:</h3>
+      <div class="heading-underline"></div>
+      <ul class="lead narrow" style="text-align: left;">
+        
+          <li>
+            <p>Read the newspaper in a new way, without their eyes glazing over when they see quantitative information.</p>
+          </li>
+        
+          <li>
+            <p>Know what questions to ask in evaluating studies and surveys.</p>
+          </li>
+        
+          <li>
+            <p>Understand what questions can and cannot be answered by statistical arguments.</p>
+          </li>
+        
+          <li>
+            <p>Appreciate how much of what matters to them can be better understood with statistics.</p>
+          </li>
+        
+          <li>
+            <p>Feel much more confident applying both logical reasoning and common sense to quantitative topics but are very aware that their intuition can sometimes be so wrong that it's shocking.</p>
+          </li>
+        
+          <li>
+            <p>But what's most surprising is they actually like statistics!</p>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+  <div class="fixed-wrap">
+    <div class="fixed" style="background-image: url('/stat100F21/assets/img/stat100book.jpg');">
+      <div class="layer">
+      </div>
+    </div>
+  </div>
+</div>
+:ET
