@@ -19,7 +19,7 @@ layout: default
       <div class="heading-underline"></div>
     </div> -->
     <div class="col-12 narrow text-center">
-      <h2 style="heading padding-bottom: 10px; text-transform: uppercase; font-weight: bold; font-size: 35px;">{{ site.title }} {{ site.semester }} Sections</h2>
+      <h2 style="heading padding-bottom: 10px; text-transform: uppercase; font-weight: bold;">{{ site.title }} {{ site.semester }} Sections</h2>
       <div class="heading-underline"></div>
     </div>
     <div class="row text-center">
@@ -27,8 +27,8 @@ layout: default
       <div class="col-md-6">
         <div class="feature">
           <i class="{{ site.data.info.in-person-icon }}" data-fa-transform="shrinks-5 up-4"></i>
-          <h3 style="font-size: 25px;">In Person Section: {% assign in_person = site.data.info.sections | where: 'type', 'In Person' %}{% if in_person.size == 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif in_person.size > 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }}{% elsif class == in_person.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in in_person %}{{ class.name }}{% endfor %}{% endif %}</h3>
-          <p style="font-size: 18px;">{% for class in in_person %}
+          <h3>In Person Section: {% assign in_person = site.data.info.sections | where: 'type', 'In Person' %}{% if in_person.size == 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif in_person.size > 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }}{% elsif class == in_person.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in in_person %}{{ class.name }}{% endfor %}{% endif %}</h3>
+          <p>{% for class in in_person %}
           <b>{{ class.name }} Instructor: {{ class.instructor }}</b><br>
           {{ class.times }} {{ class.location }}<br>
           {% endfor %}</p>
@@ -37,8 +37,8 @@ layout: default
       <div class="col-md-6">
         <div class="feature">
           <a href="{{ site.data.info.rickroll }}"><i class="{{ site.data.info.online-icon }}" data-fa-transform="shrinks-5 up-4"></i></a>
-          <h3 style="font-size: 25px;">Online Section: {% assign online = site.data.info.sections | where: 'type', 'Online' %}{% if online.size == 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif online.size > 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }}{% elsif class == online.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in online %}{{ class.name }}{% endfor %}{% endif %}</h3>
-          <p style="font-size: 18px;">{% for class in online %}
+          <h3>Online Section: {% assign online = site.data.info.sections | where: 'type', 'Online' %}{% if online.size == 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif online.size > 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }}{% elsif class == online.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in online %}{{ class.name }}{% endfor %}{% endif %}</h3>
+          <p>{% for class in online %}
           <b>{{ class.name }} Instructor: {{ class.instructor }}</b><br>
           {{ class.times }}<br>{{ class.location }}<br>
           {% endfor %}</p>
@@ -61,8 +61,8 @@ layout: default
       <!-- Loops through links -->
       {% for link in site.data.info.links1 %}
         <div class="col-md-4">
-          <h3 style="font-size: 25px;">{{ link.title }}</h3>
-          <a class="btn btn-secondary btn-sm" href="{{ link.url }}" target="\_blank" style="font-size:20px; margin: 10px;">{{ link.subtitle }}</a>
+          <h3>{{ link.title }}</h3>
+          <a class="btn btn-secondary btn-sm" href="{{ link.url }}" target="\_blank" style="margin: 10px;">{{ link.subtitle }}</a>
         </div>
       {% endfor %}
       <!-- <div class="jumbotron col-12"> -->
@@ -141,7 +141,7 @@ Thanks for being an integral part of STAT 100 team!</cite>
     <div class="narrow text-center" style="margin: 0 auto; padding: 0px;">
       <!-- heading -->
       <div class="col-12">
-        <h2 class="heading" style="font-size: 35px;">Goals & Philosophy</h2>
+        <h2 class="heading">Goals & Philosophy</h2>
         <div class="heading-underline"></div>
       </div>
       <div class="row text-center">
@@ -150,14 +150,16 @@ Thanks for being an integral part of STAT 100 team!</cite>
         <div class="col-md-6">
           <h3 style="font-size: 25px;">{{ goal.title }}</h3>
           <div class="sub-heading-underline"></div>
-          <p style="font-size: 18px;">{{ goal.body }}</p>
+          <p>{{ goal.body }}</p>
         </div>
       {% endfor %}  
       </div>
     </div>
+    <!--  -->
     <div class="heading-underline" style="width: 90%; margin-top: 30px; margin-bottom: 30px;"></div>
+    <!--  -->
     <div class="col-12 text-center">
-      <h2 class="heading" style="font-size: 35px;">Students tell us that after Stat 100 they:</h2>
+      <h2 class="heading">Students tell us that after Stat 100 they:</h2>
       <div class="heading-underline"></div>
       <ul class="lead narrow" style="text-align: left; margin-top: 0px;">
         {% for experience in site.data.info.experiences %}

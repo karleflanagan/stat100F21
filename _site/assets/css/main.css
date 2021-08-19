@@ -417,9 +417,46 @@ iframe {
   background-color: #777;
 }
 
+#sections h2, #goals h2 {
+  font-size: 35px;
+}
+
+#links h3, #sections h3 {
+  font-size: 25px;
+}
+
+h2.heading {
+  font-size: 35px;
+}
+
+#goals p, #sections p {
+  font-size: 18px;
+}
+
+#links .btn {
+  font-size:20px;
+}
+
+
 /*-- Media Styling --*/
 
 @media (max-width: 767px) {
+  #links h2.heading, #sections h2, #goals h2.heading {
+    font-size: 25px;
+  }
+
+  #links p, #sections p, #goals p {
+    font-size: 15px;
+  }
+
+  #links .btn {
+    font-size: 18px;
+  }
+
+  footer {
+    font-size: 13px;
+  }
+
   /* Home Page Styling */
   .caption {
     top:20%;
@@ -519,7 +556,7 @@ iframe {
   }
   .announcements p, .announcements li  {
     color: #13294b;
-    font-size: 10px;
+    font-size: 15px;
     text-align: left;
   }
   .announcements ul {
