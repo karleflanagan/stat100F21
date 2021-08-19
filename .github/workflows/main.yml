@@ -1,0 +1,29 @@
+name: Jekyll Build and Deploy
+
+on:
+  push:
+    branches: [ gh-pages ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.DEPLOY_KEY }}
+        known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
+    - name: Deploy via rsync
+      run: |
+        rsync -rtvzi ${{ github.workspace }}/_site/ ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:${{ secrets.DEPLOY_PATH }}
