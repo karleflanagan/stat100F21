@@ -32,9 +32,14 @@ title: syllabus
 </ul>
 
 ## Course Webpages
-* <b><a href="https://stat100website.web.illinois.edu/" target="\_blank">https://stat100website.web.illinois.edu/</a></b>
-* <b><a href="http://www.lon-capa.illinois.edu/" target="\_blank">Lon-Capa</a></b>
-* <b><a href="http://canvas.illinois.edu/" target="\_blank">Canvas</a></b>
+* <b>Main Public Website</b><br>
+  <a href="https://go.illinois.edu/stat100">go.illinois.edu/stat100</a> -- You can also google "stat 100" :)
+* <b>LON-CAPA Site</b><br>
+  <a href="http://www.lon-capa.illinois.edu/" target="_blank">http://www.lon-capa.illinois.edu/</a><br>
+  All homework and bonus work are submitted and graded immediately on Lon Capa.
+* <b>Canvas Site</b><br>
+  <a href="http://canvas.illinois.edu/" target = "_blank">http://canvas.illinois.edu/</a><br>
+  We're using Canvas to post announcements, lecture videos, and display grades.
   <!-- * <b><a href="{{ site.data.info.course-link1 }}" target="\_blank">{{ site.data.info.course-link1 }}</a></b>
     <br>You can also google "stat 100" :) -->
 
@@ -127,10 +132,9 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
 * <b><a href="http://www.lon-capa.uiuc.edu" target="\_blank">http://www.lon-capa.uiuc.edu</a></b><br>
 All homework and bonus work is submitted and graded immediately on Lon Capa.
 
-## Compass Site
-* <b><a href="https://compass2g.illinois.edu" target="\_blank">https://compass2g.illinois.edu</a></b><br>
-We're using Compass 2g to post announcements, lecture videos, and display grades. Exams will also be taken on Compass.<br>
-(Lon Capa's gradebook is too confusing, so check your grades on Compass.)
+## Canvas Site
+* <b><a href="http://canvas.illinois.edu/" target="\_blank">http://canvas.illinois.edu/</a></b><br>
+We're using Canvas to post announcements, lecture videos, and display grades.
 
 ## Academic Integrity
 * If you cheat on an exam or attempt to cheat on an exam in this class you’re very likely to get caught and the consequences will be <b>SEVERE</b>. See the <b><a href="https://studentcode.illinois.edu/" target="\_blank">University Student Code of Conduct</a></b>.
