@@ -128,14 +128,6 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
 * **Significance Tests**: one sample and two sample z-tests, t-tests, and chi-square tests for goodness of fit and independence, the focus is on understanding how these tests depend on chance models.
 * **Limits of Significance Tests**: understanding what the p-value means and under what circumstances it is valid (for example, hypotheses must be stated before looking at the data, the total number of experiments before significant results were found must be reported, etc.)
 
-## LON-CAPA Site
-* <b><a href="http://www.lon-capa.uiuc.edu" target="\_blank">http://www.lon-capa.uiuc.edu</a></b><br>
-All homework and bonus work is submitted and graded immediately on Lon Capa.
-
-## Canvas Site
-* <b><a href="http://canvas.illinois.edu/" target="\_blank">http://canvas.illinois.edu/</a></b><br>
-We're using Canvas to post announcements, lecture videos, and display grades.
-
 ## Academic Integrity
 * If you cheat on an exam or attempt to cheat on an exam in this class you’re very likely to get caught and the consequences will be <b>SEVERE</b>. See the <b><a href="https://studentcode.illinois.edu/" target="\_blank">University Student Code of Conduct</a></b>.
 * You are not allowed to work with other people on exams and you are not allowed to use cheating websites like Chegg. All exams will be in person.  We have multiple versions of all exams that may look identical at first glance but are not. Bottom line is, please don’t cheat. It’s not worth risking your entire college career and you will get caught. If you are caught, you will get a 0 on the exam and be reported to the university.
