@@ -43,7 +43,7 @@ title: syllabus
     1. Available at the Illini Union Bookstore for {{ site.data.info.textbook.price }} or online at **<a href="https://urldefense.com/v3/__https://buy.stipes.com/products/uiuc-stat-100-fa21__;!!DZ3fjg!r1ypttGHMtJB-r3TEjmwlBRM2sZwzXxG3cR8l3WXskmXBrjnPnuDDOyvrKJElJuiIcU$" target="_blank">Stipes</a>**.
     2. This notebook is the only thing that's required to purchase for Stat 100!
     3. You will use this notebook each week when you watch the videos!
-* **Required Calculator:** Any calculator is accepted. I recommend <b><a href="{{ site.data.info.calculator }}" target="\_blank">this one!</a></b>
+* **Required Non-Graphing Calculator:** You'll also need a non-graphing calculator for exams. Any calculator that can do basic operations and square roots will be fine. I recommend <b><a href="{{ site.data.info.calculator }}" target="\_blank">this one!</a></b> Graphing calculators (TI 83s, TI 84s, TI Nspires, etc.) are not allowed on exams.
 * **Optional iClicker for In Person class only:** I will be doing iClicker questions for extra credit in the in person class each day. Online class- do not by an iClicker, you’ll get extra credit in other ways!
 
 ## Class Times
