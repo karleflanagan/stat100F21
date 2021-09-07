@@ -13,7 +13,7 @@
   {% for Operson in site.data.staff.staff %}
     {% assign OpersonName = Operson.name %}
     {% assign OtwoNames = OpersonName | split: ' ' %}
-    {% assign OlastName = OtwoNames[0] %}
+    {% assign OlastName = OtwoNames[1] %}
     {% if OlastName == name %}
       {% if Operson.role == include.role %}
         {% if Operson.seniority == include.seniority %}
