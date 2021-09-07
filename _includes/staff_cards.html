@@ -2,7 +2,7 @@
 {% for person in site.data.staff.staff %}
   {% assign personName = person.name %}
   {% assign twoNames = personName | split: ' ' %}
-  {% assign lastName = twoNames[0] %}
+  {% assign lastName = twoNames[1] %}
   {% assign teamNames = teamNames | append: '_' | append: lastName %}
 {% endfor %}
 

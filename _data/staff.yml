@@ -11,6 +11,15 @@ staff:
   bio: >-
     Hi everyone! My name is Karle and I'm one of the stat 100 instructors. I've always loved math, statistics, and education. Teaching stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br><br> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.
 
+- name: "Robin Mark"
+  netid: "robinlm2"
+  role: "Course Assistant"
+  seniority: "5"
+  email: "Statistics & Economics"
+  bio: >-
+    My name is Robin Mark and I am a Senior with a double major in Statistics and Economics. I love statistics so I am happy to be more involved in the Statistics Department as a Stat 100 CA as well as a Statistics Ambassador. Outside of academics, I am also very passionate about dance. I have been dancing since I was 5 years old and I have been lucky enough to be able to continue this activity in college on the Illini N Motion Dance Team. This year, I am the President of the team and I am very excited to have this leadership role and continue to help the dance team grow and thrive.
+
+
 
 - name: "Aarthi Mahesh"
   netid: "aarthim2"
@@ -37,7 +46,7 @@ staff:
   major: "Psychology"
   email: ""
   bio: >-
-    My name is Tamun (tah-min) Hanjra and I am a Junior studying Psychology with a concentration in Behavioral Neuroscience and Child Developmental Psychology. I am from Northern VA, about 30 minutes out of D.C. I loved STAT 100 when I took it and was also a CA for STAT 107 after taking it in it's pilot semester, so I decided to try to get involved with being a CA for this class! Some other facts about me: I am in the Marching Illini Drumline and play the cymbals, so hopefully you can catch me on game days when they hopefully happen again. I have a dog back home whose name is Caspar and I will absolutely show you pictures. I also play the flute, love to read and have been obsessed with Tik Tok for a while now! :)
+    Hello everyone! My name is Tamun (tah-min) Hanjra, and I am a senior studying psychology. I have always been incredibly interested in statistics and data analysis in general, and STAT 100 further confirmed that love of mine. We are all super excited to get back into the swing of things this semester, so come say hi or ask questions during Office Hours - we are here to help! :) Outside of school, I am on the Marching Illini Drumline, so if you ever come to the games, say hi!! 
 
 - name: "Amber Dorn"
   netid: "amberd2"
@@ -48,23 +57,14 @@ staff:
   bio: >-
     Hi! My name is Amber Dorn and I'm a sophomore studying Speech and Hearing Sciences. I really enjoyed taking Stat 100 and I think it's such an important and applicable class. I'm very excited to be a part of the Stat 100 team this year and help others gain a better understanding of this great subject! In addition to being a Stat 100 CA, I am also a research assistant for an audiology lab here on campus. In my free time I like to work out, play volleyball, spend time with my friends and try new coffee shops!
 
-- name: "Jonas Reger"
-  netid: "wreger2"
-  role: "Course Assistant"
-  seniority: "3"
-  major: "Statistics & Mathematics"
-  email: ""
-  bio: >-
-    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a senior studying statistics and mathematics. I'm the <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">Beyoncé</a> of the STAT 100 TAs!:) I completed my A.S. Computer Science degree in 2018 and soon will complete my B.S. Statistics degree this semester. I will be starting my M.S. Statistics-Analytics degree in the Fall!:) In addition to working as a TA for STAT 100, I also manage and develop the STAT 100 course website. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
-
 - name: "Miah Phillips"
   netid: "miahep2"
   role: "Course Assistant"
   seniority: "3"
-  major: "Pre-Dental"
+  major: "Interdisciplinary Health Sciences"
   email: ""
   bio: >-
-    My name is Miah Phillips and I'm a Junior on a pre-dental track! Stat 100 was my favorite class I've ever taken, so I knew I wanted to become more involved with it! Other things about me: I am obsessed with my dog (please ask to see pictures), I am from a small town 30 minutes south of campus named Tuscola, and I watch an unhealthy amount of Friends!
+    My name is Miah Phillips and I'm a Senior on a pre-dental track! Stat 100 was my favorite class I've ever taken, so I knew I wanted to become more involved with it! Other things about me: I am obsessed with my dog (please ask to see pictures), I am from a small town 30 minutes south of campus named Tuscola, and I watch an unhealthy amount of Friends!
 
 - name: "Sharon Wang"
   netid: "sjwang3"
@@ -83,6 +83,15 @@ staff:
   email: ""
   bio: >-
     My name is Cheyenne Petersen and I am a sophomore studying Psychology. When I took STAT 100 as a freshman, I discovered a new interest in statistics and wanted to join the STAT 100 team! I am a huge Chicago Cubs fan, and I think it would be interesting to have a career in sport psychology and involve statistics. In my free time, I am on the Illinois Rowing Club team and enjoy reading and exercising. A fun fact is that I like trying different coffee shops on campus to keep up with my iced coffee obsession!
+
+- name: "Jonas Reger"
+  netid: "wreger2"
+  role: "Course Assistant"
+  seniority: "2"
+  major: "Analytical Statistics"
+  email: ""
+  bio: >-
+    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a senior studying statistics and mathematics. I'm the <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">Beyoncé</a> of the STAT 100 TAs!:) I completed my A.S. Computer Science degree in 2018 and soon will complete my B.S. Statistics degree this semester. I will be starting my M.S. Statistics-Analytics degree in the Fall!:) In addition to working as a TA for STAT 100, I also manage and develop the STAT 100 course website. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
 
 - name: "Kelsey Libert"
   netid: "klibert2"
