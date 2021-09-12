@@ -21,12 +21,13 @@ staff:
     Hi everyone! My name is Olivia Luca and I am a senior studying psychology & Spanish. I really missed math in college since my majors mainly consist of a ton of reading, so statistics was the perfect way to bridge the gap between the two, as stats is key if you’re pursuing any type of research. Aside from being a part of the amazing STAT 100 team, I am also a psychology research assistant for the YEDI Lab at UIUC and the CDL at NYU. Outside of academics, I’m either booking my next vacation, hanging out with family & friends, or watching lots and lots of movies :)
 
 - name: "Katherine Roeser"
-  netid: ""
+  netid: "kroeser2"
   role: "Course Assistant"
   seniority: "5"
-  major: ""
+  major: "Statistics"
   email: ""
-  bio: ""
+  bio: >-
+    Hi! My name is Kate Roeser, and I am so excited to be a CA in my last semester here at Illinois! I took STAT100 my freshman year when I was undecided, and it led me to continue that path and declare a statistics major. I am so excited to be a CA and help students love the class like I did. I am currently looking for a job after I graduate, but outside of that I love to spend my time working out, hanging out with my friends, and going back to the suburbs to visit my family. 
 
 - name: "Grant Winkelmann"
   netid: ""
@@ -88,7 +89,7 @@ staff:
   major: "Speech & Hearing Science"
   email: ""
   bio: >-
-    Hi! My name is Amber Dorn and I'm a sophomore studying Speech and Hearing Sciences. I really enjoyed taking Stat 100 and I think it's such an important and applicable class. I'm very excited to be a part of the Stat 100 team this year and help others gain a better understanding of this great subject! In addition to being a Stat 100 CA, I am also a research assistant for an audiology lab here on campus. In my free time I like to work out, play volleyball, spend time with my friends and try new coffee shops!
+    Hi! My name is Amber Dorn and I'm a Junior studying Speech and Hearing Sciences. I really enjoyed taking Stat 100 and I think it's such an important and applicable class. I'm very excited to be a part of the Stat 100 team this year and help others gain a better understanding of this great subject! In addition to being a Stat 100 CA, I am also a research assistant for an audiology lab here on campus. In my free time I like to work out, play volleyball, spend time with my friends and try new coffee shops!
 
 - name: "Miah Phillips"
   netid: "miahep2"
@@ -106,7 +107,7 @@ staff:
   major: "Statistics & Computer Science"
   email: ""
   bio: >-
-    Hello! My name is Sharon Wang and I'm a junior in Statistics & Computer Science. I absolutely love STAT 100 and I hope you enjoy it as much as I do! In addition to being a CA for STAT 100, I'm also doing research in data mining. I'm from eastern Massachusetts (near Lowell), and in my free time, I love to paint, overanalyze TV shows, and eat Eggos :)
+    Hello! My name is Sharon Wang and I'm a Senior in Statistics & Computer Science. I absolutely love STAT 100 and I hope you enjoy it as much as I do! In addition to being a CA for STAT 100, I'm also doing research in data mining. I'm from eastern Massachusetts (near Lowell), and in my free time, I love to paint, overanalyze TV shows, and eat Eggos :)
 
 - name: "Cheyenne Petersen"
   netid: "csp2"
@@ -115,7 +116,7 @@ staff:
   major: "Psychology & Kinesiology"
   email: ""
   bio: >-
-    My name is Cheyenne Petersen and I am a sophomore studying Psychology. When I took STAT 100 as a freshman, I discovered a new interest in statistics and wanted to join the STAT 100 team! I am a huge Chicago Cubs fan, and I think it would be interesting to have a career in sport psychology and involve statistics. In my free time, I am on the Illinois Rowing Club team and enjoy reading and exercising. A fun fact is that I like trying different coffee shops on campus to keep up with my iced coffee obsession!
+    My name is Cheyenne Petersen and I am a Senior studying Psychology. When I took STAT 100 as a freshman, I discovered a new interest in statistics and wanted to join the STAT 100 team! I am a huge Chicago Cubs fan, and I think it would be interesting to have a career in sport psychology and involve statistics. In my free time, I am on the Illinois Rowing Club team and enjoy reading and exercising. A fun fact is that I like trying different coffee shops on campus to keep up with my iced coffee obsession!
 
 - name: "Jonas Reger"
   netid: "wreger2"
@@ -124,7 +125,7 @@ staff:
   major: "Analytical Statistics"
   email: ""
   bio: >-
-    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a grad student studying analytical statistics. I completed an A.S. Computer Science degree and a B.S. Statistics & Mathematics degree so I'm very interested in all things maths/stats/cs!:) In addition to working as a TA for STAT 100, I also manage and develop the STAT 100 course website and work as a TA for STAT 107. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
+    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a grad student studying analytical statistics. I completed an A.S. Computer Science degree and a B.S. Statistics & Mathematics degree so I'm very interested in all things maths/stats/cs!:) In addition to working as a TA for STAT 100, I also manage and develop the STAT 100 course website and work as a TA for STAT 107: Data Science Discovery. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
 
 - name: "Kelsey Libert"
   netid: "klibert2"
@@ -133,4 +134,4 @@ staff:
   major: "Psychology, Speech & Hearing Science, and Disability Studies"
   email: ""
   bio: >-
-    Hi! My name is Kelsey Libert and I am a sophomore studying speech and hearing science. STAT 100 was one of my favorite classes, and I hope to help others understand and enjoy statistics just as much as I do! Outside of working as a TA, I am also a research assistant, volunteer at Carle Auditory Oral School, and childcare coordinator at my church. In my free time, I enjoy cooking, reading, photography, and spending time with my friends and family.
+    Hi! My name is Kelsey Libert and I am a Senior studying speech and hearing science. STAT 100 was one of my favorite classes, and I hope to help others understand and enjoy statistics just as much as I do! Outside of working as a TA, I am also a research assistant, volunteer at Carle Auditory Oral School, and childcare coordinator at my church. In my free time, I enjoy cooking, reading, photography, and spending time with my friends and family.
