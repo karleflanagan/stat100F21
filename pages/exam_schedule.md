@@ -22,7 +22,8 @@ title: Exam-Schedule
 <h4><b>Time: </b>{{ exam.time }}</h4>
 <h4><b>Covers: </b>{{ exam.content }}</h4>
 
-{% if exam.base-name == 'Exam1' %}
+<!-- Insert Exam number -->
+{% if exam.base-name == 'Exam_' %}
 <h4><b>Locations: </b> {{ exam.locations }}</h4>
 {% include exam_schedule.html %}
 <h4><b>Conflict Exam: {{ exam.conflict }}</b></h4>
