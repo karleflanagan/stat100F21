@@ -72,7 +72,7 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F21STATExam1Key.pdf' target='_blank'>Version B</a>"
+  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F21StatExam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F21StatExam1KeyB.pdf' target='_blank'>Version B</a> (STAT in the upper left hand corner)"
   date: "Wednesday, September 15th, 2021"
   time: "7-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
