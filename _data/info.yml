@@ -7,7 +7,7 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 9!</li>
+    <li>Welcome to Week 10!</li>
     <ul>
       <li>Exam grades are posted! Remember to check Canvas for grades, not Lon Capa! You can pick up your exam in office hours this week!</li>
       <li>Exam Keys are posted on the <a href="https://stat100website.web.illinois.edu/pages/exam_answers.html">Exam Answers</a> page!</li>
@@ -122,7 +122,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 13-19"
   locations: ""
-  show-exams: F
+  show-exams: T
   # exam-years:
   first: "S19" # Most recent semester
   full1: "Spring 2019"
@@ -134,7 +134,7 @@ exams:
   full4: "Fall 2019"
   conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
-show-finals: FF
+show-finals: T
 
 final-exam-keys: ''
 final-exam-content: 'The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b>'
