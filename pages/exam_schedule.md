@@ -46,4 +46,7 @@ The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 
 {% include final-schedule.html %}
 
-<h4><b>Conflict Exam Info:</b> For exams 1-3 there will be a conflict exam from 4:30-6pm on those days for any students who want to sign up! Sign up for these conflict exams on Lon Capa. If you are taking the regular exam at 7pm, no need to sign up!</h4>
+<h4><b>Conflict Exam: </b>
+<span style = "font-weight:normal"><i>Wednesday, December 15th from 1:30-4:30pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1):
+    <a href="http://ada.fs.illinois.edu/0032.html" target="_blank">2079 Natural History Building</a><br></li>
+    <li>Location for <b>ALL ONLINE</b> Students (Section ONL): <a href="http://ada.fs.illinois.edu/0012.html" target="_blank">100 Noyes</a><br></li></ul></span></h4>
