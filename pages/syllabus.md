@@ -8,6 +8,8 @@ title: syllabus
 
 # {{ site.short-title }} Syllabus {{ site.semester }} <a href="{{ site.baseurl }}/assets/docs/{{ site.short-semester }}_Stat100_Syllabus.pdf" target="\_blank">(View PDF)</a>
 
+[Read The Syllabus]({{ site.baseurl }}/assets/img/D203723A-9034-4CE1-862C-D6B2D1F34975.jpeg)
+
 ## Instructor Contact Information
 <ul>
 {% for instructor in site.data.info.instructors %}
