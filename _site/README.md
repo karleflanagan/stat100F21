@@ -1,4 +1,4 @@
-# UIUC Statistics 100 (Flanagan) Site for Fall 2021
+# UIUC STAT 100 Site
 
 ## Software Required:
   - Git

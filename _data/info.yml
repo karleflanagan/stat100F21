@@ -7,13 +7,9 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Finals Week!</li>
+    <li>Get ready for the First Week!</li>
     <ul>
-      <li>Congrats on making it to the end of Stat 100!</li>
-      <li>Our Stat 100 final this week! Check the <a href="https://stat100website.web.illinois.edu/pages/exam_schedule.html">schedule</a> to see when and where you will take it. It covers Chapters 1-24 in the notebook and practice finals are available <a href="https://stat100website.web.illinois.edu/pages/practice_exams.html">here</a>. The Twitch live-stream recording is available to watch on Canvas.</li>
-      <li>Check out the <a href="https://stat100website.web.illinois.edu/pages/grade_calc.html">grade calculator</a> to see what you need to get on the final to get your desired grade in the class.</li>
-      <li>There are no more Office Hours! Good luck on the exam and your other finals! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></li>
-      <li>Have a great and restful Winter Break! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></li>
+      <li><a href="https://www.youtube.com/watch?v=QtBDL8EiNZo">Click Me</a></li>
     </ul>
   </ul>
   </p>
@@ -28,17 +24,24 @@ main-email: "stat100@illinois.edu"
 instructors:
 - name: "Karle Flanagan"
   email: "stat100@illinois.edu"
+- name: "Jonas Reger"
+  email: "wreger2@illinois.edu"
 
 sections:
-- name: "L1"
+- name: "L2"
   type: "In Person"
   instructor: "Karle Flanagan"
-  times: "MWF from 10-10:50am."
+  times: "Tues/Thurs from 11:00AM-12:20PM."
   location: "Lincoln Hall Theater."
-- name: "ONL"
+- name: "O1"
   type: "Online"
   instructor: "Karle Flanagan"
-  times: "No assigned meeting times. Watch lecture videos on Canvas at any time that's convenient for you."
+  times: "Asynchronous lecture videos on <a href='http://canvas.illinois.edu/' target='_blank'>Canvas</a>."
+  location: "No in-person locations."
+- name: "O2"
+  type: "Online"
+  instructor: "Jonas Reger"
+  times: "Synchronous lecture videos on <a href='https://www.twitch.tv/wreger2' target='_blank'>Twitch</a> (optional)<br>Asynchronous lecture videos on <a href='http://canvas.illinois.edu/' target='_blank'>Canvas</a>."
   location: "No in-person locations."
 
 # - name: ""
@@ -49,7 +52,7 @@ sections:
 
 # Office hours
 office-hours:
-  location: "Siebel Center for Design.  The room number is SCD 0060 and the room is in the basement.  Make sure you are going to the Siebel Center for DESIGN on south campus (not to be confused with the Siebel Center for Computer Science on north campus)."
+  location: "Siebel Center for Design. The room number is SCD 0060 and can be found in the basement. Office hours start Week 2. Make sure you are going to the Siebel Center for DESIGN on south campus (not to be confused with the Siebel Center for Computer Science on north campus)."
   link: "https://illinois.zoom.us/j/81303149937?pwd=azVUQXlZTG13cnJpSHdUNDRRZ29FUT09"
   days: "Monday-Friday"
   times: "2pm-4pm"
@@ -57,7 +60,7 @@ office-hours:
 # Course Materials
 textbook:
   name: "Stat 100 Incomplete Lecture Notes Workbook"
-  edition: "Please make sure to get the Fall 2021 version Published by Stipes"
+  edition: "Please make sure to get the Spring 2022 version Published by Stipes"
   authors: "Ellen Fireman, Karle Flanagan, and John Marden"
   price: "$35"
 
@@ -74,12 +77,12 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F21StatExam1KeyA.pdf' target='_blank'>Version A</a> (<b>Stat</b> in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F21StatExam1KeyB.pdf' target='_blank'>Version B</a> (<b>STAT</b> in the upper left hand corner)"
-  date: "Wednesday, September 15th, 2021"
+  keys: ""
+  date: "Wednesday Feb 9th"
   time: "7-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
-  show-exams: T
+  show-exams: F
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -96,12 +99,12 @@ exams:
 
 - name: "Exam 2"
   base-name: "Exam2"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F21StatExam2KeyA.pdf' target='_blank'>Version A</a> (<b>Stats</b> in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F21StatExam2KeyB.pdf' target='_blank'>Version B</a> (<b>Statistics</b> in the upper left hand corner)"
-  date: "Wednesday, October 13th, 2021"
+  keys: ""
+  date: "Wednesday March 9th"
   time: "7-8:30pm"
   content: "Chapter 6-Chapter 12"
   locations: ""
-  show-exams: T
+  show-exams: F
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -118,12 +121,12 @@ exams:
 
 - name: "Exam 3"
   base-name: "Exam3"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F21StatExam3KeyA.pdf' target='_blank'>Version A</a> (<b>Fall</b> in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F21StatExam3KeyB.pdf' target='_blank'>Version B</a> (<b>FALL</b> in the upper right hand corner)"
-  date: "Wednesday, November 10th, 2021"
+  keys: ""
+  date: "Wednesday April 13th"
   time: "7-8:30pm"
   content: "Chapters 13-19"
   locations: ""
-  show-exams: T
+  show-exams: F
   # exam-years:
   first: "S19" # Most recent semester
   full1: "Spring 2019"
@@ -138,7 +141,7 @@ exams:
     <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
     <li>Location for <b>ALL ONLINE</b> Students (Section ONL): <a href="http://ada.fs.illinois.edu/0026.html" target="_blank">314 Altgeld</a><br></li></ul></span>
 
-show-finals: T
+show-finals: F
 
 final-exam-keys: ''
 final-exam-content: 'The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b>'
@@ -183,9 +186,9 @@ links1:
   subtitle: "Office Hours"
   url: "https://illinois.zoom.us/j/81303149937?pwd=azVUQXlZTG13cnJpSHdUNDRRZ29FUT09"
 
-# - title: "Piazza"
-#   subtitle: "Discussion Board"
-#   url: "https://piazza.com/illinois/spring2021/stat100onl"
+# - title: "Discord"
+#   subtitle: "Discussion Forum"
+#   url: ""
 
 # Data program links
 links2:

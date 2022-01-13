@@ -1,0 +1,19 @@
+* **{% assign in_person = site.data.info.sections | where: 'type', 'In Person' %}{% if in_person.size > 1 %}IN PERSON CLASSES ({% else %}IN PERSON CLASS ({% endif %}{% if in_person.size == 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif in_person.size > 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }}{% elsif class == in_person.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in in_person %}{{ class.name }}{% endfor %}{% endif %}) Bonus Points (100 total bonus points)**
+  1. **Pre-Lecture bonus points**--20 bonus points
+  2. **iClickers**--20 bonus points
+  3. **Lon Capa Surveys**--20 bonus points
+  4. **Completed Notebook**--40 bonus points
+* **{% assign online = site.data.info.sections | where: 'type', 'Online' %}{% if online.size > 1 %}ONLINE CLASSES ({% else %}ONLINE CLASS ({% endif %}{% if online.size == 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif online.size > 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }}{% elsif class == online.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in online %}{{ class.name }}{% endfor %}{% endif %}) Bonus Points (100 total bonus points)**
+  1. **Pre-Lecture bonus points**--40 bonus points
+  2. **Lon Capa Surveys**--20 bonus points
+  3. **Completed Notebook**--40 bonus points
+* <b><u>Descriptions</u></b>
+  1. **Pre-Lecture bonus points**<br>
+  Each class there will be a short pre-lecture videos posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you'll see in the actual lectures.
+  2. **Lon Capa Surveys**<br>
+  There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 4 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 4 points.
+  3. **Completed Notebook**<br>
+  We will look over your notebook at the final. You'll get full credit if you have all the pages from lecture filled in. You may skip ALL the practice exams and summary pages. If you're missing more than 3 required pages don't bother to turn in the notebook because you will receive negative bonus points. You may pick up your notebook at the end of your exam to keep forever.
+  4. **iClickers (in person class only!)**<br>
+  iClicker questions will be asked each day in class. You will get 1 bonus point per class period if you answer all of the iClicker questions. You can skip 2 days and still get full iClicker points.
+  <br><br> <b><u>* Bonus points can only help you.</u> You can still get 100% in this class without doing any bonus work.</b>

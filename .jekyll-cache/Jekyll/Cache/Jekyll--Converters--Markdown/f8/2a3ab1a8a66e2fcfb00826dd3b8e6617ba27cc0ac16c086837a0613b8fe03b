@@ -1,0 +1,85 @@
+I"$<h1>STAT 100 Spring 2022 Exam Schedule</h1>
+<h4><b style="color:red;">Important Info:</b>
+<ul>
+    <li>All Stat 100 Exams for all sections (both in person and online sections) will be in person unless the university changes to online. Plan on coming in person!</li>
+    <li>There will be three midterm exams and a comprehensive final exam.</li>
+    <li>Because all exams are in person, students are allowed to miss one of the 3 midterm exams without any penalty. It is in your best interest to take all 3 midterm exams, however, if you are sick or cannot take one of them for whatever reason, this will not hurt your grade.</li>
+    <li>If you miss an exam, whatever score you get on the final exam will be put in for your missed exam score.</li>
+    <li>The final exam is mandatory! Everyone must take the final.</li>
+    <li>Exam Locations will be posted closer to the dates.</li>
+    <li>If you are not in Champaign-Urbana, please contact me immediately to discuss exams.</li>
+</ul>
+</h4>
+
+<h2>STAT 100 Exam 1</h2>
+
+<h4><b>Date:</b> Wednesday Feb 9th</h4>
+<h4><b>Time: </b>7-8:30pm</h4>
+<h4><b>Covers: </b>Chapter 1-Chapter 6 Part 1</h4>
+
+<!-- Insert Exam number (e.g. 'Exam1') -->
+
+<h2>STAT 100 Exam 2</h2>
+
+<h4><b>Date:</b> Wednesday March 9th</h4>
+<h4><b>Time: </b>7-8:30pm</h4>
+<h4><b>Covers: </b>Chapter 6-Chapter 12</h4>
+
+<!-- Insert Exam number (e.g. 'Exam1') -->
+
+<h2>STAT 100 Exam 3</h2>
+
+<h4><b>Date:</b> Wednesday April 13th</h4>
+<h4><b>Time: </b>7-8:30pm</h4>
+<h4><b>Covers: </b>Chapters 13-19</h4>
+
+<!-- Insert Exam number (e.g. 'Exam1') -->
+
+<h2>Final Exam</h2>
+<ul>
+<!-- <li>
+ I use the final exam time assigned to our class by the university.<br>
+</li>
+<li>
+See <b><a href="https://registrar.illinois.edu/spring-2020-non-combined-scheduling-guidelines/" target="\_blank">Official University Final Exams Schedules and Policies</a></b>.<br>
+</li> -->
+<li>
+The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br />
+</li>
+</ul>
+
+<div class="table-responsive">
+  <table class="table table-bordered">
+  <tr>
+    <th>Exam</th>
+    <th>Date &amp; Time</th>
+    <th>Location</th>
+  </tr>
+  <tr>
+    <td>In Person Section (L2) Final Exam -- taken in person</td>
+    <td>Thursday May 12th from 8-11am</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td>Karle's Online Section (O1) Final Exam -- taken in person</td>
+    <td>TBA</td>
+    <td>TBA</td>
+  </tr>
+  <tr>
+    <td>Jonas' Online Section (O2) Final Exam -- taken in person</td>
+    <td>TBA</td>
+    <td>TBA</td>
+  </tr>
+  </table>
+</div>
+
+<h4><b>Conflict Exam: </b>
+    <span style="font-weight:normal">
+        <i>TBA</i><br />
+            <ul>
+                <li>Location for <b>All IN PERSON</b> Students (Section L2): TBA<br /></li>
+                <li>Location for <b>ALL ONLINE</b> Students (Sections O1 &amp; O2): TBA<br /></li>
+            </ul>
+    </span>
+</h4>
+:ET

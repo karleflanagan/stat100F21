@@ -9,7 +9,16 @@ title: Exam-Schedule
 
 
 <h1>{{ site.short-title}} {{ site.semester }} Exam Schedule</h1>
-<h4><b style="color:red;">Important Info:</b> There will be three midterm exams and a comprehensive final exam. All of these will be taken in person and individually. Locations will be posted closer to the dates.  There will be NO makeup exams. If you miss an exam and have written proof of a valid reason, then we will substitute your final exam score for the missed exam.  If you are not in Champaign-Urbana, please contact me immediately to discuss exams.
+<h4><b style="color:red;">Important Info:</b>
+<ul>
+    <li>All Stat 100 Exams for all sections (both in person and online sections) will be in person unless the university changes to online. Plan on coming in person!</li>
+    <li>There will be three midterm exams and a comprehensive final exam.</li>
+    <li>Because all exams are in person, students are allowed to miss one of the 3 midterm exams without any penalty. It is in your best interest to take all 3 midterm exams, however, if you are sick or cannot take one of them for whatever reason, this will not hurt your grade.</li>
+    <li>If you miss an exam, whatever score you get on the final exam will be put in for your missed exam score.</li>
+    <li>The final exam is mandatory! Everyone must take the final.</li>
+    <li>Exam Locations will be posted closer to the dates.</li>
+    <li>If you are not in Champaign-Urbana, please contact me immediately to discuss exams.</li>
+</ul>
 </h4>
 
 {% for exam in site.data.info.exams %}
@@ -47,6 +56,11 @@ The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 {% include final-schedule.html %}
 
 <h4><b>Conflict Exam: </b>
-<span style = "font-weight:normal"><i>Wednesday, December 15th from 1:30-4:30pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1):
-    <a href="http://ada.fs.illinois.edu/0032.html" target="_blank">2079 Natural History Building</a><br></li>
-    <li>Location for <b>ALL ONLINE</b> Students (Section ONL): <a href="http://ada.fs.illinois.edu/0012.html" target="_blank">100 Noyes</a><br></li></ul></span></h4>
+    <span style = "font-weight:normal">
+        <i>TBA</i><br>
+            <ul>
+                <li>Location for <b>All IN PERSON</b> Students (Section L2): TBA<br></li>
+                <li>Location for <b>ALL ONLINE</b> Students (Sections O1 & O2): TBA<br></li>
+            </ul>
+    </span>
+</h4>
