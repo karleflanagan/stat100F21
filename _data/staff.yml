@@ -11,34 +11,6 @@ staff:
   bio: >-
     Hi everyone! My name is Karle and I'm one of the stat 100 instructors. I've always loved math, statistics, and education. Teaching stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br><br> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.
 
-# - name: "Olivia Luca"
-#   netid: "oluca2"
-#   role: "Course Assistant"
-#   seniority: "5"
-#   major: "Psychology & Spanish"
-#   email: ""
-#   bio: >-
-#     Hi everyone! My name is Olivia Luca and I am a senior studying psychology & Spanish. I really missed math in college since my majors mainly consist of a ton of reading, so statistics was the perfect way to bridge the gap between the two, as stats is key if you’re pursuing any type of research. Aside from being a part of the amazing STAT 100 team, I am also a psychology research assistant for the YEDI Lab at UIUC and the CDL at NYU. Outside of academics, I’m either booking my next vacation, hanging out with family & friends, or watching lots and lots of movies :)
-
-# - name: "Katherine Roeser"
-#   netid: "kroeser2"
-#   role: "Course Assistant"
-#   seniority: "5"
-#   major: "Statistics"
-#   email: ""
-#   bio: >-
-#     Hi! My name is Kate Roeser, and I am so excited to be a CA in my last semester here at Illinois! I took STAT100 my freshman year when I was undecided, and it led me to continue that path and declare a statistics major. I am so excited to be a CA and help students love the class like I did. I am currently looking for a job after I graduate, but outside of that I love to spend my time working out, hanging out with my friends, and going back to the suburbs to visit my family. 
-
-# - name: "Grant Winkelmann"
-#   netid: "grantrw2"
-#   role: "Course Assistant"
-#   seniority: "5"
-#   major: "Statistics"
-#   email: ""
-#   bio: >-
-#     Hello!
-#     I graduated with my bachelors in Statistics from U of I, and I am currently a Masters Student in Statistics. I plan on using my degree to do research in the health or medical field. I enjoy teaching both Statistics and music, and I used to be a private flute instructor. I look forward to a great semester helping students learning the Stat100 material!
-
 - name: "Robin Mark"
   netid: "robinlm2"
   role: "Course Assistant"
@@ -47,15 +19,6 @@ staff:
   email: ""
   bio: >-
     My name is Robin Mark and I am a Senior with a double major in Statistics and Economics. I love statistics so I am happy to be more involved in the Statistics Department as a Stat 100 CA as well as a Statistics Ambassador. Outside of academics, I am also very passionate about dance. I have been dancing since I was 5 years old and I have been lucky enough to be able to continue this activity in college on the Illini N Motion Dance Team. This year, I am the President of the team and I am very excited to have this leadership role and continue to help the dance team grow and thrive.
-
-- name: "Maha Hussain"
-  netid: "mhussa49"
-  role: "Course Assistant"
-  seniority: "5"
-  major: "Statistics"
-  email: ""
-  bio: >-
-    Hi there! My name is Maha Hussain and I am a senior studying Statistics and minoring in Business and Spanish. I wanted to be a STAT 100 CA because I wanted to get the opportunity to help other students see how applicable and fun statistics as a subject is, even if they aren't majoring in it! Outside of school, I love watching sitcoms (New Girl and the Office are definitely my favorites), getting bubble tea, and playing with my cat who I recently adopted. 
 
 - name: "Aarthi Mahesh"
   netid: "aarthim2"
@@ -73,16 +36,7 @@ staff:
   major: "Advertising & Leadership"
   email: ""
   bio: >-
-    Hi! My name is Catherine Arreazola and I’m a senior in advertising! I loved Stat 100 and how statistics can be applied to so many majors. I’m always happy to help so don’t be shy to come to office hours. A little more about me: I love to paint, exercise, and watch hockey! I also love murder mystery shows, especially Castle.
-
-- name: "Tamun Hanjra"
-  netid: "thanjra2"
-  role: "Course Assistant"
-  seniority: "4"
-  major: "Psychology"
-  email: ""
-  bio: >-
-    Hello everyone! My name is Tamun (tah-min) Hanjra, and I am a senior studying psychology. I have always been incredibly interested in statistics and data analysis in general, and STAT 100 further confirmed that love of mine. We are all super excited to get back into the swing of things this semester, so come say hi or ask questions during Office Hours - we are here to help! :) Outside of school, I am on the Marching Illini Drumline, so if you ever come to the games, say hi!! 
+    Hi! My name is Catherine Arreazola and I'm a senior in advertising! I loved Stat 100 and how statistics can be applied to so many majors. I'm always happy to help so don't be shy to come to office hours. A little more about me: I love to paint, exercise, and watch hockey! I also love murder mystery shows, especially Castle.
 
 - name: "Amber Dorn"
   netid: "amberd2"
@@ -101,15 +55,6 @@ staff:
   email: ""
   bio: >-
     My name is Miah Phillips and I'm a Senior on a pre-dental track! Stat 100 was my favorite class I've ever taken, so I knew I wanted to become more involved with it! Other things about me: I am obsessed with my dog (please ask to see pictures), I am from a small town 30 minutes south of campus named Tuscola, and I watch an unhealthy amount of Friends!
-
-# - name: "Sharon Wang"
-#   netid: "sjwang3"
-#   role: "Course Assistant"
-#   seniority: "3"
-#   major: "Statistics & Computer Science"
-#   email: ""
-#   bio: >-
-#     Hello! My name is Sharon Wang and I'm a Senior in Statistics & Computer Science. I absolutely love STAT 100 and I hope you enjoy it as much as I do! In addition to being a CA for STAT 100, I'm also doing research in data mining. I'm from eastern Massachusetts (near Lowell), and in my free time, I love to paint, overanalyze TV shows, and eat Eggos :)
 
 - name: "Cheyenne Petersen"
   netid: "csp2"
