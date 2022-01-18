@@ -24,26 +24,37 @@ layout: default
     </div>
     <div class="row text-center">
     <!-- loops through section information -->
-      <div class="col-md-6">
-        <div class="feature">
-          <i class="{{ site.data.info.in-person-icon }}" data-fa-transform="shrinks-5 up-4"></i>
-          <h3>In Person Section: {% assign in_person = site.data.info.sections | where: 'type', 'In Person' %}{% if in_person.size == 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif in_person.size > 2 %}{% for class in in_person %}{% if class == in_person.first %}{{ class.name }}{% elsif class == in_person.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in in_person %}{{ class.name }}{% endfor %}{% endif %}</h3>
-          <p>{% for class in in_person %}
-          <b>{{ class.name }} Instructor: {{ class.instructor }}</b><br>
-          {{ class.times }} {{ class.location }}<br>
-          {% endfor %}</p>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div class="feature">
-          <a href="{{ site.data.info.rickroll }}"><i class="{{ site.data.info.online-icon }}" data-fa-transform="shrinks-5 up-4"></i></a>
-          <h3>Online Section: {% assign online = site.data.info.sections | where: 'type', 'Online' %}{% if online.size == 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }} & {% else %}{{ class.name }}{% endif %}{% endfor %}{% elsif online.size > 2 %}{% for class in online %}{% if class == online.first %}{{ class.name }}{% elsif class == online.last %} & {{ class.name }}{% else %}, {{ class.name }}{% endif %}{% endfor %}{% else %}{% for class in online %}{{ class.name }}{% endfor %}{% endif %}</h3>
-          <p>{% for class in online %}
-          <b>{{ class.name }} Instructor: {{ class.instructor }}</b><br>
-          {{ class.times }}<br>{{ class.location }}<br>
-          {% endfor %}</p>
-        </div>
-      </div>
+      {% assign sections = site.data.info.sections %}
+      <!-- <h1>{{ sections.size | modulo: 2 }}</h1> -->
+      <!-- How many sections there are, How to divide space -->
+      {% case sections.size %}
+        {% when 1 %}
+          {% assign spacing = "col-md-12" %}
+        {% when 2 %}
+          {% assign spacing = "col-md-6" %}
+        {% when 3 %}
+          {% assign spacing = "col-md-4" %}
+        {% else %}
+          {% assign spacing = "col-md-3" %}
+      {% endcase %}
+      {% for section in sections %}
+        {% if section.type == "In Person" or section.type == "Online" %}
+          {% if section.type == "In Person" %}
+            {% assign icon = site.data.info.in-person-icon %}
+          {% else %}
+            {% assign icon = site.data.info.online-icon %}
+          {% endif %}
+          <div class="{{ spacing }}">
+            <div class="feature">
+              <i class="{{ icon }}" data-fa-transform="shrinks-5 up-4"></i>
+              <h3>{{ section.type }} Section {{ section.name }}</h3>
+              <p><b>Instructor: {{ section.instructor }}</b><br>
+              {{ section.times }}<br>
+              {{ section.location }}</p>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
   </div>
 </div>
