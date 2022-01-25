@@ -11,7 +11,7 @@ announcements: >-
     <ul>
       <li>Remember to <b>get your STAT 100 notebook</b> from the Illini Union Bookstore or <a href="https://buy.stipes.com/products/uiuc-stat-100-sp-22__;!!DZ3fjg!rWl7OL0vzM8snrUYE4xSjrZLtmoIHTPvZ-Ecg-qQjVam_hvT2USZNcDLlIksDUMo$" target="_blank">Stipes</a> if you haven't already! If you are outside the US, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> for more info about purchasing an ebook!</li>
       <li>Remember to <b>join the Stat 100 Discord</b> to ask questions and get help in Stat 100! If you're not sure how to join the Discord forum, watch this short <a href="https://youtu.be/TAuHbdE-lFA" target="_blank">introduction video</a>!</li>
-      <li><b>In-Person Office Hours</b> are 2-4 pm M-F at the <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a> and <b><a href="https://illinois.zoom.us/j/81303149937?pwd=azVUQXlZTG13cnJpSHdUNDRRZ29FUT09" target="_blank">Zoom</a> Office Hours</b> are 8-10 pm M-F. If you have any questions, stop by office hours this week! &#128522;</li>
+      <li><b>In-Person Office Hours</b> are 2-4 pm M-F at the <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a> and <b><a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a> Office Hours</b> are 8-10 pm Mondays. If you have any questions, stop by office hours this week! &#128522;</li>
       <li><b>Karle's In Person Section L2</b> will begin in person classes this week! <b>Jonas' Online Section O2</b> will begin receiving prerecorded videos on Mondays. All lectures will be recorded and posted on Canvas.</li>
     </ul>
   </ul>
@@ -56,8 +56,8 @@ sections:
 # Office hours
 office-hours:
   location: "Siebel Center for Design. The room number is SCD 0060 and can be found in the basement. Office hours start Week 2. Make sure you are going to the Siebel Center for DESIGN on south campus (not to be confused with the Siebel Center for Computer Science on north campus)."
-  link: "https://illinois.zoom.us/j/81303149937?pwd=azVUQXlZTG13cnJpSHdUNDRRZ29FUT09"
-  days: "Monday-Friday"
+  link: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
+  days: "Monday"
   times: "2pm-4pm"
 
 # Course Materials
