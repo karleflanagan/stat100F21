@@ -85,7 +85,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
-  show-exams: F
+  show-exams: T
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -107,7 +107,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapter 6-Chapter 12"
   locations: ""
-  show-exams: F
+  show-exams: T
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -129,7 +129,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 13-19"
   locations: ""
-  show-exams: F
+  show-exams: T
   # exam-years:
   first: "S19" # Most recent semester
   full1: "Spring 2019"
