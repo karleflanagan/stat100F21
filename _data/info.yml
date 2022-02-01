@@ -89,11 +89,11 @@ exams:
   show-exams: T
   # exam-years:
   first: "F21" # Most recent semester
-  full1: "Fall 2019"
+  full1: "Fall 2021"
   second: "F19"
-  full2: "Spring 2019"
+  full2: "Fall 2019"
   third: "S19"
-  full3: "Fall 2018"
+  full3: "Spring 2019"
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
@@ -111,11 +111,11 @@ exams:
   show-exams: T
   # exam-years:
   first: "F21" # Most recent semester
-  full1: "Fall 2019"
+  full1: "Fall 2021"
   second: "F19"
-  full2: "Spring 2019"
+  full2: "Fall 2019"
   third: "S19"
-  full3: "Fall 2018"
+  full3: "Spring 2019"
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
@@ -133,11 +133,11 @@ exams:
   show-exams: T
   # exam-years:
   first: "F21" # Most recent semester
-  full1: "Fall 2019"
+  full1: "Fall 2021"
   second: "F19"
-  full2: "Spring 2019"
+  full2: "Fall 2019"
   third: "S19"
-  full3: "Fall 2018"
+  full3: "Spring 2019"
   fourth: "S20" # notebook exam
   full4: "Fall 2019"
   conflict: >-
