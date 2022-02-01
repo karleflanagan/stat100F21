@@ -88,11 +88,11 @@ exams:
   locations: ""
   show-exams: T
   # exam-years:
-  first: "F19" # Most recent semester
+  first: "F21" # Most recent semester
   full1: "Fall 2019"
-  second: "S19"
+  second: "F19"
   full2: "Spring 2019"
-  third: "F18"
+  third: "S19"
   full3: "Fall 2018"
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
@@ -110,11 +110,11 @@ exams:
   locations: ""
   show-exams: T
   # exam-years:
-  first: "F19" # Most recent semester
+  first: "F21" # Most recent semester
   full1: "Fall 2019"
-  second: "S19"
+  second: "F19"
   full2: "Spring 2019"
-  third: "F18"
+  third: "S19"
   full3: "Fall 2018"
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
@@ -132,13 +132,13 @@ exams:
   locations: ""
   show-exams: T
   # exam-years:
-  first: "S19" # Most recent semester
-  full1: "Spring 2019"
-  second: "F18"
-  full2: "Fall 2018"
-  third: "S18"
-  full3: "Spring 2018"
-  fourth: "F19" # notebook exam
+  first: "F21" # Most recent semester
+  full1: "Fall 2019"
+  second: "F19"
+  full2: "Spring 2019"
+  third: "S19"
+  full3: "Fall 2018"
+  fourth: "S20" # notebook exam
   full4: "Fall 2019"
   conflict: >-
     <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1):
