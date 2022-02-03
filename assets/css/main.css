@@ -130,13 +130,13 @@ body {
   padding: 0 7%;
 }
 
-#syllabus h1, #exam-schedule h1, #exam-answers h1, #practice-exams h1, #faqs h1, #calendar h1 {
+#syllabus h1, #exam-schedule h1, #exam-answers h1, #practice-exams h1, #faqs h1, #calendar h1, #office-hour h1 {
   font-weight: bold;
   font-size: 40px;
   color: #13294b;
 }
 
-#syllabus h2, #exam-schedule h2, #exam-answers h2, #practice-exams h2, #faqs h2 {
+#syllabus h2, #exam-schedule h2, #exam-answers h2, #practice-exams h2, #faqs h2, #office-hour h2 {
   font-weight: bold;
   font-size: 30px;
   color: #13294b;
@@ -145,7 +145,7 @@ body {
   margin-top: 8px;
 }
 
-#exam-schedule h4, #exam-answers h4, #practice-exams h4 {
+#exam-schedule h4, #exam-answers h4, #practice-exams h4, #office-hour h4 {
   font-size: 20px;
 }
 
@@ -177,7 +177,7 @@ body {
     margin-bottom: 15px;
 }
 
-#exam-schedule table, #practice-exams table {
+#exam-schedule table, #practice-exams table, #office-hour table {
   table-layout: fixed;
 }
 
@@ -493,10 +493,10 @@ h2.heading {
     font-size: 19px;
   }
   /* Information Pages Styling */
-  #syllabus h1, #exam-schedule h1, #exam-answers h1, #practice-exams h1, #calendar h1, #faqs h1 {
+  #syllabus h1, #exam-schedule h1, #exam-answers h1, #practice-exams h1, #calendar h1, #faqs h1, #office-hour h1 {
     font-size: 25px;
   }
-  #syllabus h2, #exam-schedule h2, #exam-answers h2, #practice-exams h2, #faqs h2 {
+  #syllabus h2, #exam-schedule h2, #exam-answers h2, #practice-exams h2, #faqs h2, #office-hour h2 {
     font-size: 20px;
   }
   #syllabus h3 {
@@ -505,7 +505,7 @@ h2.heading {
   #syllabus li {
     font-size: 15px;
   }
-  #exam-schedule h4, #exam-answers h4, #practice-exams h4 {
+  #exam-schedule h4, #exam-answers h4, #practice-exams h4, #office-hour h4 {
     font-size: 15px;
   }
   #faqs button, #faqs .card-body {
@@ -514,7 +514,7 @@ h2.heading {
   .syllabus {
     width: 100%;
   }
-  .syllabus.narrow, .calendar.narrow, .faqs.narrow, .exam-schedule.narrow, .exam-answers.narrow, .practice-exams.narrow, .Covid-19-Online-Amendments.narrow, .grade-calculator.narrow {
+  .syllabus.narrow, .calendar.narrow, .faqs.narrow, .exam-schedule.narrow, .exam-answers.narrow, .practice-exams.narrow, .Covid-19-Online-Amendments.narrow, .grade-calculator.narrow, .office-hour.narrow {
     width: 100%;
     padding-top: 5px;
   }
@@ -534,7 +534,7 @@ h2.heading {
     margin-bottom: -20px;
   }
   /* Calendar Styling */
-  .calendar.narrow .card {
+  .calendar.narrow .card, .office-hour.narrow .card {
     padding: 0 5px;
     margin-bottom: -20px;
   }
@@ -542,10 +542,10 @@ h2.heading {
     padding: 0px 30px;
     margin-bottom: 0px;
   }
-  .calendar .table-responsive {
+  .calendar .table-responsive, .office-hour .table-responsive {
     margin-bottom: -60px;
   }
-  .calendar td {
+  .calendar td, .office-hour td {
     font-size:50%;
   }
   /* Announcements Styling */

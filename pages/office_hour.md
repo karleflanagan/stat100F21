@@ -7,6 +7,7 @@ title: office-hour
 ---
 
 # {{ site.short-title }} {{ site.semester }} Office Hours
+
 <h4><b style="color: red;">Important Things to Know &#128522;</b>
 <ul>
     <li>We have daily office hours to help students with HW questions and exam prep!</li>
@@ -30,11 +31,11 @@ title: office-hour
 ## In Person Office Hours
 
 <div class="table-responsive staff_oh">
-  <table class="table table-bordered" style="text-align: left;">
-  <col style="width:10%">
+  <table class="table table-bordered" style="table-layout: auto;">
+  <!-- <col style="width:10%">
   <col style="width:20%">
   <col style="width:35%">
-  <col style="width:35%">
+  <col style="width:35%"> -->
   <tr>
     <th>Day</th>
     <th>Time</th>
@@ -77,11 +78,11 @@ title: office-hour
 ## Online Office Hours
 
 <div class="table-responsive staff_oh">
-  <table class="table table-bordered" style="text-align: left;">
-  <col style="width:10%">
+  <table class="table table-bordered" style="table-layout: auto;">
+  <!-- <col style="width:10%">
   <col style="width:20%">
   <col style="width:35%">
-  <col style="width:35%">
+  <col style="width:35%"> -->
   <tr>
     <th>Day</th>
     <th>Time</th>
