@@ -1,4 +1,4 @@
-I"Ò<h1 id="stat-100-spring-2022-office-hours">STAT 100 Spring 2022 Office Hours</h1>
+I"Ì<h1 style="text-align:center;">STAT 100 Spring 2022 Office Hours</h1>
 
 <h4><b style="color: red;">Important Things to Know &#128522;</b>
 <ul>
@@ -23,11 +23,11 @@
 <h2 id="in-person-office-hours">In Person Office Hours</h2>
 
 <div class="table-responsive staff_oh">
-  <table class="table table-bordered" style="text-align: left;">
-  <col style="width:10%" />
-  <col style="width:20%" />
-  <col style="width:35%" />
-  <col style="width:35%" />
+  <table class="table table-bordered" style="table-layout: auto;">
+  <!-- <col style="width:10%">
+  <col style="width:20%">
+  <col style="width:35%">
+  <col style="width:35%"> -->
   <tr>
     <th>Day</th>
     <th>Time</th>
@@ -70,11 +70,11 @@
 <h2 id="online-office-hours">Online Office Hours</h2>
 
 <div class="table-responsive staff_oh">
-  <table class="table table-bordered" style="text-align: left;">
-  <col style="width:10%" />
-  <col style="width:20%" />
-  <col style="width:35%" />
-  <col style="width:35%" />
+  <table class="table table-bordered" style="table-layout: auto;">
+  <!-- <col style="width:10%">
+  <col style="width:20%">
+  <col style="width:35%">
+  <col style="width:35%"> -->
   <tr>
     <th>Day</th>
     <th>Time</th>

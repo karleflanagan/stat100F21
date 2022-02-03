@@ -6,7 +6,7 @@ layout: content
 title: office-hour
 ---
 
-# {{ site.short-title }} {{ site.semester }} Office Hours
+<h1 style="text-align:center;">{{ site.short-title }} {{ site.semester }} Office Hours</h1>
 
 <h4><b style="color: red;">Important Things to Know &#128522;</b>
 <ul>

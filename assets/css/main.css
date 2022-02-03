@@ -529,12 +529,12 @@ h2.heading {
     padding-bottom: 1px;
     padding-top: 25px;
   }
-  .syllabus.narrow .card, .exam-schedule.narrow .card, .exam-answers.narrow .card .practice-exams.narrow .card, .faqs.narrow .card, .Covid-19-Online-Amendments.narrow .card, .grade-calculator.narrow .card {
-    padding: 0 30px;
+  .syllabus.narrow .card, .exam-schedule.narrow .card, .exam-answers.narrow .card .practice-exams.narrow .card, .faqs.narrow .card, .Covid-19-Online-Amendments.narrow .card, .grade-calculator.narrow .card, .office-hour.narrow .card {
+    padding: 0 15px;
     margin-bottom: -20px;
   }
   /* Calendar Styling */
-  .calendar.narrow .card, .office-hour.narrow .card {
+  .calendar.narrow .card {
     padding: 0 5px;
     margin-bottom: -20px;
   }
@@ -542,11 +542,11 @@ h2.heading {
     padding: 0px 30px;
     margin-bottom: 0px;
   }
-  .calendar .table-responsive, .office-hour .table-responsive {
+  .calendar .table-responsive {
     margin-bottom: -60px;
   }
   .calendar td, .office-hour td {
-    font-size:50%;
+    font-size:65%;
   }
   /* Announcements Styling */
   .announcements h2 {
