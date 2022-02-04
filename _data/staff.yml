@@ -11,11 +11,38 @@ staff:
   bio: >-
     Hi everyone! My name is Karle and I'm one of the stat 100 instructors. I've always loved math, statistics, and education. Teaching stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br><br> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.
 
-- name: "Megan"
-  netid: ""
+- name: "Jonas Reger"
+  netid: "wreger2"
+  role: "Instructor"
+  seniority: "S19"
+  major: "Analytical Statistics"
+  email: "wreger2@illinois.edu"
+  bio: >-
+    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a grad student studying analytical statistics. I completed an A.S. Computer Science degree and a B.S. Statistics & Mathematics degree so I'm very interested in all things maths/stats/cs!:) In addition to working as an Instructor for STAT 100, I also developed and manage the STAT 100 course website. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
+
+- name: "Madison Barrera"
+  netid: "mb24"
   role: "Course Assistant"
-  seniority: "6"
-  major: "Something Exciting"
+  seniority: "S22"
+  major: "Something Exciting!"
+  email: ""
+  bio: >-
+    to be added...
+
+- name: "Anson Aerath"
+  netid: "aaerath2"
+  role: "Course Assistant"
+  seniority: "S22"
+  major: "Something Exciting!"
+  email: ""
+  bio: >-
+    to be added...
+
+- name: "Megan Stemm"
+  netid: "mrstemm2"
+  role: "Course Assistant"
+  seniority: "S22"
+  major: "Something Exciting!"
   email: ""
   bio: >-
     to be added...
@@ -23,7 +50,7 @@ staff:
 - name: "Robin Mark"
   netid: "robinlm2"
   role: "Course Assistant"
-  seniority: "5"
+  seniority: "F21"
   major: "Statistics & Economics"
   email: ""
   bio: >-
@@ -32,7 +59,7 @@ staff:
 - name: "Riley Burgoon"
   netid: "burgoon4"
   role: "Course Assistant"
-  seniority: "4"
+  seniority: "F20"
   major: "Kinesiology"
   email: ""
   bio: >-
@@ -41,7 +68,7 @@ staff:
 - name: "Aarthi Mahesh"
   netid: "aarthim2"
   role: "Course Assistant"
-  seniority: "4"
+  seniority: "F20"
   major: "Psychology & Computer Science"
   email: ""
   bio: >-
@@ -50,7 +77,7 @@ staff:
 - name: "Catherine Arreazola"
   netid: "carreazola19"
   role: "Course Assistant"
-  seniority: "4"
+  seniority: "F20"
   major: "Advertising & Leadership"
   email: ""
   bio: >-
@@ -59,7 +86,7 @@ staff:
 - name: "Amber Dorn"
   netid: "amberd2"
   role: "Course Assistant"
-  seniority: "4"
+  seniority: "F20"
   major: "Speech & Hearing Science"
   email: ""
   bio: >-
@@ -68,7 +95,7 @@ staff:
 - name: "Miah Phillips"
   netid: "miahep2"
   role: "Course Assistant"
-  seniority: "3"
+  seniority: "F19"
   major: "Interdisciplinary Health Sciences"
   email: ""
   bio: >-
@@ -77,25 +104,16 @@ staff:
 - name: "Cheyenne Petersen"
   netid: "csp2"
   role: "Course Assistant"
-  seniority: "3"
+  seniority: "F19"
   major: "Psychology & Kinesiology"
   email: ""
   bio: >-
     My name is Cheyenne Petersen and I am a Senior studying Psychology. When I took STAT 100 as a freshman, I discovered a new interest in statistics and wanted to join the STAT 100 team! I am a huge Chicago Cubs fan, and I think it would be interesting to have a career in sport psychology and involve statistics. In my free time, I am on the Illinois Rowing Club team and enjoy reading and exercising. A fun fact is that I like trying different coffee shops on campus to keep up with my iced coffee obsession!
 
-- name: "Jonas Reger"
-  netid: "wreger2"
-  role: "Instructor"
-  seniority: "2"
-  major: "Analytical Statistics"
-  email: "wreger2@illinois.edu"
-  bio: >-
-    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a grad student studying analytical statistics. I completed an A.S. Computer Science degree and a B.S. Statistics & Mathematics degree so I'm very interested in all things maths/stats/cs!:) In addition to working as an Instructor for STAT 100, I also developed and manage the STAT 100 course website. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
-
 - name: "Kelsey Libert"
   netid: "klibert2"
   role: "Course Assistant"
-  seniority: "2"
+  seniority: "S19"
   major: "Psychology, Speech & Hearing Science, and Disability Studies"
   email: ""
   bio: >-

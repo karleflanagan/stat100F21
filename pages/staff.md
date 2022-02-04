@@ -28,11 +28,12 @@ layout: default
         </div>
 
         {% include staff_cards.html role='Instructor' seniority='1' %}
-        {% include staff_cards.html role='Instructor' seniority='2' %}
-        {% include staff_cards.html role='Course Assistant' seniority='2' %}
-        {% include staff_cards.html role='Course Assistant' seniority='3' %}
-        {% include staff_cards.html role='Course Assistant' seniority='4' %}
-        {% include staff_cards.html role='Course Assistant' seniority='5' %}
+        {% include staff_cards.html role='Instructor' seniority='S19' %}
+        {% include staff_cards.html role='Course Assistant' seniority='S19' %}
+        {% include staff_cards.html role='Course Assistant' seniority='F19' %}
+        {% include staff_cards.html role='Course Assistant' seniority='F20' %}
+        {% include staff_cards.html role='Course Assistant' seniority='F21' %}
+        {% include staff_cards.html role='Course Assistant' seniority='S22' %}
       </div>
     </div>
   </div>
