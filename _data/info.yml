@@ -7,14 +7,13 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 3!</li>
+    <li>Welcome to Week 4 (Exam 1 Week)!</li>
     <ul>
       <li>Remember, <b>if you attend class or office hours in person, you'll need to wear a proper mask the entire time!</b> Details can be <a href="https://covid19.illinois.edu/health-and-support/face-coverings/" target="_blank">found here</a>. Please wear either an N95, KN95, surgical, or cloth mask with no holes or openings over your nose and mouth the entire time!</li>
-      <li>Remember to <b>get your STAT 100 notebook</b> from the Illini Union Bookstore or <a href="https://buy.stipes.com/products/uiuc-stat-100-sp-22__;!!DZ3fjg!rWl7OL0vzM8snrUYE4xSjrZLtmoIHTPvZ-Ecg-qQjVam_hvT2USZNcDLlIksDUMo$" target="_blank">Stipes</a> if you haven't already! If you are outside the US, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> for more info about purchasing an ebook!</li>
-      <li>Remember to <b>join the Stat 100 Discord</b> to ask questions and get help in Stat 100! If you're not sure how to join the Discord forum, watch this short <a href="https://youtu.be/TAuHbdE-lFA" target="_blank">introduction video</a>!</li>
+      <li>Our exam is this Wednesday (02/09) from 7-8:30 pm in person. Check the <a href="https://stat100website.web.illinois.edu/pages/exam_schedule.html">Exam Schedule</a> page to find out where you will take the exam!</li>
+      <li>See the emails posted in Course Announcements on Canvas for details!</li>
       <li>Check the <a href="https://stat100website.web.illinois.edu/pages/office_hour.html">Office Hour</a> info page to see when and where office hours are! &#128522;</li>
-      <li>Remember to check Canvas for grades, not Lon-Capa.</li>
-      <li>Also, remember that we drop your 3 lowest HW grades at the end of the semester so you can miss 3 whole HW assignments without any penalty! We do not give any extensions for missed assignments!</li>
+      <li>Remember to check Canvas for grades, not Lon Capa! Exam grades will be posted by next Monday!</li>
     </ul>
   </ul>
   </p>
@@ -99,7 +98,8 @@ exams:
   full4: "Spring 2020"
   conflict: >-
     <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul>
-    <li>Location for <b>ALL STUDENTS</b>: <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">Gregory Hall (Room 100)</a><br></li></ul></span>
+    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>A-L</b>: <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">Gregory Hall (Room 100)</a><br></li>
+    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>M-Z</b>: <a href="http://ada.fs.illinois.edu/0026.html" target="_blank">Altgeld Hall (Room 314)</a><br></li></ul></span>
 
 - name: "Exam 2"
   base-name: "Exam2"
