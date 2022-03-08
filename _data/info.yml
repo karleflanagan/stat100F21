@@ -122,9 +122,9 @@ exams:
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
-    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Section L1):
-    <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
-    <li>Location for <b>ALL ONLINE</b> Students (Section ONL): <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">100 Gregory Hall</a><br></li></ul></span>
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul>
+    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>A-L</b>: <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">Gregory Hall (Room 100)</a><br></li>
+    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>M-Z</b>: <a href="http://ada.fs.illinois.edu/0026.html" target="_blank">Altgeld Hall (Room 314)</a><br></li></ul></span>
 
 - name: "Exam 3"
   base-name: "Exam3"
