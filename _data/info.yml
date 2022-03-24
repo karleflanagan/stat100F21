@@ -145,7 +145,7 @@ exams:
     <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
     <li>Location for <b>ALL ONLINE</b> Students (Section ONL): <a href="http://ada.fs.illinois.edu/0026.html" target="_blank">314 Altgeld</a><br></li></ul></span>
 
-show-finals: F
+show-finals: T
 
 final-exam-keys: ''
 final-exam-content: 'The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b>'
