@@ -133,11 +133,11 @@ exams:
   # exam-years:
   first: "F21" # Most recent semester
   full1: "Fall 2021"
-  second: "F19"
-  full2: "Fall 2019"
-  third: "S19"
-  full3: "Spring 2019"
-  fourth: "S20" # notebook exam
+  second: "S19"
+  full2: "Spring 2019"
+  third: "F18"
+  full3: "Fall 2018"
+  fourth: "F19" # notebook exam
   full4: "Fall 2019"
   conflict: >-
     <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1):
