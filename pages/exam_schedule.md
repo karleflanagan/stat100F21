@@ -55,12 +55,4 @@ The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 
 {% include final-schedule.html %}
 
-<h4><b>Conflict Exam: </b>
-    <span style = "font-weight:normal">
-        <i>TBA</i><br>
-            <ul>
-                <li>Location for <b>All IN PERSON</b> Students (Section L2): TBA<br></li>
-                <li>Location for <b>ALL ONLINE</b> Students (Sections O1 & O2): TBA<br></li>
-            </ul>
-    </span>
-</h4>
+
