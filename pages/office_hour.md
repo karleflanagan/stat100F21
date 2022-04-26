@@ -28,7 +28,7 @@ title: office-hour
   }
 </style>
 
-## Office Hour Schedule
+## Final Office Hour Schedule
 
 <div class="table-responsive staff_oh">
   <table class="table table-bordered" style="table-layout: auto;">
