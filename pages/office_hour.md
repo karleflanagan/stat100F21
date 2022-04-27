@@ -28,97 +28,71 @@ title: office-hour
   }
 </style>
 
-## In Person Office Hours
+
+## Office Hour Schedule
 
 <div class="table-responsive staff_oh">
   <table class="table table-bordered" style="table-layout: auto;">
-  <!-- <col style="width:10%">
-  <col style="width:20%">
-  <col style="width:35%">
-  <col style="width:35%"> -->
-  <tr>
-    <th>Day</th>
-    <th>Time</th>
-    <th>Location</th>
-    <th>Staff</th>
-  </tr>
-  <tr>
-    <td><b>Monday</b></td>
-    <td><b>In Person:</b> 2:00-4:00 PM</td>
-    <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a></td>
-    <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Kelsey, Cheyenne, Miah, Amber, Aarthi, Anson, Madison</td>
-  </tr>
-  <tr>
-    <td><b>Tuesday</b></td>
-    <td><b>In Person:</b> 2:00-4:00 PM</td>
-    <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a></td>
-    <td><b>Instructors:</b> Karle<br><b>TAs:</b> Cheyenne, Catherine, Robin, Megan</td>
-  </tr>
-  <tr>
-    <td><b>Wednesday</b></td>
-    <td><b>In Person:</b> 2:00-4:00 PM</td>
-    <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a></td>
-    <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Riley, Amber, Aarthi, Megan, Madison</td>
-  </tr>
-  <tr>
-    <td><b>Thursday</b></td>
-    <td><b>In Person:</b> 2:00-4:00 PM</td>
-    <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a></td>
-    <td><b>Instructors:</b> Karle<br><b>TAs:</b> Kelsey, Catherine, Riley, Amber, Robin, Anson, Megan</td>
-  </tr>
-  <tr>
-    <td><b>Friday</b></td>
-    <td><b>In Person:</b> 2:00-4:00 PM</td>
-    <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a></td>
-    <td><b>Instructors:</b> Jonas<br><b>TAs:</b> Kelsey, Cheyenne, Miah, Catherine</td>
-  </tr>
-  </table>
-</div>
-
-## Online Office Hours
-
-<div class="table-responsive staff_oh">
-  <table class="table table-bordered" style="table-layout: auto;">
-  <!-- <col style="width:10%">
-  <col style="width:20%">
-  <col style="width:35%">
-  <col style="width:35%"> -->
-  <tr>
-    <th>Day</th>
-    <th>Time</th>
-    <th>Location</th>
-    <th>Staff</th>
-  </tr>
-  <tr>
-    <td><b>Monday</b></td>
-    <td><b>Online:</b> 8:00-10:00 PM</td>
-    <td><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
-    <td><b>TAs:</b> Amber, Anson</td>
-  </tr>
-  <tr>
-    <td><b>Tuesday</b></td>
-    <td><b>Online:</b> 8:00-10:00 PM</td>
-    <td><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
-    <td><b>TAs:</b> Anson, Madison, Megan</td>
-  </tr>
-  <tr>
-    <td><b>Wednesday</b></td>
-    <td><b>Online:</b> 8:00-10:00 PM</td>
-    <td><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
-    <td><b>TAs:</b> Anson</td>
-  </tr>
-  <tr>
-    <td><b>Thursday</b></td>
-    <td><b>Online:</b> 8:00-9:00 PM</td>
-    <td><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
-    <td><b>TAs:</b> Megan</td>
-  </tr>
-  <tr>
-    <td><b>Friday</b></td>
-    <td><b>Online:</b> None</td>
-    <td><b>Online:</b> None</td>
-    <td><b>TAs:</b> None</td>
-  </tr>
+    <tr>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Location</th>
+      <th>Staff</th>
+    </tr>
+    <tr>
+      <td><b>Monday, April 25</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
+      <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Kelsey, Cheyenne, Miah, Amber, Aarthi, Anson, Madison</td>
+    </tr>
+    <tr>
+      <td><b>Tuesday, April 26</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
+      <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Cheyenne, Catherine, Robin, Madison, Megan</td>
+    </tr>
+    <tr>
+      <td><b>Wednesday, April 27</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
+      <td><b>Instructors:</b> Karle<br><b>TAs:</b> Riley, Amber, Aarthi, Megan, Miah</td>
+    </tr>
+    <tr>
+      <td><b>Thursday, April 28</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
+      <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Kelsey, Catherine, Riley, Robin, Anson, Megan, Madison</td>
+    </tr>
+    <tr>
+      <td><b>Friday, April 29</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> None</td>
+      <td><b>Instructors:</b> Jonas<br><b>TAs:</b> Kelsey, Cheyenne, Miah, Catherine</td>
+    </tr>
+    <tr>
+      <td><b>Monday, May 2</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
+      <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Kelsey, Cheyenne, Miah, Amber, Aarthi, Anson, Madison</td>
+    </tr>
+    <tr>
+      <td><b>Tuesday, May 3</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
+      <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Cheyenne, Catherine, Robin, Madison, Megan</td>
+    </tr>
+    <tr>
+      <td><b>Wednesday, May 4</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
+      <td><b>Instructors:</b> Karle<br><b>TAs:</b> Riley, Amber, Aarthi, Megan, Miah</td>
+    </tr>
+    <tr>
+      <td><b>Thursday, May 5 (Reading Day, Last Day of Office Hours)</b></td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> None</td>
+      <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Kelsey, Catherine, Riley, Robin, Anson, Megan, Madison</td>
+    </tr>
   </table>
 </div>
 
