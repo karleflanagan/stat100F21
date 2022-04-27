@@ -59,13 +59,13 @@ title: office-hour
     </tr>
     <tr>
       <td><b>Thursday, April 28</b></td>
-      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-9:00 PM</td>
       <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
       <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Kelsey, Catherine, Riley, Robin, Anson, Megan, Madison</td>
     </tr>
     <tr>
       <td><b>Friday, April 29</b></td>
-      <td><b>In Person:</b> 2:00-4:00 PM</td>
+      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> None</td>
       <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> None</td>
       <td><b>Instructors:</b> Jonas<br><b>TAs:</b> Kelsey, Cheyenne, Miah, Catherine</td>
     </tr>
@@ -89,7 +89,7 @@ title: office-hour
     </tr>
     <tr>
       <td><b>Thursday, May 5 (Reading Day, Last Day of Office Hours)</b></td>
-      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
+      <td><b>In Person:</b> 1:00-4:00 PM<br><b>Online:</b> None</td>
       <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> None</td>
       <td><b>Instructors:</b> Karle, Jonas<br><b>TAs:</b> Kelsey, Catherine, Riley, Robin, Anson, Megan, Madison</td>
     </tr>
