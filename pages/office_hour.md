@@ -8,7 +8,7 @@ title: office-hour
 
 <h1 style="text-align:center;">{{ site.short-title }} {{ site.semester }} Office Hours</h1>
 
-<h4><b style="color: red;">Important Things to Know &#128522;</b>
+<!-- <h4><b style="color: red;">Important Things to Know &#128522;</b>
 <ul>
     <li>We have daily office hours to help students with HW questions and exam prep!</li>
     <li>Feel free to come by even if you don't have a question. If you do your HW at office hours, then we can answer your questions as they come up!</li>
@@ -20,7 +20,7 @@ title: office-hour
 </ul>
 </h4>
 
-<b style="color: red;">Note: There are no office hours on W-F during Exam Weeks!</b>
+<b style="color: red;">Note: There are no office hours on W-F during Exam Weeks!</b> -->
 
 <style>
   .staff_oh td {
@@ -37,17 +37,6 @@ title: office-hour
       <th>Date</th>
       <th>Time</th>
       <th>Location</th>
-      <th>Staff</th>
-    </tr>
-    <tr>
-      <td><b>Wednesday, April 27</b></td>
-      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-10:00 PM</td>
-      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
-    </tr>
-    <tr>
-      <td><b>Thursday, April 28</b></td>
-      <td><b>In Person:</b> 2:00-4:00 PM<br><b>Online:</b> 8:00-9:00 PM</td>
-      <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
     </tr>
     <tr>
       <td><b>Friday, April 29</b></td>
@@ -70,8 +59,8 @@ title: office-hour
       <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
     </tr>
     <tr>
-      <td><b>Thursday, May 5 (Reading Day, Last Day of Office Hours)</b></td>
-      <td><b>In Person:</b> 1:00-4:00 PM<br><b>Online:</b> None</td>
+      <td><b>Thursday, May 5 (Reading Day)</b></td>
+      <td><b>In Person:</b> 1:00-5:00 PM<br><b>Online:</b> None</td>
       <td><b>In Person:</b> <a href="https://www.google.com/maps/place/Siebel+Center+for+Design/@40.1025572,-88.2353609,17z/data=!3m1!4b1!4m5!3m4!1s0x880cd70f5003035d:0xe7fb9f2c25e7cc08!8m2!3d40.1025531!4d-88.2331722" target="_blank">Siebel Center for Design (Room 0060)</a><br><b>Online:</b> None</td>
     </tr>
   </table>
