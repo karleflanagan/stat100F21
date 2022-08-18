@@ -7,19 +7,18 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 16! It's the last week of classes!! Congrats on almost finishing Stat 100 🙂</li>
+    <li>Welcome to Stat 100! Here are a few things to know for the first week of class:</li>
     <ul>
-      <li>The final exam dates, times, and locations are <a href="https://stat100.stat.illinois.edu/pages/exam_schedule.html">posted here</a>!</li>
+      <li>There are 2 sections of Stat 100 this semester.</li>
       <ul>
-        <li>Only students who have 3 finals in 24 hours or are in the online class and have a final at the same time can request to take a conflict.</li>
-        <li>The deadline to do this is the last day of classes (5/4 at 11:59pm). For details on how to request a conflict, please see Canvas!</li>
+        <li>Stat 100 In Person (Section: L1): This section meets MWF from 12-12:50pm each week in Lincoln Hall Theater.</li>
+        <li>Stat 100 Online (Section: ONL): This section is asynchronous and does not meet in person or on zoom.  Instead, I’ll post videos on Canvas for you to watch each week.</li>
       </ul>
-      <li>Make sure you know where and when your final is!</li>
+      <li>An email will be sent out on Thursday, August 18th for details about the first week of class :) It's also posted on our course Canvas page!</li>
       <ul>
-        <li>Also, make sure to bring a pencil, non graphing calculator, photo ID, and a mask to your final!</li>
+        <li>The only thing you need to do before the first day of class is to purchase the Stat 100 Incomplete Notes Workbook! It's avialable at the Illini Union Bookstore NOW!</li>
       </ul>
-      <li>Office hours details for this week are posted on our <a href="https://stat100website.web.illinois.edu/pages/office_hour.html">Office Hour</a> info page.</li>
-      <li>Enjoy the last week of classes and good luck on the final!</li>
+      <li>Looking forward to a great semester!</li>
     </ul>
   </ul>
   </p>
@@ -34,25 +33,19 @@ main-email: "stat100@illinois.edu"
 instructors:
 - name: "Karle Flanagan"
   email: "stat100@illinois.edu"
-- name: "Jonas Reger"
-  email: "wreger2@illinois.edu"
 
 sections:
-- name: "L2"
+- name: "L1"
   type: "In Person"
   instructor: "Karle Flanagan"
-  times: "Tues/Thurs from 11:00AM-12:20PM."
+  times: "Mon/Wed/Fri from 12:00PM-12:50PM."
   location: "Lincoln Hall Theater."
-- name: "O1"
+- name: "ONL"
   type: "Online"
   instructor: "Karle Flanagan"
   times: "Asynchronous lecture videos on <a href='http://canvas.illinois.edu/' target='_blank'>Canvas</a>."
   location: "No in-person locations."
-- name: "O2"
-  type: "Online"
-  instructor: "Jonas Reger"
-  times: "Asynchronous lecture videos on <a href='http://canvas.illinois.edu/' target='_blank'>Canvas</a>."
-  location: "No in-person locations."
+
 
 # - name: ""
 #   type: "In Person"
@@ -62,15 +55,15 @@ sections:
 
 # Office hours
 office-hours:
-  location: "Siebel Center for Design. The room number is SCD 0060 and can be found in the basement. Office hours start Week 2. Make sure you are going to the Siebel Center for DESIGN on south campus (not to be confused with the Siebel Center for Computer Science on north campus)."
+  location: "Computer Applications Building (CAB). The room number is 171 and CAB is on 6th and Springfield. Office hours start Week 2 :)"
   link: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
-  days: "Monday"
+  days: "Monday, Tuesday, Wednesday, Thursday, Friday"
   times: "2pm-4pm"
 
 # Course Materials
 textbook:
   name: "Stat 100 Incomplete Lecture Notes Workbook"
-  edition: "Please make sure to get the Spring 2022 version Published by Stipes"
+  edition: "Please make sure to get the teal Fall 2022 version Published by Stipes"
   authors: "Ellen Fireman, Karle Flanagan, and John Marden"
   price: "$35"
 
@@ -80,76 +73,70 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 # Exam Information
 # base-name is important for retrieving exam pdfs.
 # exam 1 location is added in exams.md through exam_schedule.html, leave empty here but update in exam_schedule.html (located in "_includes" folder). Also for quick editing of exam_schedule.html table, use exam_schedule.tgn in the "tools" folder. Upload this .tgn file to https://www.tablesgenerator.com/ to edit easily. This same process can be used to edit the final schedule in final-schedule.html using final-schedule.tgn (these files are found in same places as exam_schedule files).
-# show-exams is a T/F variable that controls the viewability of the practise exam pdfs. i.e. if show-exams for exam 3 is not T, then all of the exam 3 practise exams (with exception of 2016 key) will be greyed out and won't link to the pdfs. show-finals is the same kind of variable but for practise finals pdfs.
+# show-exams is a T/F variable that controls the viewability of the practice exam pdfs. i.e. if show-exams for exam 3 is not T, then all of the exam 3 practise exams (with exception of 2016 key) will be greyed out and won't link to the pdfs. show-finals is the same kind of variable but for practise finals pdfs.
 # T: Shows all exams in group.
 # F: Shows only the practice exam material of group.
 # FF: Hides all exams of group.
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S22Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S22Exam1KeyB.pdf' target='_blank'>Version B</a> (STAT in the upper left hand corner)"
-  date: "Wednesday Feb 9th"
+  #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S22Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S22Exam1KeyB.pdf' target='_blank'>Version B</a> (STAT in the upper left hand corner)"
+  date: "Wednesday Sept 14th"
   time: "7-8:30pm"
-  content: "Chapter 1-Chapter 6 Part 1"
+  content: "Chapter 1-Chapter 5"
   locations: ""
   show-exams: T
   # exam-years:
-  first: "F21" # Most recent semester
-  full1: "Fall 2021"
-  second: "F19"
-  full2: "Fall 2019"
-  third: "S19"
-  full3: "Spring 2019"
+  first: "S22" # Most recent semester
+  full1: "Spring 2022"
+  second: "F21"
+  full2: "Fall 2021"
+  third: "F19"
+  full3: "Fall 2019"
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
-    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul>
-    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>A-L</b>: <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">Gregory Hall (Room 100)</a><br></li>
-    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>M-Z</b>: <a href="http://ada.fs.illinois.edu/0026.html" target="_blank">Altgeld Hall (Room 314)</a><br></li></ul></span>
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul></span>
 
 - name: "Exam 2"
   base-name: "Exam2"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyA.pdf' target='_blank'>Version A</a> (Spring in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyB.pdf' target='_blank'>Version B</a> (SPRING in the upper right hand corner)"
-  date: "Wednesday March 9th"
+  #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyA.pdf' target='_blank'>Version A</a> (Spring in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyB.pdf' target='_blank'>Version B</a> (SPRING in the upper right hand corner)"
+  date: "Wednesday October 12th"
   time: "7-8:30pm"
   content: "Chapter 6-Chapter 12"
   locations: ""
   show-exams: T
   # exam-years:
-  first: "F21" # Most recent semester
-  full1: "Fall 2021"
-  second: "F19"
-  full2: "Fall 2019"
-  third: "S19"
-  full3: "Spring 2019"
+  first: "S22" # Most recent semester
+  full1: "Spring 2022"
+  second: "F21"
+  full2: "Fall 2021"
+  third: "F19"
+  full3: "Fall 2019"
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
-    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul>
-    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>A-L</b>: <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">Gregory Hall (Room 100)</a><br></li>
-    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>M-Z</b>: <a href="http://ada.fs.illinois.edu/0026.html" target="_blank">Altgeld Hall (Room 314)</a><br></li></ul></span>
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul></span>
 
 - name: "Exam 3"
   base-name: "Exam3"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyB.pdf' target='_blank'>Version B</a> (Statistics in the upper left hand corner)"
-  date: "Wednesday April 13th"
+  #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyB.pdf' target='_blank'>Version B</a> (Statistics in the upper left hand corner)"
+  date: "Wednesday November 9th"
   time: "7-8:30pm"
   content: "Chapters 13-19"
   locations: ""
   show-exams: T
   # exam-years:
-  first: "F21" # Most recent semester
-  full1: "Fall 2021"
-  second: "S19"
-  full2: "Spring 2019"
+  first: "S22" # Most recent semester
+  full1: "Spring 2022"
+  second: "F21"
+  full2: "Fall 2021"
   third: "F18"
   full3: "Fall 2018"
   fourth: "F19" # notebook exam
   full4: "Fall 2019"
   conflict: >-
-    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul>
-    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>A-L</b>: <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">Gregory Hall (Room 100)</a><br></li>
-    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>M-Z</b>: <a href="http://ada.fs.illinois.edu/0026.html" target="_blank">Altgeld Hall (Room 314)</a><br></li></ul></span>
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul></span>
 
 show-finals: T
 
@@ -171,10 +158,10 @@ final-years:
   first: "S14" # Most recent semester
   second: "S12"
 
-uiucfinals: "https://registrar.illinois.edu/spring-2020-non-combined-scheduling-guidelines/"
+uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/"
 final-deadline: "December 8th (the last day of class) at 11:59pm!"
 
-grade-calc: T
+grade-calc: FF
 
 pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
@@ -185,7 +172,7 @@ pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.h
 # Course links
 links1:
 - title: "Lon-Capa"
-  subtitle: "Homework & Bonus work"
+  subtitle: "Homework & Extra Credit"
   url: "http://www.lon-capa.illinois.edu/"
 
 - title: "Canvas"
@@ -248,8 +235,8 @@ course-link1: "https://go.illinois.edu/stat100"
 calculator: "https://www.amazon.com/Texas-Instruments-Scientific-Calculator-Accents/dp/B00000JBNX"
 
 technical:
-  name: "Dr. Yuk Tung Liu"
-  email: "ytliu@illinois.edu"
+  name: "Karle Flanagan"
+  email: "kflan@illinois.edu"
 
 in-person-icon: "fas fa-chalkboard-teacher fa-4x"
 online-icon: "fas fa-desktop fa-4x"

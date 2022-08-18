@@ -11,14 +11,14 @@ staff:
   bio: >-
     Hi everyone! My name is Karle and I'm one of the stat 100 instructors. I've always loved math, statistics, and education. Teaching stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br><br> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.
 
-- name: "Jonas Reger"
-  netid: "wreger2"
-  role: "Instructor"
-  seniority: "S19"
-  major: "Analytical Statistics"
-  email: "wreger2@illinois.edu"
+- name: "Amber Dorn"
+  netid: "amberd2"
+  role: "Course Assistant"
+  seniority: "F20"
+  major: "Speech & Hearing Science"
+  email: ""
   bio: >-
-    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> (he/his) and I'm a grad student studying analytical statistics. I completed an A.S. Computer Science degree and a B.S. Statistics & Mathematics degree so I'm very interested in all things maths/stats/cs!:) In addition to working as an Instructor for STAT 100, I also developed and manage the STAT 100 course website. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
+    Hi! My name is Amber Dorn and I'm a Junior studying Speech and Hearing Sciences. I really enjoyed taking Stat 100 and I think it's such an important and applicable class. I'm very excited to be a part of the Stat 100 team this year and help others gain a better understanding of this great subject! In addition to being a Stat 100 CA, I am also a research assistant for an audiology lab here on campus. In my free time I like to work out, play volleyball, spend time with my friends and try new coffee shops!
 
 - name: "Madison Barrera"
   netid: "mb24"
@@ -38,15 +38,6 @@ staff:
   bio: >-
     Hi! My name is Meg and I'm a freshman studying Speech and Hearing Sciences with a minor in Disability Studies. I took Stat100 last semester and really enjoyed the course, which inspired me to apply to become a Course Assistant. I love how important statistics are in the real world, and how they can be applied to every major. Apart from being a CA, I'm also involved in the a-cappella group Girls Next Door and the club NSSLHA. I love music and performing, one of my favorite artists is Taylor Swift! I'm looking forward to meeting you during office hours!!
 
-- name: "Robin Mark"
-  netid: "robinlm2"
-  role: "Course Assistant"
-  seniority: "F21"
-  major: "Statistics & Economics"
-  email: ""
-  bio: >-
-    My name is Robin Mark and I am a Senior with a double major in Statistics and Economics. I love statistics so I am happy to be more involved in the Statistics Department as a Stat 100 CA as well as a Statistics Ambassador. Outside of academics, I am also very passionate about dance. I have been dancing since I was 5 years old and I have been lucky enough to be able to continue this activity in college on the Illini N Motion Dance Team. This year, I am the President of the team and I am very excited to have this leadership role and continue to help the dance team grow and thrive.
-
 - name: "Riley Burgoon"
   netid: "burgoon4"
   role: "Course Assistant"
@@ -56,56 +47,3 @@ staff:
   bio: >-
     Hi! My name is Riley (she/her) and I'm a junior majoring in Kinesiology. Stat 100 is one of the best classes I've ever taken, and I hope that you all will feel the same way by the end of the semester :) In my free time, I like to read, watch sitcoms, and listen to Taylor Swift on repeat. 
 
-- name: "Aarthi Mahesh"
-  netid: "aarthim2"
-  role: "Course Assistant"
-  seniority: "F20"
-  major: "Psychology & Computer Science"
-  email: ""
-  bio: >-
-    Hello! My name is Aarthi Mahesh and I'm a Senior studying Computer Science and Psychology. I've never been a huge fan of math and statistics, but Stat 100 was one of my favorite classes ever so I wanted to join the team! I am obsessed with my cat & dog, watching New Girl for the millionth time, hiking, and traveling. 
-
-- name: "Catherine Arreazola"
-  netid: "carreazola19"
-  role: "Course Assistant"
-  seniority: "F20"
-  major: "Advertising & Leadership"
-  email: ""
-  bio: >-
-    Hi! My name is Catherine Arreazola and I'm a senior in advertising! I loved Stat 100 and how statistics can be applied to so many majors. I'm always happy to help so don't be shy to come to office hours. A little more about me: I love to paint, exercise, and watch hockey! I also love murder mystery shows, especially Castle.
-
-- name: "Amber Dorn"
-  netid: "amberd2"
-  role: "Course Assistant"
-  seniority: "F20"
-  major: "Speech & Hearing Science"
-  email: ""
-  bio: >-
-    Hi! My name is Amber Dorn and I'm a Junior studying Speech and Hearing Sciences. I really enjoyed taking Stat 100 and I think it's such an important and applicable class. I'm very excited to be a part of the Stat 100 team this year and help others gain a better understanding of this great subject! In addition to being a Stat 100 CA, I am also a research assistant for an audiology lab here on campus. In my free time I like to work out, play volleyball, spend time with my friends and try new coffee shops!
-
-- name: "Miah Phillips"
-  netid: "miahep2"
-  role: "Course Assistant"
-  seniority: "F19"
-  major: "Interdisciplinary Health Sciences"
-  email: ""
-  bio: >-
-    My name is Miah Phillips and I'm a Senior on a pre-dental track! Stat 100 was my favorite class I've ever taken, so I knew I wanted to become more involved with it! Other things about me: I am obsessed with my dog (please ask to see pictures), I am from a small town 30 minutes south of campus named Tuscola, and I watch an unhealthy amount of Friends!
-
-- name: "Cheyenne Petersen"
-  netid: "csp2"
-  role: "Course Assistant"
-  seniority: "F19"
-  major: "Psychology & Kinesiology"
-  email: ""
-  bio: >-
-    My name is Cheyenne Petersen and I am a Senior studying Psychology. When I took STAT 100 as a freshman, I discovered a new interest in statistics and wanted to join the STAT 100 team! I am a huge Chicago Cubs fan, and I think it would be interesting to have a career in sport psychology and involve statistics. In my free time, I am on the Illinois Rowing Club team and enjoy reading and exercising. A fun fact is that I like trying different coffee shops on campus to keep up with my iced coffee obsession!
-
-- name: "Kelsey Libert"
-  netid: "klibert2"
-  role: "Course Assistant"
-  seniority: "S19"
-  major: "Psychology, Speech & Hearing Science, and Disability Studies"
-  email: ""
-  bio: >-
-    Hi! My name is Kelsey Libert and I am a Senior studying speech and hearing science. STAT 100 was one of my favorite classes, and I hope to help others understand and enjoy statistics just as much as I do! Outside of working as a TA, I am also a research assistant, volunteer at Carle Auditory Oral School, and childcare coordinator at my church. In my free time, I enjoy cooking, reading, photography, and spending time with my friends and family.

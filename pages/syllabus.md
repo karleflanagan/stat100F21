@@ -45,14 +45,12 @@ title: syllabus
   We're using Canvas to post announcements, lecture videos, and display grades.
   <!-- * <b><a href="{{ site.data.info.course-link1 }}" target="\_blank">{{ site.data.info.course-link1 }}</a></b>
     <br>You can also google "stat 100" :) -->
-* <b>Discord Server</b><br>
-  The invite link is posted on Canvas. We're using using Discord as a discussion forum for students to ask questions.
 
 ## Course Materials
 * **Required Workbook: {{ site.data.info.textbook.name }} by {{ site.data.info.textbook.authors}}. {{ site.data.info.textbook.edition }}.**
-    1. Available at the Illini Union Bookstore for {{ site.data.info.textbook.price }} or online at **<a href="https://buy.stipes.com/products/uiuc-stat-100-sp-22__;!!DZ3fjg!rWl7OL0vzM8snrUYE4xSjrZLtmoIHTPvZ-Ecg-qQjVam_hvT2USZNcDLlIksDUMo$" target="_blank">Stipes</a>**.
+    1. Available at the Illini Union Bookstore for {{ site.data.info.textbook.price }} or online at **<a href="https://buy.stipes.com/products/uiuc-stat-100-fa22" target="_blank">Stipes</a>**.
     2. This notebook is the only thing that's required to purchase for Stat 100!
-    3. You will use this notebook each week when you watch the videos!
+    3. You will use this notebook each week during class!<br>
 * **Required Non-Graphing Calculator:** You'll also need a non-graphing calculator for exams. Any calculator that can do basic operations and square roots will be fine. I recommend <b><a href="{{ site.data.info.calculator }}" target="\_blank">this one!</a></b> Graphing calculators (TI 83s, TI 84s, TI Nspires, etc.) are not allowed on exams.
 * **Optional iClicker for In Person class only:** I will be doing iClicker questions for extra credit in the in person class each day. Online class- do not by an iClicker, you’ll get extra credit in other ways!
 
@@ -67,25 +65,24 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
 </ul>
 
 ## Office Hours
-* <b>{{ site.short-title }} Office Hours</b> will be offered each week {{ site.data.info.office-hours.days }} from {{ site.data.info.office-hours.times }} in the {{ site.data.info.office-hours.location }}.
+* <b>{{ site.short-title }} Office Hours</b> will be offered each week {{ site.data.info.office-hours.days }} from {{ site.data.info.office-hours.times }} in the {{ site.data.info.office-hours.location }}
 * Feel free to stop by anytime for help. Karle and the Stat 100 CAs will be there to answer any questions you may have about the course, assignments, or anything you need. If you are unavailable during these times and want to meet, send us an email at <a href="mailto:{{ site.data.info.main-email }}">{{ site.data.info.main-email }}</a> and we will set up a time!
 
 ## Technical Issues
-* If you experience a glitch in Lon Capa/Canvas, first, try logging out and logging back in. If this doesn't work, send an email to our tech doc, {{ site.data.info.technical.name }} <b><a href="mailto:{{ site.data.info.technical.email }}">{{ site.data.info.technical.email }}</a></b> describing the problem. Please make sure to include a screenshot of the error in your e-mail. You can also stop by office hours and get help in person!
+* If you experience a glitch in Lon Capa/Canvas, first, try logging out and logging back in. If this doesn't work, send an email to {{ site.data.info.technical.name }} <b><a href="mailto:{{ site.data.info.technical.email }}">{{ site.data.info.technical.email }}</a></b> describing the problem. Please make sure to include a screenshot of the error in your e-mail. You can also stop by office hours and get help in person!
 
 ## Homework Schedule
-* Homework is due {{ site.data.info.hw-duedates }} (see <b><a href="{{ site.baseurl }}/pages/calendar.html">calendar</a></b>) on <b><a href="http://www.lon-capa.illinois.edu/" target="\_blank">Lon-Capa</a></b>. You can ask questions on the Lon Capa discussion boards, the Discord Server and stop by office hours any time to get homework help!
+* Homework is due {{ site.data.info.hw-duedates }} (see <b><a href="{{ site.baseurl }}/pages/calendar.html">calendar</a></b>) on <b><a href="http://www.lon-capa.illinois.edu/" target="\_blank">Lon-Capa</a></b>. You can ask questions on the Lon Capa discussion boards or stop by office hours any time to get homework help!
 * <b style="color:red;">We do NOT accept late hw, but we do drop your 3 lowest HW scores. This means you can miss 3 HW assignments without any penalty!</b>
-* There are many ways to get help so don’t hesitate to ask!  Also, please do not ask for an extension.  To be fair to everyone, extension requests will not be granted since you can miss 3 assignments without penalty.  If something happens where you will miss more than 3 HW assignments, please contact your Instructor (Karle or Jonas) right away and we will work something out!
+* There are many ways to get help so don’t hesitate to ask!  Also, please do not ask for an extension.  To be fair to everyone, extension requests will not be granted since you can miss 3 assignments without penalty.  If something happens where you will miss more than 3 HW assignments, please contact your instructor right away and we will work something out!
 
 ## Exam Schedule
 * There will be 3 evening exams and a cumulative final. See the <b><a href="{{ site.baseurl }}/pages/exam_schedule.html">Exam Schedule</a></b> for dates, times, and locations.
   * <b>Exam 1:</b> {{ site.data.info.exams[0].date }} from 7-8:30pm
   * <b>Exam 2:</b> {{ site.data.info.exams[1].date }} from 7-8:30pm
   * <b>Exam 3:</b> {{ site.data.info.exams[2].date }} from 7-8:30pm
-  * <b>Final for In Person Section L2:</b> Thursday May 12th from 8-11am
-  * <b>Final for Online Section O1 (Karle):</b> Wednesday May 11th from 1:30-4:30pm
-  * <b>Final for Online Section O2 (Jonas):</b> Friday May 6th from 1:30-4:30pm
+  * <b>Final for In Person Section L1:</b> Friday December 16th from 1:30-4:30pm
+  * <b>Final for Online Section ONL:</b> TBA
 
 * For Exams 1-3, there will be a main conflict at 4:30pm on exam days!  You will be able to sign up for these on Lon Capa the week before.  All exams for both the in person and online sections will be in person.  If you are not on the UIUC campus, please contact us immediately to set something up.
 
