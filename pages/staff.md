@@ -17,15 +17,7 @@ layout: default
       </div>
       <div class="row text-center">
 
-        <div class="col-xl-12 col-sm-12 mb-1">
-          <div class="staff-card bg-white rounded shadow-sm py-2 px-0">
-            <a href="{{ site.data.info.rickroll }}">
-              <img src="{{ site.baseurl }}/assets/img/staff-photos/stat100_impact_final1.png" class="img-fluid mb-2 img-thumbnail shadow-sm" style="width=100%;">
-            </a>
-            <h5 class="mb-0">Meet the STAT 100 Team!:)</h5>
-            <h6 class="mb-0">Come meet us at STAT 100 <a href="{{ site.data.info.office-hours.link }}">Zoom</a> Office Hours!:)</h6>
-          </div>
-        </div>
+
 
         {% include staff_cards.html role='Instructor' seniority='1' %}
         {% include staff_cards.html role='Instructor' seniority='S19' %}
