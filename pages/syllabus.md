@@ -99,7 +99,7 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
 
 ## Bonus Work
 **Bonus Points — You may earn between 0 and 100 Bonus Points.**
-* **Everyone may earn between 0 and 100 Bonus Points.** Every bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you.  Bonus points are extra credit. Here’s how you can get them:
+**Everyone may earn between 0 and 100 Bonus Points.** Every bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you.  Bonus points are extra credit. Here’s how you can get them:
   1. **Pre-Lecture bonus points (34.5 bonus points)**<br>
   Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures. There are 23 prelectures and each is worth 1.5 bonus points.
 
@@ -118,7 +118,7 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
   3. **Research Opportunities**<br>
   There are usually a few research opportunities to participate in throughout the semester. The details will be posted on our course Canvas page as they come up! These opportunities are completely optional but give those who want to a chance to participate in a real study going on at the University.
 
-* **How do these bonus points get calculated into your grade?**  At the end of the semester, take your total bonus points (capped at 100) and divide them by 20. This will be how many percentage points get added to your grade! For example, if you have all 100 bonus points, you’d take 100 and divide it by 20 to get 5. So, if you have an 80% (B-) in the class, the bonus will bring you up to an 85% (B).  You may have more than 100 bonus points, but the max that will count will be 100.
+**How do these bonus points get calculated into your grade?**  At the end of the semester, take your total bonus points (capped at 100) and divide them by 20. This will be how many percentage points get added to your grade! For example, if you have all 100 bonus points, you’d take 100 and divide it by 20 to get 5. So, if you have an 80% (B-) in the class, the bonus will bring you up to an 85% (B).  You may have more than 100 bonus points, but the max that will count will be 100.
 
 ## Course Outline
 * **Study Design**: observational studies vs. randomized experiments, why randomized controls are key, confounders in observational studies, Simpson's Paradox, intent to treat analysis, etc.

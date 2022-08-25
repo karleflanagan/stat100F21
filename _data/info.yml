@@ -138,10 +138,18 @@ exams:
   conflict: >-
     <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul></span>
 
-- name: "Final"
+- name: "Section L1 Final"
   base-name: "Final"
-  date: "L1: Friday December 16th, ONL: TBA"
-  time: "L1: 1:30-4:30pm, ONL: TBA"
+  date: "Friday December 16th"
+  time: "1:30-4:30pm"
+  content: "Chapters 1-24"
+  locations: ""
+  show-finals: T
+
+- name: "Section ONL Final"
+  base-name: "Final"
+  date: "TBA"
+  time: "TBA"
   content: "Chapters 1-24"
   locations: ""
   show-finals: T
