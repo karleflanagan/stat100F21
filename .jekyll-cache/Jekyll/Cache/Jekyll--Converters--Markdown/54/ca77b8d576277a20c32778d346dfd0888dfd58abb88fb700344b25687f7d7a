@@ -1,77 +1,4 @@
-<html lang="en">
-  <head>
-    <meta name="keywords" content="Statistics, Stat 100">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta http-equiv="Cache-control" content="no-cache, must-revalidate">
-
-    <title>STAT 100</title>
-
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="stylesheet" href="/assets/css/fixed.css">
-    <link rel="icon"  type="image/png" href="/assets/img/I.png" type="image/x-icon">
-  </head>
-
-  <body>
-
-    <!-- Start of Top Navigation Bar -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-  <a class="navbar-logo" href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="/assets/img/I.png"><img src="/assets/img/stat100.png"></a>
-
-<!-- index.html -->
-
-  <!-- <ul class="navbar-nav ml-auto">
-    <li class="nav-item">
-      <a class="nav-link" href="course.html">Course</a>
-    </li>
-  </ul> -->
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-
-  <div class="collapse navbar-collapse" id="navbarResponsive">
-    <ul class="navbar-nav ml-auto">
-      <li class="nav-item">
-        <a class="nav-link" href="/">Home</a>
-      </li>
-      <!--<li class="nav-item">
-        <a class="nav-link" href="/pages/grade_calc.html">Grade Calculator</a>
-      </li>-->
-      <li class="nav-item">
-        <a class="nav-link" href="/pages/staff.html">Staff</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/pages/syllabus.html">Syllabus</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/pages/calendar.html">Calendar</a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Exams</a>
-        <div class="dropdown-menu">
-          <a class="dropdown-item" href="/pages/exam_schedule.html">Exam Schedule</a>
-          <a class="dropdown-item" href="/pages/practice_exams.html">Practice Exams</a>
-          <a class="dropdown-item" href="/pages/exam_answers.html">Exam Answers</a>
-          <a class="dropdown-item" href="https://www.youtube.com/watch?v=wpV-gGA4PSk">Secret</a>
-        </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/pages/office_hour.html">Office Hours</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/pages/faqs.html">FAQs</a>
-      </li>
-    </ul>
-  </div>
-</nav>
-<!-- End of Top Navigation Bar -->
-
-
-    <div class="fixed-background" style="margin-top:-5px; height:275px;">
+I"�<div class="fixed-background" style="margin-top:-5px; height:275px;">
   <div class="row dark text-center" style="height:275px;">
     <div class="col-12 text-center">
       <h3 class="heading">About Us</h3>
@@ -167,16 +94,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -194,16 +111,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -315,16 +222,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -389,16 +286,6 @@
       
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -411,16 +298,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -494,7 +371,7 @@
               <div class="feature">
                 <button type="button" class="btn" data-toggle="collapse" data-target="#kflan"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
                 <div id="kflan" class="collapse">
-                  <p style="padding-top: 2em;">Hi everyone! My name is Karle and I'm the instructor this course. I've always loved math, statistics, and education. Teaching Stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br /><br /> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.</p>
+                  <p style="padding-top: 2em;">Hi everyone! My name is Karle and I'm one of the stat 100 instructors. I've always loved math, statistics, and education. Teaching stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br /><br /> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.</p>
                 </div>
               </div>
             </div>
@@ -558,16 +435,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -632,175 +499,7 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -928,16 +627,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -949,6 +638,60 @@
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
   
     
     
@@ -1048,91 +791,7 @@
     
     
     
-  
-    
-    
-    
-    
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -1182,16 +841,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -1304,16 +953,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -1331,16 +970,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -1452,16 +1081,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -1526,16 +1145,6 @@
       
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -1548,16 +1157,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -1676,16 +1275,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -1750,175 +1339,7 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -2046,16 +1467,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -2067,6 +1478,60 @@
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
   
     
     
@@ -2166,91 +1631,7 @@
     
     
     
-  
-    
-    
-    
-    
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -2300,16 +1681,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -2361,16 +1732,6 @@
 
 
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -2498,16 +1859,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -2537,16 +1888,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -2650,16 +1991,6 @@
       
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -2726,16 +2057,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -2743,16 +2064,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -2876,179 +2187,7 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -3180,16 +2319,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -3201,6 +2330,62 @@
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
   
     
     
@@ -3302,95 +2487,9 @@
     
     
     
-  
-    
-    
-    
-    
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -3484,16 +2583,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
 
         
@@ -3503,16 +2592,6 @@
 
 
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -3640,16 +2719,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -3679,16 +2748,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -3792,16 +2851,6 @@
       
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -3868,16 +2917,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -3885,16 +2924,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -4018,179 +3047,7 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -4322,16 +3179,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -4343,6 +3190,62 @@
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
   
     
     
@@ -4444,95 +3347,9 @@
     
     
     
-  
-    
-    
-    
-    
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -4584,16 +3401,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -4706,16 +3513,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -4735,16 +3532,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -4875,16 +3662,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -4949,16 +3726,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
 
@@ -5044,16 +3811,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -5061,16 +3818,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -5194,196 +3941,7 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-          <div class="col-xl-3 col-sm-6 mb-5">
-            <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="/assets/img/staff-photos/janagel2.jpg" onerror="this.src='/assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-3 img-thumbnail shadow-sm" /></a>
-              <h5 class="mb-0">Julia Nagel</h5>
-              <h6 class="mb-0">Course Assistant</h6>
-              
-                <h6 class="mb-0"><i>Statistics</i></h6>
-              
-              
-              <div class="feature">
-                <button type="button" class="btn" data-toggle="collapse" data-target="#janagel2"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
-                <div id="janagel2" class="collapse">
-                  <p style="padding-top: 2em;">Hi my name is Julia! I’m a second year masters student in Statistics. One of the reasons I decided to major in statistics was because of taking Stat 100 with Karle during undergrad. I love math, statistics and teaching and I can’t wait to work with all of you this semester! In my free time I love spending time with my friends, trying new places to eat, and being outdoors. (Champaign weather permitting!)</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -5515,16 +4073,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -5536,6 +4084,62 @@
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
   
     
     
@@ -5637,95 +4241,9 @@
     
     
     
-  
-    
-    
-    
-    
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -5819,16 +4337,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
 
         
@@ -5838,16 +4346,6 @@
 
 
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -5975,16 +4473,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -6014,16 +4502,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -6127,16 +4605,6 @@
       
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -6203,16 +4671,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -6220,16 +4678,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -6353,179 +4801,7 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -6657,16 +4933,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -6678,6 +4944,62 @@
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
   
     
     
@@ -6779,95 +5101,9 @@
     
     
     
-  
-    
-    
-    
-    
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -6961,16 +5197,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
 
         
@@ -6980,16 +5206,6 @@
 
 
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -7134,16 +5350,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -7173,16 +5379,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -7286,16 +5482,6 @@
       
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -7362,16 +5548,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -7379,16 +5555,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -7512,179 +5678,7 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -7816,16 +5810,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -7837,6 +5821,62 @@
     
     
     
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+
   
     
     
@@ -7938,95 +5978,9 @@
     
     
     
-  
-    
-    
-    
-    
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -8137,16 +6091,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
 
         
@@ -8156,16 +6100,6 @@
 
 
 
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
   
     
     
@@ -8293,16 +6227,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -8332,16 +6256,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -8462,16 +6376,6 @@
       
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -8538,16 +6442,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -8555,16 +6449,6 @@
     
     
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -8705,16 +6589,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -8798,185 +6672,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-      
-    
-  
-
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
-    
-      
-        
-          <div class="col-xl-3 col-sm-6 mb-5">
-            <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="/assets/img/staff-photos/rinke2.jpg" onerror="this.src='/assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-3 img-thumbnail shadow-sm" /></a>
-              <h5 class="mb-0">Ky Rinke</h5>
-              <h6 class="mb-0">Course Assistant</h6>
-              
-                <h6 class="mb-0"><i>Interdisciplinary Psychology</i></h6>
-              
-              
-              <div class="feature">
-                <button type="button" class="btn" data-toggle="collapse" data-target="#rinke2"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
-                <div id="rinke2" class="collapse">
-                  <p style="padding-top: 2em;">Hi everyone! My name is Ky and I am a Junior studying Interdisciplinary Psychology with minors in Spanish and Social Work. Stat 100 was one of the best classes I've taken here at UIUC, so I am excited to be a part of the course staff to help you all learn and hopefully love this course too! In my free time I love to hang out with my friends to play Nintendo Switch games or go out for coffee, work out, and listen to music!</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        
-      
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -9028,16 +6723,6 @@
           </div>
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -9153,16 +6838,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -9224,16 +6899,6 @@
           </div>
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -9339,16 +7004,6 @@
     
     
   
-    
-    
-    
-    
-  
-    
-    
-    
-    
-  
 
   
     
@@ -9373,16 +7028,6 @@
       
         
       
-    
-  
-    
-    
-    
-    
-  
-    
-    
-    
     
   
     
@@ -9431,40 +7076,4 @@
     </div>
   </div>
 </div>
-
-
-
-    <footer>
-  <div class="row justify-content-center">
-    <div class="col-md-5 text-center">
-      <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="/assets/img/I.png"><img src="/assets/img/stat100.png"></a>
-      <p>We are dedicated to helping students on the U of I campus learn and understand basic statistical concepts so they can understand and make sense of things that are interesting or important to them.</p>
-      <strong>Contact Us</strong>
-      <p>
-        
-          <a href="mailto:stat100@illinois.edu">Email Karle Flanagan</a><br>
-        
-      </p>
-
-      <strong>Visit Us</strong><br>
-      
-        <a href="https://illinois.edu" target="_blank">University of Illinois at Urbana-Champaign</a><br>
-      
-        <a href="https://stat.illinois.edu" target="_blank">Department of Statistics</a><br>
-      
-        <a href="https://www.youtube.com/channel/UCJfmPc8InilkUnR_hwVniKA" target="_blank"><i class="fab fa-youtube" style="height:17px;"></i> Stat 100 Youtube</a><br>
-      
-
-    </div>
-    <hr class="socket">
-    <span style="padding: 0 10px;">&copy; University of Illinois Board of Trustees  |  Developed and Maintained by <a href="https://wjonasreger.github.io/website/" target="_blank">W. Jonas Reger</a>.</span>
-  </div>
-</footer>
-
-
-  	<script src="https://use.fontawesome.com/releases/v5.5.0/js/all.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
-  </body>
-</html>
+:ET
