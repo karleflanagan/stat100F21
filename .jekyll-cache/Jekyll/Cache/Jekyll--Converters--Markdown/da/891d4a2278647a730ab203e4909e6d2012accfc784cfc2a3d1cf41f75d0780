@@ -1,4 +1,4 @@
-I"	,<div class="calendar-head">
+I"Ý,<div class="calendar-head">
   <h1 style="text-align:center;">
     Calendar Fall 2022: STAT 100 All Sections
   </h1>
@@ -100,8 +100,8 @@ Color Key: Red-Required Work, Blue-Optional Work
     <td><b><p class="conf">Exam 1 Conflict Sign-Up Due</p></b><p class="prel">Chapter 5 Prelecture Due</p></td>
     <td><p class="hw">HW Assignment 5 Due</p></td>
     <td><b><p class="exam">Exam 1 at 7pm</p></b></td>
-    <td><p>No Classes! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></p></td>
     <td></td>
+    <td><p>No Classes! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></p></td>
   </tr>
   <tr>
     <td style="line-height:1px;margin:0;"></td>
@@ -178,7 +178,7 @@ Color Key: Red-Required Work, Blue-Optional Work
     <td><p class="hw">HW Assignment 11 Due</p></td>
     <td><b><p class="exam">Exam 2 at 7pm</p></b></td>
     <td></td>
-    <td></td>
+    <td><p>No Classes! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></p></td>
   </tr>
   <tr>
     <td style="line-height:1px;margin:0;"></td>
@@ -255,7 +255,7 @@ Color Key: Red-Required Work, Blue-Optional Work
     <td><p class="hw">HW Assignment 17 Due</p><p>Election Day</p></td>
     <td><b><p class="exam">Exam 3 at 7pm</p></b></td>
     <td></td>
-    <td><p>Veteran's Day</p></td>
+    <td><p>No Classes! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></p></td>
   </tr>
   <tr>
     <td style="line-height:1px;margin:0;"></td>
@@ -348,7 +348,7 @@ Color Key: Red-Required Work, Blue-Optional Work
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td><b><p class="exam">Section L1 Final from 1:30-4:30pm</p></b></td>
   </tr>
   </table>
   

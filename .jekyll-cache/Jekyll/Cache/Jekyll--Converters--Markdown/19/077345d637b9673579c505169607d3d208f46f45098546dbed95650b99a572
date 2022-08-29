@@ -1,3 +1,19 @@
+I"¸,<div class="calendar-head">
+  <h1 style="text-align:center;">
+    Calendar Fall 2022: STAT 100 All Sections
+  </h1>
+  <h3 style="text-align:center;">
+    Color Key: <span style="color:red;">Red-Required Work</span>, <span style="color:blue;">Blue-Optional Work</span>
+  </h3>
+  <h4 style="margin-bottom:30px;text-align:center;">
+    Everything is due at 11:59pm
+  </h4>
+  <br />
+</div>
+<!-- Calendar Fall 2019: Stat 100 (All Sections)
+Color Key: Red-Required Work, Blue-Optional Work
+*Everything is due at 11:59pm -->
+
 <div class="table-responsive">
   <h3 style="text-align: center;">August</h3>
   <div class="heading-underline"></div>
@@ -64,8 +80,8 @@
     <td><p class="date">09</p></td>
   </tr>
   <tr>
-    <td><b>Week 3: Chapters 3-5</b>(Histograms, Avg, Median, SD, & Normal Curve)</td>
-    <td><p>Labor Day <a href="{{ site.data.info.rickroll }}">&#128296;</a></p></td>
+    <td><b>Week 3: Chapters 3-5</b>(Histograms, Avg, Median, SD, &amp; Normal Curve)</td>
+    <td><p>Labor Day <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128296;</a></p></td>
     <td><p class="hw">HW Assignment 3 Due</p></td>
     <td><p class="prel">Chapter 3 Prelecture Due</p></td>
     <td></td>
@@ -85,7 +101,7 @@
     <td><p class="hw">HW Assignment 5 Due</p></td>
     <td><b><p class="exam">Exam 1 at 7pm</p></b></td>
     <td></td>
-    <td><p>No Classes! <a href="{{ site.data.info.rickroll }}">&#128522;</a></p></td>
+    <td><p>No Classes! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></p></td>
   </tr>
   <tr>
     <td style="line-height:1px;margin:0;"></td>
@@ -96,7 +112,7 @@
     <td><p class="date">23</p></td>
   </tr>
   <tr>
-    <td><b>Week 5: Chapters 6-7</b>(Boxplots & Correlation)</td>
+    <td><b>Week 5: Chapters 6-7</b>(Boxplots &amp; Correlation)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -112,7 +128,7 @@
     <td><p class="date">30</p></td>
   </tr>
   <tr>
-    <td><b>Week 6: Chapters 8-10</b>(Regression & RMSE)</td>
+    <td><b>Week 6: Chapters 8-10</b>(Regression &amp; RMSE)</td>
     <td></td>
     <td><p class="hw">HW Assignment 7 Due</p></td>
     <td><p class="prel">Chapter 8 Prelecture Due</p></td>
@@ -162,7 +178,7 @@
     <td><p class="hw">HW Assignment 11 Due</p></td>
     <td><b><p class="exam">Exam 2 at 7pm</p></b></td>
     <td></td>
-    <td><p>No Classes! <a href="{{ site.data.info.rickroll }}">&#128522;</a></p></td>
+    <td><p>No Classes! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></p></td>
   </tr>
   <tr>
     <td style="line-height:1px;margin:0;"></td>
@@ -173,7 +189,7 @@
     <td><p class="date">21</p></td>
   </tr>
   <tr>
-    <td><b>Week 9: Chapters 13-15</b>(EV, SE, & Random Variables)</td>
+    <td><b>Week 9: Chapters 13-15</b>(EV, SE, &amp; Random Variables)</td>
     <td></td>
     <td></td>
     <td><p class="prel">Chapter 13 Prelecture Due</p></td>
@@ -189,7 +205,7 @@
     <td><p class="date">28</p></td>
   </tr>
   <tr>
-    <td><b>Week 10: Chapters 15-16</b>(Box Models & Probability Histograms)</td>
+    <td><b>Week 10: Chapters 15-16</b>(Box Models &amp; Probability Histograms)</td>
     <td><p class="prel">Chapter 15 Prelecture Due</p></td>
     <td><p class="hw">HW Assignment 13 Due</p></td>
     <td></td>
@@ -218,7 +234,7 @@
     <td><p class="date">04</p></td>
   </tr>
   <tr>
-    <td><b>Week 11: Chapters 17-19</b>(Sampling & Inference)</td>
+    <td><b>Week 11: Chapters 17-19</b>(Sampling &amp; Inference)</td>
     <td><p>Halloween &#127875;</p></td>
     <td><p class="hw">HW Assignment 15 Due</p><p>Day of the Dead &#128128;</p></td>
     <td><p class="prel">Chapter 17 Prelecture Due</p></td>
@@ -239,7 +255,7 @@
     <td><p class="hw">HW Assignment 17 Due</p><p>Election Day</p></td>
     <td><b><p class="exam">Exam 3 at 7pm</p></b></td>
     <td></td>
-    <td><p>No Classes! <a href="{{ site.data.info.rickroll }}">&#128522;</a></p></td>
+    <td><p>No Classes! <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></p></td>
   </tr>
   <tr>
     <td style="line-height:1px;margin:0;"></td>
@@ -250,7 +266,7 @@
     <td><p class="date">18</p></td>
   </tr>
   <tr>
-    <td><b>Week 13: Chapters 20-22</b>(Hypothesis Testing: Z & t Tests)</td>
+    <td><b>Week 13: Chapters 20-22</b>(Hypothesis Testing: Z &amp; t Tests)</td>
     <td></td>
     <td></td>
     <td></td>
@@ -269,7 +285,7 @@
     <td><b>Week 14: Fall Break</b></td>
     <td><p>---</p></td>
     <td><p>---</p></td>
-    <td><p>FALL BREAK <a href="{{ site.data.info.rickroll }}">&#127810;</a></p></td>
+    <td><p>FALL BREAK <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#127810;</a></p></td>
     <td><p>---</p></td>
     <td><p>---</p></td>
   </tr>
@@ -337,3 +353,5 @@
   </table>
   
   </div>
+
+:ET

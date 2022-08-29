@@ -1,4 +1,4 @@
-I"+ô<div class="fixed-background" style="margin-top:-5px; height:275px;">
+I"ëî<div class="fixed-background" style="margin-top:-5px; height:275px;">
   <div class="row dark text-center" style="height:275px;">
     <div class="col-12 text-center">
       <h3 class="heading">About Us</h3>
@@ -421,7 +421,7 @@
               <div class="feature">
                 <button type="button" class="btn" data-toggle="collapse" data-target="#kflan"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
                 <div id="kflan" class="collapse">
-                  <p style="padding-top: 2em;">Hi everyone! My name is Karle and I'm one of the stat 100 instructors. I've always loved math, statistics, and education. Teaching stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br /><br /> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.</p>
+                  <p style="padding-top: 2em;">Hi everyone! My name is Karle and I'm the instructor this course. I've always loved math, statistics, and education. Teaching Stat 100 is the perfect job for me since I can help students from many different majors gain an appreciation for all 3.<br /><br /> A few other things about me: I'm a huge Illini fan- I went to school at UIUC, met my husband at UIUC, and now I work here. U of I is one of my favorite places in the world! I also enjoy spending time outside, playing piano, water skiing, snow skiing, and traveling.</p>
                 </div>
               </div>
             </div>
@@ -5279,23 +5279,6 @@
     
     
       
-        
-          <div class="col-xl-3 col-sm-6 mb-5">
-            <div class="staff-card bg-white rounded shadow-sm py-5 px-4"><a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><img src="/assets/img/staff-photos/janagel2.jpg" onerror="this.src='/assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-3 img-thumbnail shadow-sm" /></a>
-              <h5 class="mb-0">Julia Nagel</h5>
-              <h6 class="mb-0">Course Assistant</h6>
-              
-                <h6 class="mb-0"><i>Statistics</i></h6>
-              
-              
-              <div class="feature">
-                <button type="button" class="btn" data-toggle="collapse" data-target="#janagel2"><i class="fas fa-chevron-circle-down fa-2x"></i></button>
-                <div id="janagel2" class="collapse">
-                  <p style="padding-top: 2em;">Hi my name is Julia! Iâ€™m a second year masters student in Statistics. One of the reasons I decided to major in statistics was because of taking Stat 100 with Karle during undergrad. I love math, statistics and teaching and I canâ€™t wait to work with all of you this semester! In my free time I love spending time with my friends, trying new places to eat, and being outdoors. (Champaign weather permitting!)</p>
-                </div>
-              </div>
-            </div>
-          </div>
         
       
     
