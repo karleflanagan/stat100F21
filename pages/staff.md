@@ -23,6 +23,7 @@ layout: default
         {% include staff_cards.html role='Instructor' seniority='S19' %}
         {% include staff_cards.html role='Course Assistant' seniority='S19' %}
         {% include staff_cards.html role='Course Assistant' seniority='F19' %}
+        {% include staff_cards.html role='Course Assistant' seniority='S20' %}
         {% include staff_cards.html role='Course Assistant' seniority='F20' %}
         {% include staff_cards.html role='Course Assistant' seniority='F21' %}
         {% include staff_cards.html role='Course Assistant' seniority='S22' %}
