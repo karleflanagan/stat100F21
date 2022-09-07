@@ -93,7 +93,7 @@ exams:
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
-    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul></span>
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br></span>
 
 - name: "Exam 2"
   base-name: "Exam2"
@@ -113,7 +113,7 @@ exams:
   fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
-    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul></span>
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br></span>
 
 - name: "Exam 3"
   base-name: "Exam3"
@@ -133,7 +133,7 @@ exams:
   fourth: "F19" # notebook exam
   full4: "Fall 2019"
   conflict: >-
-    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul></span>
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br></span>
 
 - name: "Section L1 Final"
   base-name: "Final"
