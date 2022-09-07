@@ -80,7 +80,7 @@ exams:
   #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S22Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S22Exam1KeyB.pdf' target='_blank'>Version B</a> (STAT in the upper left hand corner)"
   date: "Wednesday Sept 14th"
   time: "7-8:30pm"
-  content: "Chapter 1-Chapter 5"
+  content: "Chapters 1 - 5"
   locations: ""
   show-exams: T
   # exam-years:
@@ -100,7 +100,7 @@ exams:
   #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyA.pdf' target='_blank'>Version A</a> (Spring in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyB.pdf' target='_blank'>Version B</a> (SPRING in the upper right hand corner)"
   date: "Wednesday October 12th"
   time: "7-8:30pm"
-  content: "Chapter 6-Chapter 12"
+  content: "Chapters 6 - 12"
   locations: ""
   show-exams: T
   # exam-years:
@@ -120,7 +120,7 @@ exams:
   #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyB.pdf' target='_blank'>Version B</a> (Statistics in the upper left hand corner)"
   date: "Wednesday November 9th"
   time: "7-8:30pm"
-  content: "Chapters 13-19"
+  content: "Chapters 13 - 19"
   locations: ""
   show-exams: T
   # exam-years:
