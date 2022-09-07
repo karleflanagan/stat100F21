@@ -35,9 +35,11 @@ title: Exam-Schedule
 {% if exam.base-name == 'Exam1' %}
 <h4><b>Locations: </b> {{ exam.locations }}</h4>
 {% include exam_schedule.html %}
-<h4><b>Conflict Exam:</b> {{ exam.conflict }}</b></h4>
+<h4><b>Conflict Exam: {{ exam.conflict }}</b></h4>
+    <ul>
     <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>A-L</b>: <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">Gregory Hall (Room 100)</a><br></li>
-    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>M-Z</b>: <a href="http://ada.fs.illinois.edu/0158.html" target="_blank">Bevier Hall (Room 180)</a><br></li></ul>
+    <li>Location for <b>ALL STUDENTS</b> with Last Names starting with <b>M-Z</b>: <a href="http://ada.fs.illinois.edu/0158.html" target="_blank">Bevier Hall (Room 180)</a><br></li>
+    </ul>
 {% endif %}
 {% endfor %}
 
