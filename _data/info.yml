@@ -141,7 +141,7 @@ exams:
   time: "1:30-4:30pm"
   content: "Chapters 1-24"
   locations: ""
-  show-finals: T
+  show-finals: FF
 
 - name: "Section ONL Final"
   base-name: "Final"
@@ -149,7 +149,7 @@ exams:
   time: "TBA"
   content: "Chapters 1-24"
   locations: ""
-  show-finals: T
+  show-finals: FF
 
 # final-exam-keys: ''
 # final-exam-content: 'The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b>'
@@ -201,7 +201,7 @@ links1:
 # Data program links
 links2:
 - title: "Data Analysis Program"
-  url: "http://dataprogram.stat.illinois.edu/"
+  url: "http://dataprogram.web.illinois.edu/"
   icon: "fas fa-chart-bar fa-2x"
 
 - title: "Simulations"
