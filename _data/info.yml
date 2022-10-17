@@ -7,10 +7,10 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 7 of Stat 100!</li>
+    <li>Welcome to Week 9 of Stat 100!</li>
     <ul>
-      <li>Exam 1 scores are posted in Canvas!</li>
-      <li>Stop by office hours any time this week if you need help.</li>
+      <li>Exam 2 scores are posted in Canvas!</li>
+      <li>Stop by office hours any time this week if you need help, want to pick up your exam, or don't have an exam score!</li>
       <ul>
         <li>Office hours are Mon-Fri from 2-5pm in 171 CAB.</li>
       </ul>
@@ -97,7 +97,7 @@ exams:
 
 - name: "Exam 2"
   base-name: "Exam2"
-  #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyA.pdf' target='_blank'>Version A</a> (Spring in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S22Exam2KeyB.pdf' target='_blank'>Version B</a> (SPRING in the upper right hand corner)"
+  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F22Exam2KeyA.pdf' target='_blank'>Version A</a> (Fall in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F22Exam2KeyB.pdf' target='_blank'>Version B</a> (FALL in the upper right hand corner)"
   date: "Wednesday October 12th"
   time: "7-8:30pm"
   content: "Chapters 6 - 12"
