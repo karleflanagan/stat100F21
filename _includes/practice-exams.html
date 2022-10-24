@@ -1,17 +1,11 @@
 {% assign exam_names = '' %}
 {% for exam in site.data.info.exams %}
   {% if exam.name != 'Final' %}
-    {% assign examNames = examNames | append: '_' | append: exam %}
+    {% assign examNames = examNames | append: '_' | append: exam.name %}
   {% endif %}
 {% endfor %}
 
 {% assign exam_array = examNames | split: '_' %}
-
-{{ exam_array }}
-
-{% for exam in site.data.info.exams %}
-{{ exam.name }}
-{% endfor %}
 
 
 {% for exam in site.data.info.exams %}
