@@ -7,6 +7,12 @@
 
 {% assign exam_array = examNames | split: '_' %}
 
+{{ exam_array }}
+
+{% for exam in site.data.info.exams %}
+{{ exam.name }}
+{% endfor %}
+
 
 {% for exam in site.data.info.exams %}
 
