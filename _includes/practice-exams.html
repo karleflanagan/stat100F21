@@ -8,7 +8,9 @@
 {% assign exam_array = examNames | split: '_' %}
 
 
-{% for exam in exam_array %}
+{% for exam in site.data.info.exams %}
+
+{% if exam_array contains exam %}
 
 <h2>{{ exam.name }}</h2>
 
@@ -84,5 +86,7 @@
     </tr>
   </table>
 </div>
+
+{% endif %}
 
 {% endfor %}
