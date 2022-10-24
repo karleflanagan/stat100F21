@@ -27,9 +27,16 @@ title: Exam-Schedule
 {% if exam_keys.size >= 1 %}
 <h4><b>Keys:</b> {{ exam.keys }}</h4>
 {% endif %}
+
+{% if exam.date != '' %}
 <h4><b>Date:</b> {{ exam.date }}</h4>
+{% endif %}
+{% if exam.time != '' %}
 <h4><b>Time: </b>{{ exam.time }}</h4>
+{% endif %}
+{% if exam.content != '' %}
 <h4><b>Covers: </b>{{ exam.content }}</h4>
+{% endif %}
 
 <!-- Insert Exam number (e.g. 'Exam1') -->
 {% if exam.base-name == 'Exam2' %}
