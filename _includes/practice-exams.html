@@ -1,6 +1,6 @@
 {% assign exam_names = '' %}
 {% for exam in site.data.info.exams %}
-  {% if exam != 'Final' %}
+  {% if exam.name != 'Final' %}
     {% assign examNames = examNames | append: '_' | append: exam %}
   {% endif %}
 {% endfor %}
@@ -10,7 +10,7 @@
 
 {% for exam in site.data.info.exams %}
 
-{% if exam_array contains exam %}
+{% if exam_array contains exam.name %}
 
 <h2>{{ exam.name }}</h2>
 
