@@ -1,4 +1,14 @@
+{% assign exam_names = '' %}
 {% for exam in site.data.info.exams %}
+  {% if exam != 'Final' %}
+    {% assign examNames = examNames | append: '_' | append: exam %}
+  {% endif %}
+{% endfor %}
+
+{% assign exam_array = examNames | split: '_' %}
+
+
+{% for exam in exam_array %}
 
 <h2>{{ exam.name }}</h2>
 
