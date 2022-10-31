@@ -22,15 +22,15 @@
     </tr>
     <tr>
       <td>
-        {% if site.data.info.show-finals == "T" %}
-        <a href="{{ site.baseurl }}/assets/docs/exams/Final/Final{{ site.data.info.final-years.second }}.pdf" target="\_blank">Practice Final {{ site.data.info.final-years.second }}</a>
+        {% if site.data.info.show-finals != "FF" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/Final/{{ site.data.info.final-years.second }}Final.pdf" target="\_blank">Practice Final {{ site.data.info.final-years.second }}</a>
         {% else %}
         <span style="color: #a9a9a9;">Practice Final {{ site.data.info.final-years.second }}</span>
         {% endif %}
       </td>
       <td>
-        {% if site.data.info.show-finals == "T" %}
-        <a href="{{ site.baseurl }}/assets/docs/exams/Final/FinalKey{{ site.data.info.final-years.second }}.pdf" target="\_blank">Practice Final Key {{ site.data.info.final-years.second }}</a>
+        {% if site.data.info.show-finals != "FF" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/Final/{{ site.data.info.final-years.second }}FinalKey.pdf" target="\_blank">Practice Final Key {{ site.data.info.final-years.second }}</a>
         {% else %}
         <span style="color: #a9a9a9;">Practice Final Key {{ site.data.info.final-years.second }}</span>
         {% endif %}
@@ -38,15 +38,15 @@
     </tr>
     <tr>
       <td>
-        {% if site.data.info.show-finals == "T" %}
-        <a href="{{ site.baseurl }}/assets/docs/exams/Final/Final{{ site.data.info.final-years.first }}.pdf" target="\_blank">Practice Final {{ site.data.info.final-years.first }}</a>
+        {% if site.data.info.show-finals != "FF" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/Final/{{ site.data.info.final-years.first }}Final.pdf" target="\_blank">Practice Final {{ site.data.info.final-years.first }}</a>
         {% else %}
         <span style="color: #a9a9a9;">Practice Final {{ site.data.info.final-years.first }}</span>
         {% endif %}
       </td>
       <td>
-        {% if site.data.info.show-finals == "T" %}
-        <a href="{{ site.baseurl }}/assets/docs/exams/Final/FinalKey{{ site.data.info.final-years.first }}.pdf" target="\_blank">Practice Final Key {{ site.data.info.final-years.first }}</a>
+        {% if site.data.info.show-finals != "FF" %}
+        <a href="{{ site.baseurl }}/assets/docs/exams/Final/{{ site.data.info.final-years.first }}FinalKey.pdf" target="\_blank">Practice Final Key {{ site.data.info.final-years.first }}</a>
         {% else %}
         <span style="color: #a9a9a9;">Practice Final Key {{ site.data.info.final-years.first }}</span>
         {% endif %}
