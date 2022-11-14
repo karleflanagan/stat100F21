@@ -19,9 +19,11 @@
       <li class="nav-item">
         <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
       </li>
-      <!--<li class="nav-item">
+      {% if site.data.info.grade-calc %}
+      <<li class="nav-item">
         <a class="nav-link" href="{{ site.baseurl }}/pages/grade_calc.html">Grade Calculator</a>
-      </li>-->
+      </li>
+      {% endif %}
       <li class="nav-item">
         <a class="nav-link" href="{{ site.baseurl }}/pages/staff.html">Staff</a>
       </li>
