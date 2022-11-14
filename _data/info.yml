@@ -7,10 +7,10 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 11 of Stat 100!</li>
+    <li>Welcome to Week 13 of Stat 100!</li>
     <ul>
-      <li>Exam 3 is on Wednesday Nov. 9th at 7pm!</li>
-      <li>Stop by office hours any time this week if you need help!</li>
+      <li>Exam 3 has been graded! If you don't have a grade in Canvas, let us know ASAP!</li>
+      <li>Stop by office hours any time this week if you need help or want to pick up your exam!</li>
       <ul>
         <li>Office hours are Mon-Fri from 2-5pm in 171 CAB.</li>
       </ul>
@@ -168,7 +168,7 @@ final-years:
 uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/"
 final-deadline: "December 8th (the last day of class) at 11:59pm!"
 
-grade-calc: FF
+grade-calc: 'T'
 
 pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
