@@ -82,7 +82,7 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
   * <b>Exam 2:</b> {{ site.data.info.exams[1].date }} from 7-8:30pm
   * <b>Exam 3:</b> {{ site.data.info.exams[2].date }} from 7-8:30pm
   * <b>Final for In Person Section L1:</b> Friday December 16th from 1:30-4:30pm
-  * <b>Final for Online Section ONL:</b> TBA
+  * <b>Final for Online Section ONL:</b> Wednesday December 14th from 1:30-4:30pm
 
 * For Exams 1-3, there will be a main conflict at 4:30pm on exam days!  You will be able to sign up for these on Lon Capa the week before.  All exams for both the in person and online sections will be in person.  If you are not on the UIUC campus, please contact us immediately to set something up.
 
