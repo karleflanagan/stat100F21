@@ -117,7 +117,7 @@ exams:
 
 - name: "Exam 3"
   base-name: "Exam3"
-  #keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/S22Exam3KeyB.pdf' target='_blank'>Version B</a> (Statistics in the upper left hand corner)"
+  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyB.pdf' target='_blank'>Version B</a> (Statistics in the upper left hand corner)"
   date: "Wednesday November 9th"
   time: "7-8:30pm"
   content: "Chapters 13 - 19"
