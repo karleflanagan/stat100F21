@@ -1,4 +1,4 @@
-I"ù<h1>STAT 100 Fall 2022 Exam Schedule</h1>
+I"§<h1>STAT 100 Fall 2022 Exam Schedule</h1>
 <h4><b style="color:red;">Important Info:</b>
 <ul>
     <li>All Stat 100 Exams for all sections (both in person and online sections) will be in person unless the university changes to online. Plan on coming in person!</li>
@@ -36,6 +36,8 @@
 <!-- Insert Exam number (e.g. 'Exam1') -->
 
 <h2>STAT 100 Exam 3</h2>
+
+<h4><b>Keys:</b> <a href="https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyA.pdf" target="_blank">Version A</a> (Fall 2022 in the upper left hand corner) and <a href="https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyB.pdf" target="_blank">Version B</a> (FALL 2022 in the upper left hand corner)</h4>
 
 <h4><b>Date:</b> Wednesday November 9th</h4>
 
@@ -119,15 +121,23 @@ The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
             <td>Karle's In Person Section (L1) -- final is taken in person </td>
             <td>Friday December 16th</td>
             <td>1:30pm - 4:30pm</td>
-            <td>TBA</td>
+            <td>Last Names A-Ma: Lincoln Hall Theater
+              <br /><br />Last Names Mc-Z: 100 Noyes
+            </td>
           </tr>
           <tr>
             <td>Karle's Online Section (ONL) -- final is taken in person </td>
             <td>Wednesday December 14th</td>
             <td>1:30pm - 4:30pm</td>
-            <td>Foellinger Auditorium</td>
+            <td>Foellinger Auditorium<br />
+            Last Names A-L: Floor<br />Last Names M-Z: Balcony</td>
           </tr>
-          
+          <tr>
+            <td>Final Exam Conflict -- final is taken in person and you must be signed up to take this! </td>
+            <td>Thursday December 15th</td>
+            <td>1:30pm - 4:30pm</td>
+            <td>Lincoln Hall Theater</td>
+          </tr>
           
         </table>
 
