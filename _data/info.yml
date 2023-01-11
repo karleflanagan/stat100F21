@@ -7,14 +7,15 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to the last week of Stat 100!</li>
+    <li>Welcome to Stat 100!</li>
     <ul>
-      <li>Final Exam dates are posted here on our website!</li>
-      <li>Stop by office hours any time this week for help! This is the last week of office hours.</li>
+      <li>We are super excited to have you in class this semester!</li>
+      <li>Look for an email on 1/13 with details about the first week of classes.</li>
+      <li>If you have any questions, please email me at:.</li>
       <ul>
-        <li>Office hours are Mon-Fri from 2-5pm in 171 CAB.</li>
+        <li>stat100@illinois.edu</li>
       </ul>
-      <li>Thanks for an AMAZING semester!</li>
+      <li>Looking forward to an AMAZING semester!</li>
     </ul>
   </ul>
   </p>
@@ -31,12 +32,12 @@ instructors:
   email: "stat100@illinois.edu"
 
 sections:
-- name: "L1"
+- name: "L2"
   type: "In Person"
   instructor: "Karle Flanagan"
-  times: "Mon/Wed/Fri from 12:00PM-12:50PM."
+  times: "Mon/Wed/Fri from 10:00AM-10:50AM."
   location: "Lincoln Hall Theater."
-- name: "ONL"
+- name: "O1"
   type: "Online"
   instructor: "Karle Flanagan"
   times: "Asynchronous lecture videos on <a href='http://canvas.illinois.edu/' target='_blank'>Canvas</a>."
@@ -59,7 +60,7 @@ office-hours:
 # Course Materials
 textbook:
   name: "Stat 100 Incomplete Lecture Notes Workbook"
-  edition: "Please make sure to get the teal Fall 2022 version Published by Stipes"
+  edition: "Please make sure to get the navy blue Spring 2023 version Published by Stipes"
   authors: "Ellen Fireman, Karle Flanagan, and John Marden"
   price: "$35"
 
@@ -77,7 +78,7 @@ exams:
 - name: "Exam 1"
   base-name: "Exam1"
   keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F22Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F22Exam1KeyB.pdf' target='_blank'>Version B</a> (Stats in the upper left hand corner)"
-  date: "Wednesday Sept 14th"
+  date: "Wednesday Feb. 8th"
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
   locations: ""
@@ -97,7 +98,7 @@ exams:
 - name: "Exam 2"
   base-name: "Exam2"
   keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F22Exam2KeyA.pdf' target='_blank'>Version A</a> (Fall in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F22Exam2KeyB.pdf' target='_blank'>Version B</a> (FALL in the upper right hand corner)"
-  date: "Wednesday October 12th"
+  date: "Wednesday March 8th"
   time: "7-8:30pm"
   content: "Chapters 6 - 12"
   locations: ""
@@ -117,7 +118,7 @@ exams:
 - name: "Exam 3"
   base-name: "Exam3"
   keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyA.pdf' target='_blank'>Version A</a> (Fall 2022 in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyB.pdf' target='_blank'>Version B</a> (FALL 2022 in the upper left hand corner)"
-  date: "Wednesday November 9th"
+  date: "Wednesday April 12th"
   time: "7-8:30pm"
   content: "Chapters 13 - 19"
   locations: ""
