@@ -82,7 +82,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
   locations: ""
-  show-exams: 'T'
+  show-exams: 'FF'
   # exam-years:
   first: "S22" # Most recent semester
   full1: "Spring 2022"
@@ -102,7 +102,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 6 - 12"
   locations: ""
-  show-exams: 'T'
+  show-exams: 'FF'
   # exam-years:
   first: "S22" # Most recent semester
   full1: "Spring 2022"
@@ -122,7 +122,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 13 - 19"
   locations: ""
-  show-exams: 'T'
+  show-exams: 'FF'
   # exam-years:
   first: "S22" # Most recent semester
   full1: "Spring 2022"
@@ -140,8 +140,8 @@ exams:
   date: ''
   time: ''
   content: ''
-  show-finals: 'T'
-  final-exam-keys: 'T'
+  show-finals: 'FF'
+  final-exam-keys: 'FF'
   final-exam-content: 'The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b>'
   # exam-years:
   first: "S12" # Most recent semester
@@ -168,7 +168,7 @@ final-years:
 uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/"
 final-deadline: "December 8th (the last day of class) at 11:59pm!"
 
-grade-calc: 'T'
+grade-calc: 'FF'
 
 pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
