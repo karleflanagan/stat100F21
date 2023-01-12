@@ -11,7 +11,7 @@ announcements: >-
     <ul>
       <li>We are super excited to have you in class this semester!</li>
       <li>Look for an email on 1/13 with details about the first week of classes.</li>
-      <li>If you have any questions, please email me at:.</li>
+      <li>If you have any questions, please email me at:</li>
       <ul>
         <li>stat100@illinois.edu</li>
       </ul>
@@ -77,7 +77,7 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F22Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/F22Exam1KeyB.pdf' target='_blank'>Version B</a> (Stats in the upper left hand corner)"
+  keys: ""
   date: "Wednesday Feb. 8th"
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
@@ -97,7 +97,7 @@ exams:
 
 - name: "Exam 2"
   base-name: "Exam2"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F22Exam2KeyA.pdf' target='_blank'>Version A</a> (Fall in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/F22Exam2KeyB.pdf' target='_blank'>Version B</a> (FALL in the upper right hand corner)"
+  keys: ""
   date: "Wednesday March 8th"
   time: "7-8:30pm"
   content: "Chapters 6 - 12"
@@ -117,7 +117,7 @@ exams:
 
 - name: "Exam 3"
   base-name: "Exam3"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyA.pdf' target='_blank'>Version A</a> (Fall 2022 in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam3/F22Exam3KeyB.pdf' target='_blank'>Version B</a> (FALL 2022 in the upper left hand corner)"
+  keys: ""
   date: "Wednesday April 12th"
   time: "7-8:30pm"
   content: "Chapters 13 - 19"
@@ -166,9 +166,9 @@ final-years:
   second: "S12"
 
 uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/"
-final-deadline: "December 8th (the last day of class) at 11:59pm!"
+final-deadline: "May 3rd (the last day of class) at 11:59pm!"
 
-grade-calc: 'FF'
+grade-calc: 'F'
 
 pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
