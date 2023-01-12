@@ -168,7 +168,7 @@ final-years:
 uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/"
 final-deadline: "May 3rd (the last day of class) at 11:59pm!"
 
-grade-calc: 'F'
+grade-calc: 'false'
 
 pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
