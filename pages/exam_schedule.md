@@ -39,7 +39,7 @@ title: Exam-Schedule
 {% endif %}
 
 <!-- Insert Exam number (e.g. 'Exam1') -->
-{% if exam.base-name == 'Exam3' %}
+{% if exam.base-name == 'Exam_' %}
 <h4><b>Locations: </b> {{ exam.locations }}</h4>
 {% include exam_schedule.html %}
 <h4><b>Conflict Exam: {{ exam.conflict }}</b></h4>
@@ -61,8 +61,8 @@ See <b><a href="{{ site.data.info.uiucfinals }}" target="\_blank">Official Unive
 <li>
 The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 </li>
-</ul>-->
+</ul>
 
-{% include final-schedule.html %}
+{% include final-schedule.html %}-->
 
 
