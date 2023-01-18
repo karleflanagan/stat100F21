@@ -48,10 +48,10 @@ title: syllabus
 
 ## Course Materials
 * **Required Workbook: {{ site.data.info.textbook.name }} by {{ site.data.info.textbook.authors}}. {{ site.data.info.textbook.edition }}.**
-    1. Available at the Illini Union Bookstore for {{ site.data.info.textbook.price }} or online at **<a href="https://buy.stipes.com/products/uiuc-stat-100-fa22" target="_blank">Stipes</a>**.
+    1. Available at the Illini Union Bookstore for {{ site.data.info.textbook.price }} or online at **<a href="https://buy.stipes.com/products/uiuc-stat-100-sp23" target="_blank">Stipes</a>**.
     2. This notebook is the only thing that's required to purchase for Stat 100!
     3. You will use this notebook each week during class!<br>
-* **Required Non-Graphing Calculator:** You'll also need a non-graphing calculator for exams. Any calculator that can do basic operations and square roots will be fine. I recommend <b><a href="{{ site.data.info.calculator }}" target="\_blank">this one!</a></b> Graphing calculators (TI 83s, TI 84s, TI Nspires, etc.) are not allowed on exams.
+* **Required Calculator:** You'll also need a calculator for exams. Any calculator that can do basic operations and square roots will be fine. I recommend <b><a href="{{ site.data.info.calculator }}" target="\_blank">this one!</a></b> 
 * **Optional iClicker for In Person class only:** I will be doing iClicker questions for extra credit in the in person class each day. Online class- do not by an iClicker, you’ll get extra credit in other ways!
 
 ## Class Times
@@ -81,8 +81,8 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
   * <b>Exam 1:</b> {{ site.data.info.exams[0].date }} from 7-8:30pm
   * <b>Exam 2:</b> {{ site.data.info.exams[1].date }} from 7-8:30pm
   * <b>Exam 3:</b> {{ site.data.info.exams[2].date }} from 7-8:30pm
-  * <b>Final for In Person Section L1:</b> Friday December 16th from 1:30-4:30pm
-  * <b>Final for Online Section ONL:</b> Wednesday December 14th from 1:30-4:30pm
+  * <b>Final for In Person Section L1:</b> Friday May 12th from 1:30-4:30pm
+  * <b>Final for Online Section ONL:</b> TBD
 
 * For Exams 1-3, there will be a main conflict at 4:30pm on exam days!  You will be able to sign up for these on Lon Capa the week before.  All exams for both the in person and online sections will be in person.  If you are not on the UIUC campus, please contact us immediately to set something up.
 
@@ -100,29 +100,27 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
 ## Bonus Work
 **Bonus Points — You may earn between 0 and 100 Bonus Points.**
 **Everyone may earn between 0 and 100 Bonus Points.** Every bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you.  Bonus points are extra credit. Here’s how you can get them:
-  1. **Pre-Lecture bonus points (34.5 bonus points)**<br>
-  Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures. There are 23 prelectures and each is worth 1.5 bonus points.
+  1. **Pre-Lecture bonus points (23 bonus points)**<br>
+  Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures. There are 23 prelectures and each is worth 1 bonus point.
 
   2. **Lon Capa Surveys (25 bonus points)**<br>
   There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 5 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 5 points.
 
-  3. **iClicker Points (in person class only, 23 bonus points)**<br>
-  There are 46 classes this semester and each class is worth 0.5 bonus points.  You get the 0.5 point per class period if you answer all of the iClicker questions for that day.
+  3. **iClicker Points (in person class only, 22 bonus points)**<br>
+  There are 44 classes this semester and each class is worth 0.5 bonus points.  You get the 0.5 point per class period if you answer all of the iClicker questions for that day.
 
-  3. **Notebook Submission (25 points for the in person class, 48 points for the online classes)**<br>
+  4. **Notebook Submission (30 points for the in person class, 52 points for the online classes)**<br>
   We will look over your notebook at the final.  You’ll get full credit if you have all of the pages from lecture filled in.  You may skip all of the practice exams and summary pages.  If you’re missing more than 3 required pages, don’t bother to turn in the notebook because you will receive negative bonus points.  You will pick up the notebook at the end of the semester to keep forever.
 
-  3. **Freebie (1 bonus point)**<br>
-  Everyone will get 1 bonus point automatically for free just because <a href="{{ site.data.info.rickroll }}">&#128521;</a>
-
-  3. **Research Opportunities**<br>
+  5. **Research Opportunities**<br>
   There are usually a few research opportunities to participate in throughout the semester. The details will be posted on our course Canvas page as they come up! These opportunities are completely optional but give those who want to a chance to participate in a real study going on at the University.
 
 **How do these bonus points get calculated into your grade?**  At the end of the semester, take your total bonus points (capped at 100) and divide them by 20. This will be how many percentage points get added to your grade! For example, if you have all 100 bonus points, you’d take 100 and divide it by 20 to get 5. So, if you have an 80% (B-) in the class, the bonus will bring you up to an 85% (B).  You may have more than 100 bonus points, but the max that will count will be 100.
 
 ## Course Outline
-* **Study Design**: observational studies vs. randomized experiments, why randomized controls are key, confounders in observational studies, Simpson's Paradox, intent to treat analysis, etc.
-* **Descriptive Statistics**: mean, median, SD, histograms, box plots, normal curve, etc.
+* **Experimental Design**: observational studies vs. randomized experiments, why randomized controls are key, confounders in observational studies, Simpson's Paradox, intent to treat analysis, etc.
+* **Descriptive Statistics**: mean, median, SD, histograms, box plots, etc.
+* **The Normal Approximation**: normal curve, etc.
 * **Linear Regression**: correlation coefficient, simple linear regression, the RMSE, etc.
 * **Probability**: chance, multiplication rule, addition rule, conditional probability, Bayes rule, etc.
 * **Statistics for Random Variables**: expected value and standard error of chance processes, probability histograms and the Central Limit Theorem, developing simple chance models box models that more complicated sampling processes can be translated into, the Law of Averages, etc.
