@@ -66,6 +66,7 @@ All students are either enrolled in the in person section of Stat 100 OR the onl
 
 ## Office Hours
 * <b>{{ site.short-title }} Office Hours</b> will be offered each week {{ site.data.info.office-hours.days }} from {{ site.data.info.office-hours.times }} in the {{ site.data.info.office-hours.location }}
+* We also have online office hours Monday and Wednesday evenings from 8-10pm on zoom! 
 * Feel free to stop by anytime for help. Karle and the Stat 100 CAs will be there to answer any questions you may have about the course, assignments, or anything you need. If you are unavailable during these times and want to meet, send us an email at <a href="mailto:{{ site.data.info.main-email }}">{{ site.data.info.main-email }}</a> and we will set up a time!
 
 ## Technical Issues
