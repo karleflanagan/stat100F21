@@ -85,7 +85,7 @@ exams:
   date: "Wednesday Feb. 8th"
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
-  locations: ""
+  locations: "T"
   show-exams: 'T'
   # exam-years:
   first: "F22" # Most recent semester
