@@ -92,9 +92,9 @@ exams:
   full1: "Fall 2022"
   second: "S22"
   full2: "Spring 2022"
-  third: "S22"
+  third: "F21"
   full3: "Fall 2021"
-  fourth: "F21" # notebook exam
+  fourth: "S20" # notebook exam
   full4: "Spring 2020"
   conflict: >-
     <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br></span>
