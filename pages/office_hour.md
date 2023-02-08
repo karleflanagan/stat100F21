@@ -45,7 +45,7 @@ title: office-hour
     <tr>
       <td><b>Tuesdays</b></td>
       <td><b>In Person:</b> 2:00-5:00 PM<br><b>Online:</b> 8-10pm</td>
-      <td><b>In Person:</b> <a href="http://ada.fs.illinois.edu/0108.html" target="_blank">Computer Applications Building (Room 171)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></a></td>
+      <td><b>In Person:</b> <a href="http://ada.fs.illinois.edu/0108.html" target="_blank">Computer Applications Building (Room 171)</a><br><b>Online:</b> <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom</a></td>
     </tr>
     <tr>
       <td><b>Wednesdays</b></td>
