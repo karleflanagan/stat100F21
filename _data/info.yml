@@ -82,7 +82,7 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
-  keys: ""
+  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S23Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S23Exam1KeyB.pdf' target='_blank'>Version B</a> (Stas in the upper left hand corner)"
   date: "Wednesday Feb. 8th"
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
