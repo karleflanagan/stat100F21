@@ -10,7 +10,7 @@ announcements: >-
     <li>Welcome to Week 6 of Stat 100!</li>
     <ul>
       <li>This week we will continue our discussion of correlation and simple linear regression!</li>
-      <li>Stop by our office hours if you have questions! We have <a href="{{ site.baseurl }}/pages/office_hour.html">office hours</a> at the usual times this week :)</li>
+      <li>Stop by our office hours if you have questions! We have <a href="https://stat100website.web.illinois.edu/pages/office_hour.html">office hours</a> at the usual times this week :)</li>
       <li>You can pick up your exam at office hours on Monday and Tuesday!</li>
       <li>See my email about the change to Monday's class.</li>
       <li>As usual, if you have any questions, please email me at:</li>
