@@ -7,15 +7,12 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 5 of Stat 100!</li>
+    <li>Welcome to Week 6 of Stat 100!</li>
     <ul>
-      <li>This week we will start Exam 2 material!</li>
-      <li>Stop by our office hours if you have questions! We have in person office hours Mon-Fri from 2-5pm in 171 CAB (located on 6th and Springfield).</li>
-      <li>We also have online office hours Monday, Tuesday, and Wednesday evening this week from 8-10pm on zoom!</li>
-      <ul>
-        <li>See the Office Hours tab for the zoom link.</li>
-      </ul>
-      <li>Exam Grades will posted Monday evening and exams will be available to pick up any time this week at office hours!</li>
+      <li>This week we will continue our discussion of correlation and simple linear regression!</li>
+      <li>Stop by our office hours if you have questions! We have <a href="{{ site.baseurl }}/pages/office_hour.html">office hours</a> at the usual times this week :)</li>
+      <li>You can pick up your exam at office hours on Monday and Tuesday!</li>
+      <li>See my email about the change to Monday's class.</li>
       <li>As usual, if you have any questions, please email me at:</li>
       <ul>
         <li>stat100@illinois.edu</li>
