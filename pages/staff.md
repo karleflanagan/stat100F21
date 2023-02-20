@@ -28,6 +28,7 @@ layout: default
         {% include staff_cards.html role='Course Assistant' seniority='F21' %}
         {% include staff_cards.html role='Course Assistant' seniority='S22' %}
         {% include staff_cards.html role='Course Assistant' seniority='F22' %}
+        {% include staff_cards.html role='Course Assistant' seniority='S23' %}
       </div>
     </div>
   </div>
