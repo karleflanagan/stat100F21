@@ -82,7 +82,7 @@ exams:
   date: "Wednesday Feb. 8th"
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
-  locations: "See table below!"
+  locations: ""
   show-exams: 'T'
   # exam-years:
   first: "F22" # Most recent semester
@@ -102,8 +102,8 @@ exams:
   date: "Wednesday March 8th"
   time: "7-8:30pm"
   content: "Chapters 6 - 12"
-  locations: ""
-  show-exams: 'FF'
+  locations: "See table below!"
+  show-exams: 'T'
   # exam-years:
   first: "F22" # Most recent semester
   full1: "Fall 2022"
