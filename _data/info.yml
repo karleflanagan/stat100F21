@@ -10,9 +10,7 @@ announcements: >-
     <li>Welcome to Week 8 of Stat 100!</li>
     <ul>
       <li>We have made it to the halfway point of the semester!</li>
-      <li>Exam 2 is this Wednesday March 8th from 7-8:30pm.</li>
-      <li>We have office hours Monday and Tuesday if you need help :)</li>
-      <li>Exam 2 scores will be posted by Friday.</li>
+      <li>Exam 2 scores are posted on Canvas!</li>
       <li>As usual, if you have any questions, please email me at:</li>
       <ul>
         <li>stat100@illinois.edu</li>
@@ -124,14 +122,14 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 13 - 19"
   locations: ""
-  show-exams: 'FF'
+  show-exams: 'T'
   # exam-years:
-  first: "S22" # Most recent semester
-  full1: "Spring 2022"
-  second: "F21"
-  full2: "Fall 2021"
-  third: "F18"
-  full3: "Fall 2018"
+  first: "F22" # Most recent semester
+  full1: "Fall 2022"
+  second: "S22"
+  full2: "Spring 2022"
+  third: "F21"
+  full3: "Fall 2021"
   fourth: "F19" # notebook exam
   full4: "Fall 2019"
   conflict: >-
