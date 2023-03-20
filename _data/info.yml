@@ -7,15 +7,16 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 8 of Stat 100!</li>
+    <li>Welcome to Week 10 of Stat 100!</li>
     <ul>
-      <li>We have made it to the halfway point of the semester!</li>
+      <li>Hope you had a nice, relaxing Spring Break!</li>
       <li>Exam 2 scores are posted on Canvas!</li>
+      <li>All scores have been posted so if you don't have a score, please stop by our in person office hours to get this fixed.</li>
       <li>As usual, if you have any questions, please email me at:</li>
       <ul>
         <li>stat100@illinois.edu</li>
       </ul>
-      <li>Hope you have a great week and an amazing Spring Break!</li>
+      
     </ul>
   </ul>
   </p>
@@ -77,7 +78,7 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
-  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S23Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S23Exam1KeyB.pdf' target='_blank'>Version B</a> (Stas in the upper left hand corner)"
+  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S23Exam1KeyA.pdf' target='_blank'>Version A</a> (Stat in the upper left hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam1/S23Exam1KeyB.pdf' target='_blank'>Version B</a> (Stats in the upper left hand corner)"
   date: "Wednesday Feb. 8th"
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
@@ -97,7 +98,7 @@ exams:
 
 - name: "Exam 2"
   base-name: "Exam2"
-  keys: ""
+  keys: "<a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S23Exam2KeyA.pdf' target='_blank'>Version A</a> (Spring 2023 in the upper right hand corner) and <a href='https://stat100website.web.illinois.edu/assets/docs/exams/Exam2/S23Exam2KeyB.pdf' target='_blank'>Version B</a> (SPRING 2023 in the upper right hand corner)"
   date: "Wednesday March 8th"
   time: "7-8:30pm"
   content: "Chapters 6 - 12"
