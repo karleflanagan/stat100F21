@@ -50,7 +50,7 @@ title: Exam-Schedule
 {% endif %}
 {% endfor %}
 
-<!-- <h2>Final Exam</h2>
+<!-- <h2>Final Exam</h2>-->
 <ul>
 <li>
  I use the final exam time assigned to our class by the university.<br>
@@ -63,6 +63,6 @@ The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 </li>
 </ul>
 
-{% include final-schedule.html %}-->
+{% include final-schedule.html %}
 
 
