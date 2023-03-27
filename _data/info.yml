@@ -7,11 +7,14 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 10 of Stat 100!</li>
+    <li>Welcome to Week 11 of Stat 100!</li>
     <ul>
-      <li>Hope you had a nice, relaxing Spring Break!</li>
+      <li>Office hours are at the usual time this week! See the office hours tab for details.</li>
       <li>Exam 2 scores are posted on Canvas!</li>
       <li>All scores have been posted so if you don't have a score, please stop by our in person office hours to get this fixed.</li>
+       <ul>
+        <li>The deadline to fix any grades and pick up your exam 2 is this Friday!</li>
+      </ul>
       <li>As usual, if you have any questions, please email me at:</li>
       <ul>
         <li>stat100@illinois.edu</li>
@@ -141,8 +144,8 @@ exams:
   date: ''
   time: ''
   content: ''
-  show-finals: 'FF'
-  final-exam-keys: 'FF'
+  show-finals: 'T'
+  final-exam-keys: 'T'
   final-exam-content: 'The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b>'
   # exam-years:
   first: "S12" # Most recent semester
