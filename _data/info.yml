@@ -7,14 +7,13 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 13 of Stat 100!</li>
+    <li>Welcome to Week 14 of Stat 100!</li>
     <ul>
-      <li>Exam 3 is this week on Wednesday at 7pm! Make sure to check the locations!</li>
-      <li>Office hours are only on Monday and Tuesday this week due to the exam.</li>
+      <li>Exam 3 grades will be posted on Tuesday!</li>
+      <li>Office hours are at the usual times this week</li>
        <ul>
-        <li>Office hours are from 2-5pm in person and 8-10pm on zoom both days!</li>
+        <li>Stop by to pick up your exam as soon as grades are posted!</li>
       </ul>
-
       <li>As usual, if you have any questions, please email me at:</li>
       <ul>
         <li>stat100@illinois.edu</li>
@@ -172,7 +171,7 @@ final-years:
 uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/"
 final-deadline: "May 3rd (the last day of class) at 11:59pm!"
 
-grade-calc: 'false'
+grade-calc: 'true'
 
 pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
