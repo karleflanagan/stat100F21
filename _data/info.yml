@@ -3,19 +3,12 @@
 
 # Weekly Announcements
 announcements: >-
-  <h2>Weekly Announcements</h2>
+  <h2>Fall 2023 STAT 100 details can be found on Canvas!</h2>
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>GOOD LUCK ON FINALS :) </li>
-    <ul>
-      <li>Grades will be posted before May 19th!</li>
-      <li>As usual, if you have any questions, please email me at:</li>
-      <ul>
-        <li>stat100@illinois.edu</li>
-      </ul>
-      <li>Have a great summer!</li>
-    </ul>
+    <li>https://canvas.illinois.edu
+    </li>
   </ul>
   </p>
 
@@ -81,7 +74,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 1 - 5"
   locations: ""
-  show-exams: 'T'
+  show-exams: 'FF'
   # exam-years:
   first: "F22" # Most recent semester
   full1: "Fall 2022"
@@ -101,7 +94,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 6 - 12"
   locations: "See table below!"
-  show-exams: 'T'
+  show-exams: 'FF'
   # exam-years:
   first: "F22" # Most recent semester
   full1: "Fall 2022"
@@ -121,7 +114,7 @@ exams:
   time: "7-8:30pm"
   content: "Chapters 13 - 19"
   locations: ""
-  show-exams: 'T'
+  show-exams: 'FF'
   # exam-years:
   first: "F22" # Most recent semester
   full1: "Fall 2022"
@@ -139,8 +132,8 @@ exams:
   date: ''
   time: ''
   content: ''
-  show-finals: 'T'
-  final-exam-keys: 'T'
+  show-finals: 'FF'
+  final-exam-keys: 'FF'
   final-exam-content: 'The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b>'
   # exam-years:
   first: "S12" # Most recent semester
@@ -167,7 +160,7 @@ final-years:
 uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/"
 final-deadline: "May 3rd (the last day of class) at 11:59pm!"
 
-grade-calc: 'T'
+grade-calc: 'FF'
 
 pr-exam-link: "https://karleflanagan.github.io/stat100F21/pages/practice_exams.html"
 
